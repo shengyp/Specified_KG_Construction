@@ -20,6 +20,10 @@ Table of Contents
 2. Chengyu Wang, Ming Cao, Xiaofeng He, Rong Zhang. [Challenges in Chinese Knowledge Graph Construction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545). ICDE 2015 Workshops. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545)
 
 
+3. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+
 ## General Knowledge Graph Construction
 1. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
 
