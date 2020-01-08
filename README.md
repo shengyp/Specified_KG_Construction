@@ -18,8 +18,11 @@ Table of Contents
 1. Chengyu Wang, Ming Cao, Xiaofeng He, Rong Zhang. [Challenges in Chinese Knowledge Graph Construction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545). ICDE 2015 Workshops. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545)
 
 
+2. Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang. [A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications](https://www.mdpi.com/2071-1050/10/9/3245/htm). sustainability 2018. [[Paper]](https://www.mdpi.com/2071-1050/10/9/3245/htm)
+
+
 ## General Knowledge Graph Construction
-1. Yongpan Sheng, Zenglin Xu, Yafang Wang, Xiangyu Zhang, Jia Jia, Zhonghui You and Gerard de Melo. [Visualizing Multi-Document Semantics via Open Domain Information Extraction](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10997-4_54.pdf). ECML-PKDD 2018. [[Paper]](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)
+1. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
 
 
 ## Specified Knowledge Graph Construction
