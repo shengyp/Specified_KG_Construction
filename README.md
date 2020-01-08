@@ -59,6 +59,7 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 4. Longxiang Shi, Shijian Li, Xiaoran Yang, Jiaheng Qi, Gang Pan, Binbin Zhou. [Semantic Health Knowledge Graph: Semantic Integration of Heterogeneous Medical Knowledge and Services](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf). BioMed Research International 2017. [[Paper]](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)
 
 
+5. Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, Zhong Su. [ArnetMiner: Extraction and Mining of Academic Social Networks](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf). KDD 2008. [[Paper]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf)
 
 
 
