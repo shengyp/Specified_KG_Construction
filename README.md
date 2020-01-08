@@ -40,10 +40,19 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 
 
 ## General Knowledge Graph Construction
-1. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+1. Bo Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Lihan Chen, Yanghua Xiao. [CN-DBpedia2: An Extraction and Verification Framework for Enriching Chinese Encyclopedia Knowledge Base](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf). Data Intelligence 2019. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf)
 
 
-2. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+2. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+
+
+3. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+
+
+4. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+
+
+4. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, and Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
 
 
 ## Specified Knowledge Graph Construction
