@@ -52,10 +52,15 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 4. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
 
 
-5. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+5. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
+Knowledge Vault: A Web-Scale Approach to
+Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf). KDD 2014. [[Paper]](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
 
 
-6. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, and Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+6. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+
+
+7. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, and Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
 
 
 ## Specified Knowledge Graph Construction
@@ -78,4 +83,8 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 
 
 7. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
+
+
+8. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
+
 
