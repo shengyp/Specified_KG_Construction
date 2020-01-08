@@ -33,36 +33,49 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 5. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
 
 
-6. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
-
-7. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+6. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
 
 
-8. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+7. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
+
+
+8. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+9. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
 ## General_Knowledge_Graph_Construction
 1. Bo Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Lihan Chen, Yanghua Xiao. [CN-DBpedia2: An Extraction and Verification Framework for Enriching Chinese Encyclopedia Knowledge Base](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf). Data Intelligence 2019. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf)
 
 
-2. Jose L. Martinez-Rodriguez, Ivan Lopez-Arevalo, Ana B.Rios-Alvarado. [OpenIE-based approach for Knowledge Graph construction from text](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client). Expert Systems With Applications 2018. [[Paper]](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client)
+2. Hailong Jin, Chengjiang Li, Jing Zhang, Lei Hou, Juanzi Li, Peng Zhang. [XLORE2: Large-scale Cross-lingual Knowledge Graph Construction and Application](https://www.mitpressjournals.org/doi/pdfplus/10.1162/dint_a_00003). Data Intelligence 2019. [[Paper]](https://www.mitpressjournals.org/doi/pdfplus/10.1162/dint_a_00003)
 
 
-3. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+3. Jose L. Martinez-Rodriguez, Ivan Lopez-Arevalo, Ana B.Rios-Alvarado. [OpenIE-based approach for Knowledge Graph construction from text](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client). Expert Systems With Applications 2018. [[Paper]](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client)
 
 
-4. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+4. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
 
 
-5. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
+5. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+
+
+6. Jiangang Zhu, Haofen Wang, Beijun Shen. [Software.zhishi.schema: A Software Programming Taxonomy Derived from Stackoverflow](http://ceur-ws.org/Vol-1486/paper_61.pdf). ISWC 2015. [[Paper]](http://ceur-ws.org/Vol-1486/paper_61.pdf)
+
+
+7. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
 Knowledge Vault: A Web-Scale Approach to
 Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf). KDD 2014. [[Paper]](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
 
 
-6. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+8. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/chapter/10.1007%2F978-3-319-15615-6_16). JIST 2014. [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-319-15615-6_16)
 
 
-7. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, and Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+9. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+
+
+10. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
 
 
 ## Specified_Knowledge_Graph_Construction
@@ -88,16 +101,19 @@ Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.p
 7. 蒋秉川, 万刚, 许剑, 李锋, 温荟琦. [多源异构数据的大规模地理知识图谱构建](paper/多源异构数据的大规模地理知识图谱构建.pdf). 测绘学报 2018 第8期. [[Paper]](paper/多源异构数据的大规模地理知识图谱构建.pdf)
 
 
-8. 阮彤, 孙程琳, 王昊奋, 方之家, 殷亦超. [中医药知识图谱构建与应用](paper/中医药知识图谱构建与应用_阮彤.pdf). 医学信息学杂志 2016年第37卷第4期. [[Paper]](paper/中医药知识图谱构建与应用_阮彤.pdf)
+8. 温雯, 伍思杰, 蔡瑞初, 郝志峰, 王丽娟. [KECVS: 一个面向专业文献知识实体的类型标注及可视化系统](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf). 计算机应用与软件 2017年第8期. [[Paper]](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf)
 
 
-9. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
+9. 阮彤, 孙程琳, 王昊奋, 方之家, 殷亦超. [中医药知识图谱构建与应用](paper/中医药知识图谱构建与应用_阮彤.pdf). 医学信息学杂志 2016年第37卷第4期. [[Paper]](paper/中医药知识图谱构建与应用_阮彤.pdf)
 
 
-10. 贾李蓉, 刘静, 于彤, 董燕, 朱玲, 高博, 刘丽. [中医药知识图谱构建](paper/中医药知识图谱构建_贾李蓉.pdf). 医学信息学杂志 2015年第36卷第8期. [[Paper]](paper/中医药知识图谱构建_贾李蓉.pdf)
+10. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
 
 
-11. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
+11. 贾李蓉, 刘静, 于彤, 董燕, 朱玲, 高博, 刘丽. [中医药知识图谱构建](paper/中医药知识图谱构建_贾李蓉.pdf). 医学信息学杂志 2015年第36卷第8期. [[Paper]](paper/中医药知识图谱构建_贾李蓉.pdf)
+
+
+12. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
 
 
 ## Tutorials
