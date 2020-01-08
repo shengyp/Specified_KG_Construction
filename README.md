@@ -10,7 +10,7 @@ Table of Contents
 
   * [Survey](#Survey)
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
-  * [Specified Knowledge Graph Construction](#Temporal_Relation_Extraction)
+  * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
   * [Tutorials](#Tutorials)
 
 
