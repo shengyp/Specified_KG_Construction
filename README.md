@@ -11,6 +11,7 @@ Table of Contents
   * [Survey](#Survey)
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Temporal_Relation_Extraction)
+  * [Tutorials](#Tutorials)
 
 
 
@@ -88,3 +89,5 @@ Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.p
 8. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
 
 
+## Tutorials
+Tutorial: Scalable construction of sustainable knowledge bases. [[ISWC 2019 Tutorial]](https://ottr.xyz/event/2019-10-267-iswc/)
