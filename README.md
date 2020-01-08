@@ -17,23 +17,26 @@ Table of Contents
 ## Survey
 1. Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang. [A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications](https://www.mdpi.com/2071-1050/10/9/3245/htm). sustainability 2018. [[Paper]](https://www.mdpi.com/2071-1050/10/9/3245/htm)
 
-2. Chengyu Wang, Ming Cao, Xiaofeng He, Rong Zhang. [Challenges in Chinese Knowledge Graph Construction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545). ICDE 2015 Workshops. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545)
+
+2. Longxiang Shi, Shijian Li, Xiaoran Yang, Jiaheng Qi, Gang Pan, Binbin Zhou
+Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang Liu, Yu Guo, Rongsheng Zhao, Ruicheng Ming, Huiming Wu. [TechKG: A Large-Scale Chinese Technology - Oriented Knowledge Graph](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf). Arxiv 2018. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf)
 
 
-3. Fabian M. Suchanek, Gerhard Weikum. [Knowledge Bases in the Age of Big Data Analytics](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf). VLDB 2014. [[Paper]](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf)
+3. Chengyu Wang, Ming Cao, Xiaofeng He, Rong Zhang. [Challenges in Chinese Knowledge Graph Construction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545). ICDE 2015 Workshops. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545)
 
 
-4. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
+4. Fabian M. Suchanek, Gerhard Weikum. [Knowledge Bases in the Age of Big Data Analytics](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf). VLDB 2014. [[Paper]](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf)
 
 
-5. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+5. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
 
 
 6. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
 
+7. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
-7. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
+8. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
 ## General Knowledge Graph Construction
