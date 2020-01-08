@@ -71,4 +71,4 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 5. Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, Zhong Su. [ArnetMiner: Extraction and Mining of Academic Social Networks](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf). KDD 2008. [[Paper]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf)
 
 
-
+6. 蒋秉川, 万刚, 许剑, 李锋, 温荟琦. [多源异构数据的大规模地理知识图谱构建](paper/多源异构数据的大规模地理知识图谱构建.pdf). 测绘学报 2018 第8期. [[Paper]](paper/多源异构数据的大规模地理知识图谱构建.pdf)
