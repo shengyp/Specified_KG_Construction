@@ -40,7 +40,7 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 8. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
-## General Knowledge Graph Construction
+## General_Knowledge_Graph_Construction
 1. Bo Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Lihan Chen, Yanghua Xiao. [CN-DBpedia2: An Extraction and Verification Framework for Enriching Chinese Encyclopedia Knowledge Base](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf). Data Intelligence 2019. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf)
 
 
@@ -64,7 +64,7 @@ Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.p
 7. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, and Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
 
 
-## Specified Knowledge Graph Construction
+## Specified_Knowledge_Graph_Construction
 1. Sheng Bi, Yanhui Huang, Xiya Cheng, Meng Wang, Guilin Qi. [Building Chinese Legal Hybrid Knowledge Network](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf). KSEM 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf)
 
 
@@ -90,4 +90,4 @@ Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.p
 
 
 ## Tutorials
-Tutorial: Scalable construction of sustainable knowledge bases. [[ISWC 2019 Tutorial]](https://ottr.xyz/event/2019-10-267-iswc/)
+1. Tutorial: Scalable construction of sustainable knowledge bases. [[ISWC 2019 Tutorial]](https://ottr.xyz/event/2019-10-267-iswc/)
