@@ -12,6 +12,7 @@ Table of Contents
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
   * [Tutorials](#Tutorials)
+  * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph)
 
 
 
@@ -91,3 +92,19 @@ Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.p
 
 ## Tutorials
 1. Tutorial: Scalable construction of sustainable knowledge bases. [[ISWC 2019 Tutorial]](https://ottr.xyz/event/2019-10-267-iswc/)
+
+2. 赵东岩. [知识图谱关键技术及其智能应用](tutorials/北京大学-赵东岩-知识图谱的关键技术及其智能应用.pdf)
+
+
+## Research_Report_of_Knowledge_Graph
+1. [Research Report of Knowledge Graph](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf). 2019年第2期. [[Report]](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf)
+
+
+2. [知识图谱标准化白皮书](report/知识图谱标准化白皮书_2019.pdf). 2019版. [[Report]](report/知识图谱标准化白皮书_2019.pdf)
+
+
+3. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf)
+
+
+
+
