@@ -9,6 +9,7 @@ Table of Contents
 =================
 
   * [Survey](#Survey)
+  * [Commonsense Knowledge Graph Construction](#Commonsense_Knowledge_Graph_Construction)
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
   * [Tutorials](#Tutorials)
@@ -43,6 +44,19 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 
 
 9. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+## Commonsense_Knowledge_Graph_Construction
+1. Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi. [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://arxiv.org/pdf/1811.00146.pdf). AAAI 2019. [[Paper]](https://arxiv.org/pdf/1811.00146.pdf)
+
+
+2. Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Qiang Dong, Maosong Sun, Zhendong Dong. [OpenHowNet: An Open Sememe-based Lexical Knowledge Base](https://arxiv.org/pdf/1811.00146.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1811.00146.pdf)
+
+
+3. Antoine Bosselut, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, Asli Celikyilmaz, Yejin Choi. [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/pdf/1906.05317.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1906.05317.pdf)
+
+
+4. Shane Storks, Qiaozi Gao, Joyce Y. Chai. [Commonsense Reasoning for Natural Language Understanding: A Survey of Benchemarks, Resources, and Approaches](https://arxiv.org/pdf/1904.01172.pdf). Recent Advances in Neural Language Inference: A Survey 2019. [[Paper]](https://arxiv.org/pdf/1904.01172.pdf)
 
 
 ## General_Knowledge_Graph_Construction
