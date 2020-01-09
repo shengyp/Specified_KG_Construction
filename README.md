@@ -48,8 +48,13 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 
 
 ## Eventic_Graph_Construction
+1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
 
 
+2. Zhongyang Li, Xiao Ding, Ting Liu. [Constructing Narrative Event Evolutionary Graph for Script Event Prediction](https://www.ijcai.org/proceedings/2018/0584.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/proceedings/2018/0584.pdf)
+
+
+3. Sendong Zhao, Quan Wang, Sean Massung, Bing Qin, Ting Liu, Bin Wang, ChengXiang Zhai. [Constructing and Embedding Abstract Event Causality Networks from Text Snippets](https://dl.acm.org/doi/pdf/10.1145/3018661.3018707?download=true). WSDM 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3018661.3018707?download=true)
 
 
 ## Commonsense_Knowledge_Graph_Construction
