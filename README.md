@@ -35,34 +35,37 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 5. Fabian M. Suchanek, Gerhard Weikum. [Knowledge Bases in the Age of Big Data Analytics](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf). VLDB 2014. [[Paper]](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf)
 
 
-6. Christian Bizer, Tom Heath, Tim Berners-Lee. [Linked Data - The Story So Far](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf). ijswis-special-issue 2009. [[Paper]](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf)
+6. Eduard Hovy, Roberto Navigli, Simone Paolo Ponzetto. [Collaboratively build semi-structured content and Artificial Intelligence: The story so far](https://pdf.sciencedirectassets.com/271585/1-s2.0-S0004370212X00110/1-s2.0-S0004370212001245/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFgaCXVzLWVhc3QtMSJGMEQCIElzzOqKXVR5cJp39Se5dhQrbhqJDqCkeYlOS0YiaLHFAiAa7vUiTU60m8WOYJZgjPe%2ByqYKT19ffh4vA%2BI762l1bCq9AwjR%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIMtJvsMz5HbO8UqPSRKpEDxr4nefT3%2B5czwy4piWYxzg6Nte7YuKy6OMbYfYiygVgeKxvZvtm5%2FsM0BACCYOD6a7z%2FAzvLxha91rzh1BPzjSZQUxz2rHYEVh2nw51%2F7zr1B%2BzFTnbrnIzQfVnm7ugVsBrelIPgwVPyIcOgcGlWdsysM2msqtyUtWsmdirujw%2BaBUZbSaP7DX8%2FYrNtiKaN8Os%2FVwwUYSJ8p%2B1beBj48yCjkOEWmYRyop7t%2Fm%2FnsECFRyz4n8W%2BksXDGZPk5xe1jCOxfVwNS8mk6fVFQL7gyiS42cYO19nZ0wF2YN4IpPIYbhh85mYnYRTDK%2B8%2FsA064zhIXTXSsU5VAqED%2FnGLSXTtCvi4IOWB%2FVKwf3RqlsxanPL9icuUz74%2BBRaL%2B%2BBElDnXhSKCGZ1tdbJeUQp4Rp3wsEtUAE%2BGiT70nkGobChf8iYbWw%2FLAcrpPZ%2B370neM010gh%2Bik8EevPG6h5rKbo7IeqKb6zhWh4zrCaDilwK6WOnLtVfNaEbz26u%2BuNdZjzxLOy2ycF8sYMtBTfX7kdMw2LPb8AU67AFHVtNXW%2BzQtw7%2FHdcMgwfPcWNi%2BNzLUvAiztK7Oh12BKeyHOp63vamP6bCcdZpykLbYs2rOwqeexq2TuGjBgdGnr2kfcJ5IKwPQ7gXTBZFpx7ljUP88i7jE9WUWYW6f77BgmmIMSixFMo4%2B2%2F6rYrxEwSV1kWTxPETZ0EG6RolCvFqZ2zPkz9fGpurK5o%2FyKtM2Vl4TRQNKrn4bxgWpGZoToRv3UB8WkwEhXijGwBuRopDqxasldj9Ar0VpNVU8T%2FxXUCrjv2WVpQ42WbeO9CzXpQQGLD7J3uWweA4vm6nxx%2FfwubMr2GU0ysU6Q%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200109T090621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY43YLHY5C%2F20200109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2b008e34f8fdc11c28deb91f37663ea656f5fd3139f92e1d65ebe159bf96db6f&hash=2a3d1559d467dd2be1de8834cd8b99f4982fbe46e6de61321949b9a0c1ab7af7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0004370212001245&tid=spdf-24e0a52b-6269-4232-a207-2c17c856357c&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client). Artificial Intelligence 2013. [[Paper]](https://pdf.sciencedirectassets.com/271585/1-s2.0-S0004370212X00110/1-s2.0-S0004370212001245/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFgaCXVzLWVhc3QtMSJGMEQCIElzzOqKXVR5cJp39Se5dhQrbhqJDqCkeYlOS0YiaLHFAiAa7vUiTU60m8WOYJZgjPe%2ByqYKT19ffh4vA%2BI762l1bCq9AwjR%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIMtJvsMz5HbO8UqPSRKpEDxr4nefT3%2B5czwy4piWYxzg6Nte7YuKy6OMbYfYiygVgeKxvZvtm5%2FsM0BACCYOD6a7z%2FAzvLxha91rzh1BPzjSZQUxz2rHYEVh2nw51%2F7zr1B%2BzFTnbrnIzQfVnm7ugVsBrelIPgwVPyIcOgcGlWdsysM2msqtyUtWsmdirujw%2BaBUZbSaP7DX8%2FYrNtiKaN8Os%2FVwwUYSJ8p%2B1beBj48yCjkOEWmYRyop7t%2Fm%2FnsECFRyz4n8W%2BksXDGZPk5xe1jCOxfVwNS8mk6fVFQL7gyiS42cYO19nZ0wF2YN4IpPIYbhh85mYnYRTDK%2B8%2FsA064zhIXTXSsU5VAqED%2FnGLSXTtCvi4IOWB%2FVKwf3RqlsxanPL9icuUz74%2BBRaL%2B%2BBElDnXhSKCGZ1tdbJeUQp4Rp3wsEtUAE%2BGiT70nkGobChf8iYbWw%2FLAcrpPZ%2B370neM010gh%2Bik8EevPG6h5rKbo7IeqKb6zhWh4zrCaDilwK6WOnLtVfNaEbz26u%2BuNdZjzxLOy2ycF8sYMtBTfX7kdMw2LPb8AU67AFHVtNXW%2BzQtw7%2FHdcMgwfPcWNi%2BNzLUvAiztK7Oh12BKeyHOp63vamP6bCcdZpykLbYs2rOwqeexq2TuGjBgdGnr2kfcJ5IKwPQ7gXTBZFpx7ljUP88i7jE9WUWYW6f77BgmmIMSixFMo4%2B2%2F6rYrxEwSV1kWTxPETZ0EG6RolCvFqZ2zPkz9fGpurK5o%2FyKtM2Vl4TRQNKrn4bxgWpGZoToRv3UB8WkwEhXijGwBuRopDqxasldj9Ar0VpNVU8T%2FxXUCrjv2WVpQ42WbeO9CzXpQQGLD7J3uWweA4vm6nxx%2FfwubMr2GU0ysU6Q%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200109T090621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY43YLHY5C%2F20200109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2b008e34f8fdc11c28deb91f37663ea656f5fd3139f92e1d65ebe159bf96db6f&hash=2a3d1559d467dd2be1de8834cd8b99f4982fbe46e6de61321949b9a0c1ab7af7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0004370212001245&tid=spdf-24e0a52b-6269-4232-a207-2c17c856357c&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client)
 
 
-7. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
+7. Christian Bizer, Tom Heath, Tim Berners-Lee. [Linked Data - The Story So Far](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf). ijswis-special-issue 2009. [[Paper]](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf)
 
 
-8. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
+8. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
 
 
-9. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
+9. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
 
 
-10. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
+10. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
 
 
-11. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
+11. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
 
 
-12. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
+12. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
 
 
-13. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
+13. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
 
 
-14. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+14. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
 
 
-15. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+15. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+16. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
 ## Eventic_Graph_Construction
