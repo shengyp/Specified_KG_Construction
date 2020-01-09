@@ -81,27 +81,44 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 5. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
 
 
-6. Jiangang Zhu, Haofen Wang, Beijun Shen. [Software.zhishi.schema: A Software Programming Taxonomy Derived from Stackoverflow](http://ceur-ws.org/Vol-1486/paper_61.pdf). ISWC 2015. [[Paper]](http://ceur-ws.org/Vol-1486/paper_61.pdf)
+6. Thomas Rebele, Fabian Suchanek, Johannes Hoffart, Joanna Biega, Erdal Kuzey, Gerhard Weikum. [YAGO: a multilingual knowledge base
+from Wikipedia, Wordnet, and Geonames](https://suchanek.name/work/publications/iswc-2016-yago.pdf). ISWC 2016. [[Paper]](https://suchanek.name/work/publications/iswc-2016-yago.pdf)
 
 
-7. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
+7. Jiangang Zhu, Haofen Wang, Beijun Shen. [Software.zhishi.schema: A Software Programming Taxonomy Derived from Stackoverflow](http://ceur-ws.org/Vol-1486/paper_61.pdf). ISWC 2015. [[Paper]](http://ceur-ws.org/Vol-1486/paper_61.pdf)
+
+
+8. Farzaneh Mahdisoltani, Joanna Biega, Fabian M. Suchanek. [YAGO3: A Knowledge Base from Multilingual Wikipedias](https://suchanek.name/work/publications/cidr2015.pdf). CIDR 2015. [[Paper]](https://suchanek.name/work/publications/cidr2015.pdf)
+
+
+9. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
 Knowledge Vault: A Web-Scale Approach to
 Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf). KDD 2014. [[Paper]](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
 
 
-8. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf). JIST 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf)
+10. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf). JIST 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf)
 
 
-9. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+11. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
 
 
-10. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+12. Joanna Biega, Erdal Kuzey, Fabian M. Suchanek. [Inside YAGO2s: A Transparent Information Extraction Architecture](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf). WWW 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
 
 
-11. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+13. Johannes Hoffarta, Fabian M. Suchanekb, Klaus Berbericha, Gerhard Weikuma. [YAGO2: A Spatially and Temporally Enhanced
+Knowledge Base from Wikipedia](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf). Artificial Intelligence 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf)
 
 
-12. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
+14. Johannes Hoffart, Xinruo Sun, Fabian M. Suchanek, Klaus Berberich, Edwin Lewis-Kelham, Gerard de Melo, Gerhard Weikum. [YAGO2: Exploring and Querying World Knowledge in Time, Space, Context, and Many Languages](https://suchanek.name/work/publications/www2011demo.pdf). WWW 2011. [[Paper]](https://suchanek.name/work/publications/www2011demo.pdf)
+
+
+15. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+
+
+16. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+
+
+17. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
 
 
 ## Specified_Knowledge_Graph_Construction
