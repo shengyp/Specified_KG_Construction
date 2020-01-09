@@ -10,6 +10,7 @@ Table of Contents
 
   * [Survey](#Survey)
   * [Commonsense Knowledge Graph Construction](#Commonsense_Knowledge_Graph_Construction)
+  * [Eventic Graph Construction](#Eventic_Graph_Construction)
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
   * [Tutorials](#Tutorials)
@@ -44,6 +45,11 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 
 
 9. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+## Eventic_Graph_Construction
+
+
 
 
 ## Commonsense_Knowledge_Graph_Construction
@@ -90,6 +96,12 @@ Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.p
 
 
 10. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+
+
+11. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+
+
+12. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
 
 
 ## Specified_Knowledge_Graph_Construction
