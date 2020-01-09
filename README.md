@@ -91,41 +91,44 @@ Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.p
 4. Marieke van Erp, Melvin Wevers, Hugo Huurdeman. [Constructing a Recipe Web from Historical Newspapers](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_13.pdf). ISWC 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_13.pdf)
 
 
-5. Heng Weng, Ziqing Liu, Shixing Yan, Meiyu Fan, Aihua Ou, Dacan Chen, Tianyong Hao. [A Framework for Automated Knowledge Graph Construction Towards Traditional Chinese Medicine](https://link.springer.com/content/pdf/10.1007%2F978-3-319-69182-4_18.pdf). HIS 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-69182-4_18.pdf)
+5. Penghe Chen, Yu Lu, Vincent W.Zheng, Xiyang Chen, Xiaoqing Li. [An Automatic Knowledge Graph Construction System for K-12 Education](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698?download=true). ACM Conference on Learning @ Scale 2018. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698?download=true)
 
 
-6. Longxiang Shi, Shijian Li, Xiaoran Yang, Jiaheng Qi, Gang Pan, Binbin Zhou. [Semantic Health Knowledge Graph: Semantic Integration of Heterogeneous Medical Knowledge and Services](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf). BioMed Research International 2017. [[Paper]](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)
+6. Heng Weng, Ziqing Liu, Shixing Yan, Meiyu Fan, Aihua Ou, Dacan Chen, Tianyong Hao. [A Framework for Automated Knowledge Graph Construction Towards Traditional Chinese Medicine](https://link.springer.com/content/pdf/10.1007%2F978-3-319-69182-4_18.pdf). HIS 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-69182-4_18.pdf)
 
 
-7. Tianxing Wu, Cong Gao, Guilin Qi, Lei Zhang, Chuanqi Dong, He Liu, Du Zhang. [KG-Buddhism: The Chinese Knowledge Graph on Buddhism](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70682-5_17.pdf). JIST 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70682-5_17.pdf)
+7. Longxiang Shi, Shijian Li, Xiaoran Yang, Jiaheng Qi, Gang Pan, Binbin Zhou. [Semantic Health Knowledge Graph: Semantic Integration of Heterogeneous Medical Knowledge and Services](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf). BioMed Research International 2017. [[Paper]](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)
 
 
-8. Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, Zhong Su. [ArnetMiner: Extraction and Mining of Academic Social Networks](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf). KDD 2008. [[Paper]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf)
+8. Tianxing Wu, Cong Gao, Guilin Qi, Lei Zhang, Chuanqi Dong, He Liu, Du Zhang. [KG-Buddhism: The Chinese Knowledge Graph on Buddhism](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70682-5_17.pdf). JIST 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70682-5_17.pdf)
 
 
-9. 袁凯琦, 邓扬, 陈道源, 张冰, 雷凯, 沈 颖
+9. Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, Zhong Su. [ArnetMiner: Extraction and Mining of Academic Social Networks](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf). KDD 2008. [[Paper]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf)
+
+
+10. 袁凯琦, 邓扬, 陈道源, 张冰, 雷凯, 沈 颖
 . [医学知识图谱构建技术与研究进展](paper/医学知识图谱构建技术与研究进展_袁凯琦.pdf). 计算机应用研究 2017年第35卷第7期. [[Paper]](paper/医学知识图谱构建技术与研究进展_袁凯琦.pdf)
 
 
-10. 蒋秉川, 万刚, 许剑, 李锋, 温荟琦. [多源异构数据的大规模地理知识图谱构建](paper/多源异构数据的大规模地理知识图谱构建.pdf). 测绘学报 2018 第8期. [[Paper]](paper/多源异构数据的大规模地理知识图谱构建.pdf)
+11. 蒋秉川, 万刚, 许剑, 李锋, 温荟琦. [多源异构数据的大规模地理知识图谱构建](paper/多源异构数据的大规模地理知识图谱构建.pdf). 测绘学报 2018 第8期. [[Paper]](paper/多源异构数据的大规模地理知识图谱构建.pdf)
 
 
-11. 温雯, 伍思杰, 蔡瑞初, 郝志峰, 王丽娟. [KECVS: 一个面向专业文献知识实体的类型标注及可视化系统](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf). 计算机应用与软件 2017年第8期. [[Paper]](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf)
+12. 温雯, 伍思杰, 蔡瑞初, 郝志峰, 王丽娟. [KECVS: 一个面向专业文献知识实体的类型标注及可视化系统](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf). 计算机应用与软件 2017年第8期. [[Paper]](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf)
 
 
-12. 阮彤, 孙程琳, 王昊奋, 方之家, 殷亦超. [中医药知识图谱构建与应用](paper/中医药知识图谱构建与应用_阮彤.pdf). 医学信息学杂志 2016年第37卷第4期. [[Paper]](paper/中医药知识图谱构建与应用_阮彤.pdf)
+13. 阮彤, 孙程琳, 王昊奋, 方之家, 殷亦超. [中医药知识图谱构建与应用](paper/中医药知识图谱构建与应用_阮彤.pdf). 医学信息学杂志 2016年第37卷第4期. [[Paper]](paper/中医药知识图谱构建与应用_阮彤.pdf)
 
 
-13. 李茂君, 农玉红. [我国当前翻译研究热点的知识图谱可视化分析](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf). 上海翻译 2016年第4期. [[Paper]](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf)
+14. 李茂君, 农玉红. [我国当前翻译研究热点的知识图谱可视化分析](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf). 上海翻译 2016年第4期. [[Paper]](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf)
 
 
-14. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
+15. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
 
 
-15. 贾李蓉, 刘静, 于彤, 董燕, 朱玲, 高博, 刘丽. [中医药知识图谱构建](paper/中医药知识图谱构建_贾李蓉.pdf). 医学信息学杂志 2015年第36卷第8期. [[Paper]](paper/中医药知识图谱构建_贾李蓉.pdf)
+16. 贾李蓉, 刘静, 于彤, 董燕, 朱玲, 高博, 刘丽. [中医药知识图谱构建](paper/中医药知识图谱构建_贾李蓉.pdf). 医学信息学杂志 2015年第36卷第8期. [[Paper]](paper/中医药知识图谱构建_贾李蓉.pdf)
 
 
-16. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
+17. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
 
 
 ## Tutorials
