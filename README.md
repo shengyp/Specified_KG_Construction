@@ -147,13 +147,17 @@ Knowledge Base from Wikipedia](http://resources.mpi-inf.mpg.de/yago-naga/yago/pu
 16. Johannes Hoffart, Xinruo Sun, Fabian M. Suchanek, Klaus Berberich, Edwin Lewis-Kelham, Gerard de Melo, Gerhard Weikum. [YAGO2: Exploring and Querying World Knowledge in Time, Space, Context, and Many Languages](https://suchanek.name/work/publications/www2011demo.pdf). WWW 2011. [[Paper]](https://suchanek.name/work/publications/www2011demo.pdf)
 
 
-17. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+17. Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles,
+Estevam R. Hruschka Jr., Tom M. Mitchell1. [Toward An Architecture for Never-Ending Language Learning](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf). AAAI 2010. [[Paper]](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf)
 
 
-18. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+18. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
 
 
-19. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
+19. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+
+
+20. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
 
 
 ## Specified_Knowledge_Graph_Construction
