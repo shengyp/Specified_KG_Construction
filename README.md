@@ -122,56 +122,60 @@ from Wikipedia, Wordnet, and Geonames](https://suchanek.name/work/publications/i
 8. Farzaneh Mahdisoltani, Joanna Biega, Fabian M. Suchanek. [YAGO3: A Knowledge Base from Multilingual Wikipedias](https://suchanek.name/work/publications/cidr2015.pdf). CIDR 2015. [[Paper]](https://suchanek.name/work/publications/cidr2015.pdf)
 
 
-9. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
+9. Fredo Erxleben, Michael Günther, Markus Krötzsch,
+Julian Mendez, and Denny Vrandeciˇc. [Introducing Wikidata to the Linked Data Web](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_4.pdf). ISWC 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_4.pdf)
+
+
+10. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
 Knowledge Vault: A Web-Scale Approach to
 Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf). KDD 2014. [[Paper]](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
 
 
-10. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf). JIST 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf)
+11. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf). JIST 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf)
 
 
-11. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+12. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
 
 
-12. Joanna Biega, Erdal Kuzey, Fabian M. Suchanek. [Inside YAGO2s: A Transparent Information Extraction Architecture](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf). WWW 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
+13. Joanna Biega, Erdal Kuzey, Fabian M. Suchanek. [Inside YAGO2s: A Transparent Information Extraction Architecture](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf). WWW 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
 
 
-13. Johannes Hoffarta, Fabian M. Suchanekb, Klaus Berbericha, Gerhard Weikuma. [YAGO2: A Spatially and Temporally Enhanced
+14. Johannes Hoffarta, Fabian M. Suchanekb, Klaus Berbericha, Gerhard Weikuma. [YAGO2: A Spatially and Temporally Enhanced
 Knowledge Base from Wikipedia](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf). Artificial Intelligence 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf)
 
 
-14. Jens Lehmann, Robert Isele, Max Jakob, Anja Jentzsch, Dimitris Kontokostas, Pablo N. Mendesf, Sebastian Hellmann, Mohamed Morsey, Patrick van Kleef, Soren Auer, Christian Bizer. [DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf). Semantic Web 2012. [[Paper]](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf)
+15. Jens Lehmann, Robert Isele, Max Jakob, Anja Jentzsch, Dimitris Kontokostas, Pablo N. Mendesf, Sebastian Hellmann, Mohamed Morsey, Patrick van Kleef, Soren Auer, Christian Bizer. [DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf). Semantic Web 2012. [[Paper]](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf)
 
 
-15. Wentao Wu, Hongsong Li, Haixun Wang, Kenny Q. Zhu. [Probase: A Probabilistic Taxonomy for Text Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf). SIGMOD 2012. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf)
+16. Wentao Wu, Hongsong Li, Haixun Wang, Kenny Q. Zhu. [Probase: A Probabilistic Taxonomy for Text Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf). SIGMOD 2012. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf)
 
 
-16. Robert Speer, Catherine Havasi. [Representing General Relational Knowledge in ConceptNet 5](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf). IREC 2012. [[Paper]](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
+17. Robert Speer, Catherine Havasi. [Representing General Relational Knowledge in ConceptNet 5](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf). IREC 2012. [[Paper]](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
 
 
-17. Roberto Navigli, Simone Paolo Ponzetto. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf). Artificial Intelligence, 2012. [[Paper]](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf)
+18. Roberto Navigli, Simone Paolo Ponzetto. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf). Artificial Intelligence, 2012. [[Paper]](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf)
 
 
-18. Johannes Hoffart, Xinruo Sun, Fabian M. Suchanek, Klaus Berberich, Edwin Lewis-Kelham, Gerard de Melo, Gerhard Weikum. [YAGO2: Exploring and Querying World Knowledge in Time, Space, Context, and Many Languages](https://suchanek.name/work/publications/www2011demo.pdf). WWW 2011. [[Paper]](https://suchanek.name/work/publications/www2011demo.pdf)
+19. Johannes Hoffart, Xinruo Sun, Fabian M. Suchanek, Klaus Berberich, Edwin Lewis-Kelham, Gerard de Melo, Gerhard Weikum. [YAGO2: Exploring and Querying World Knowledge in Time, Space, Context, and Many Languages](https://suchanek.name/work/publications/www2011demo.pdf). WWW 2011. [[Paper]](https://suchanek.name/work/publications/www2011demo.pdf)
 
 
-19. Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles,
+20. Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles,
 Estevam R. Hruschka Jr., Tom M. Mitchell1. [Toward An Architecture for Never-Ending Language Learning](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf). AAAI 2010. [[Paper]](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf)
 
 
-20. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+21. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
 
 
-21. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+22. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
 
 
-22. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
+23. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
 
 
-23. George A.Miller. [WordNet: A Lexical Database for English](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf). Communications of the ACM, 1995. [[Paper]](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf)
+24. George A.Miller. [WordNet: A Lexical Database for English](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf). Communications of the ACM, 1995. [[Paper]](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf)
 
 
-24. George A.Miller. [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf). Communications of the ACM, 1995. [[Paper]](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf)
+25. George A.Miller. [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf). Communications of the ACM, 1995. [[Paper]](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf)
 
 
 ## Specified_Knowledge_Graph_Construction
