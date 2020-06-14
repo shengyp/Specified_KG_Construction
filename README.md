@@ -182,8 +182,8 @@ Estevam R. Hruschka Jr., Tom M. Mitchell1. [Toward An Architecture for Never-End
 
 
 ## Specified_Knowledge_Graph_Construction
-1. Yongpan Sheng, Zenglin Xu, Yafang Wang, Gerard de Melo. [Multi-Document Semantic Relation Extraction
-for News Analytics](https://). WWWJ 2020. [[Paper]](paper/Camera-ready_print_2020.03.22.pdf)
+1. Yongpan Sheng, Zenglin Xu, Yafang Wang, Gerard de Melo. [Multi-document semantic relation extraction for news
+analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf). WWWJ 2020. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 
 
 2. Sheng Bi, Yanhui Huang, Xiya Cheng, Meng Wang, Guilin Qi. [Building Chinese Legal Hybrid Knowledge Network](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf). KSEM 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf)
