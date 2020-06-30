@@ -248,6 +248,8 @@ analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 
 3. Amit Sheth. [Knowledge Graphs and Their Central Role in Big Data Processing: Past, Present, and Future](tutorials/Knowledge_Graphs_and_Their_Central_Role_in_Big_Data_Processing.pdf)
 
+4. Colin Puri. [Building A Simple Knowledge Graph with UN Data](https://assets.pubpub.org/ike3bea9/71590171394041.pdf)
+
 
 ## Research_Report_of_Knowledge_Graph
 1. [Research Report of Knowledge Graph](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf). 2019年第2期. [[Report]](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf)
