@@ -15,7 +15,7 @@ Table of Contents
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
   * [Tutorials](#Tutorials)
   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph)
-
+  * [Introduction to Knowledge Graph in Video](#Introduction_to_Knowledge_Graph_in_video)
 
 
 ## Survey
@@ -264,5 +264,7 @@ analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 3. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf)
 
 
+## Introduction_to_Knowledge_Graph_in_video
+1. [【大咖直播】从专家系统到知识图谱](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
 
 
