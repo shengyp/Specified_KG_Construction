@@ -283,4 +283,5 @@ analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 6. [【AIProCon线上大会】如何“入坑”知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd899b7b3c6_djHhAq4T/4). 
 
 
+7. [图处理-全景式视角和开放性问题 (加拿大滑铁卢大学：Tamer Özsu教授)](https://www.bilibili.com/video/BV1QK4y147yz). 
 
