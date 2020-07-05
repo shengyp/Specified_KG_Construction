@@ -265,6 +265,22 @@ analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 
 
 ## Introduction_to_Knowledge_Graph_in_video
-1. [【大咖直播】从专家系统到知识图谱](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
+1. [【大咖直播】从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
+
+
+2. [【大咖直播】基于图表示的自然语言处理 (加拿大蒙特利尔大学：刘邦)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef1b9b71397b_MtIvEcQG/4). 
+
+
+3. [【大咖直播】知识图谱构建与应用概述 (复旦：王昊奋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5dc116dde4ed6_kBv6z1GD/4). 
+
+
+4. [【大咖直播】ASER：基于高阶选择偏好的常识知识图谱 (港科大：宋阳秋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef850e6720be_mtssEqor/4). 
+
+
+5. [【AIProCon线上大会】多模态知识图谱技术进展和应用 (东大：漆桂林)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd8a0ed777a_GqfnLABY/4?fromH5=true). 
+
+
+6. [【AIProCon线上大会】如何“入坑”知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd899b7b3c6_djHhAq4T/4). 
+
 
 
