@@ -255,13 +255,19 @@ analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 
 
 ## Research_Report_of_Knowledge_Graph
-1. [Research Report of Knowledge Graph](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf). 2019年第2期. [[Report]](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf)
+1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
 
-2. [知识图谱标准化白皮书](report/知识图谱标准化白皮书_2019.pdf). 2019版. [[Report]](report/知识图谱标准化白皮书_2019.pdf)
+2. [2020年中国知识图谱行业研究报告](./report/2020年中国知识图谱行业研究报告.pdf). 2020年. [[Report]](./report/2020年中国知识图谱行业研究报告.pdf)
 
 
-3. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf)
+3. [Research Report of Knowledge Graph](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf). 2019年第2期. [[Report]](https://static.aminer.cn/misc/pdf/knowledgegraph.pdf)
+
+
+4. [知识图谱标准化白皮书](report/知识图谱标准化白皮书_2019.pdf). 2019版. [[Report]](report/知识图谱标准化白皮书_2019.pdf)
+
+
+5. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf)
 
 
 ## Introduction_to_Knowledge_Graph_in_video
