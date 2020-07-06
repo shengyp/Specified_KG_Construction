@@ -94,6 +94,12 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 4. Shane Storks, Qiaozi Gao, Joyce Y. Chai. [Commonsense Reasoning for Natural Language Understanding: A Survey of Benchemarks, Resources, and Approaches](https://arxiv.org/pdf/1904.01172.pdf). Recent Advances in Neural Language Inference: A Survey 2019. [[Paper]](https://arxiv.org/pdf/1904.01172.pdf)
 
 
+5. Andrew S. Gordon. [Mining Commonsense Knowledge From Personal Stories in Internet Weblogs](https://ict.usc.edu/pubs/Mining%20Commonsense%20Knowledge%20From%20Personal%20Stories%20in%20Internet%20Weblogs.pdf). Arxiv 2011. [[Paper]](https://ict.usc.edu/pubs/Mining%20Commonsense%20Knowledge%20From%20Personal%20Stories%20in%20Internet%20Weblogs.pdf)
+
+
+6. Priya K V, Mathew Kurian. [Mining Event-based Commonsense Knowledge from Web using NLP Techniques](https://www.ijcaonline.org/nccse/number1/SPE153T.pdf). IJCAI 2011. [[Paper]](https://www.ijcaonline.org/nccse/number1/SPE153T.pdf)
+
+
 ## General_Knowledge_Graph_Construction
 1. Thomas Pellissier-Tanon, Gerhard Weikum, and Fabian Suchanek. [YAGO 4: A Reason-able Knowledge Base](https://suchanek.name/work/publications/eswc-2020-yago.pdf). ESWC 2020. [[Paper]](https://suchanek.name/work/publications/eswc-2020-yago.pdf)
 
