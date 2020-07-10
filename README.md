@@ -297,3 +297,5 @@ analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 
 7. [图处理-全景式视角和开放性问题 (加拿大滑铁卢大学：Tamer Özsu教授)](https://www.bilibili.com/video/BV1QK4y147yz). 
 
+
+8. [KRDB Summer Online Seminars 2020](http://www.inf.unibz.it/krdb/sos-2020/). 
