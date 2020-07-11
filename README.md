@@ -2,7 +2,7 @@
 
 
 
-Here, we are concentrate on collection of research papers involving temporal-aware topics, including.   
+Here, we are concentrate on collection of research papers associated with knowledge graph construction.   
 
 
 Table of Contents
@@ -115,76 +115,79 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 4. Jose L. Martinez-Rodriguez, Ivan Lopez-Arevalo, Ana B.Rios-Alvarado. [OpenIE-based approach for Knowledge Graph construction from text](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client). Expert Systems With Applications 2018. [[Paper]](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client)
 
 
-5. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+5. Mohamed Al-Badrashiny, Jason Bolton, Arun Tejavsi Chaganty, et al. [TinkerBell: Cross-lingual Cold-Start Knowledge Base Construction](https://blender.cs.illinois.edu/paper/kbp2017tinkerbellsystem.pdf). TACL 2017. [[Paper]](https://blender.cs.illinois.edu/paper/kbp2017tinkerbellsystem.pdf)
 
 
-6. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+6. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
 
 
-7. Thomas Rebele, Fabian Suchanek, Johannes Hoffart, Joanna Biega, Erdal Kuzey, Gerhard Weikum. [YAGO: a multilingual knowledge base
+7. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
+
+
+8. Thomas Rebele, Fabian Suchanek, Johannes Hoffart, Joanna Biega, Erdal Kuzey, Gerhard Weikum. [YAGO: a multilingual knowledge base
 from Wikipedia, Wordnet, and Geonames](https://suchanek.name/work/publications/iswc-2016-yago.pdf). ISWC 2016. [[Paper]](https://suchanek.name/work/publications/iswc-2016-yago.pdf)
 
 
-8. Jiangang Zhu, Haofen Wang, Beijun Shen. [Software.zhishi.schema: A Software Programming Taxonomy Derived from Stackoverflow](http://ceur-ws.org/Vol-1486/paper_61.pdf). ISWC 2015. [[Paper]](http://ceur-ws.org/Vol-1486/paper_61.pdf)
+9. Jiangang Zhu, Haofen Wang, Beijun Shen. [Software.zhishi.schema: A Software Programming Taxonomy Derived from Stackoverflow](http://ceur-ws.org/Vol-1486/paper_61.pdf). ISWC 2015. [[Paper]](http://ceur-ws.org/Vol-1486/paper_61.pdf)
 
 
-9. Farzaneh Mahdisoltani, Joanna Biega, Fabian M. Suchanek. [YAGO3: A Knowledge Base from Multilingual Wikipedias](https://suchanek.name/work/publications/cidr2015.pdf). CIDR 2015. [[Paper]](https://suchanek.name/work/publications/cidr2015.pdf)
+10. Farzaneh Mahdisoltani, Joanna Biega, Fabian M. Suchanek. [YAGO3: A Knowledge Base from Multilingual Wikipedias](https://suchanek.name/work/publications/cidr2015.pdf). CIDR 2015. [[Paper]](https://suchanek.name/work/publications/cidr2015.pdf)
 
 
-10. Fredo Erxleben, Michael Günther, Markus Krötzsch,
+11. Fredo Erxleben, Michael Günther, Markus Krötzsch,
 Julian Mendez, and Denny Vrandeciˇc. [Introducing Wikidata to the Linked Data Web](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_4.pdf). ISWC 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_4.pdf)
 
 
-11. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
+12. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
 Knowledge Vault: A Web-Scale Approach to
 Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf). KDD 2014. [[Paper]](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
 
 
-12. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf). JIST 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf)
+13. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf). JIST 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf)
 
 
-13. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+14. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
 
 
-14. Joanna Biega, Erdal Kuzey, Fabian M. Suchanek. [Inside YAGO2s: A Transparent Information Extraction Architecture](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf). WWW 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
+15. Joanna Biega, Erdal Kuzey, Fabian M. Suchanek. [Inside YAGO2s: A Transparent Information Extraction Architecture](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf). WWW 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
 
 
-15. Johannes Hoffarta, Fabian M. Suchanekb, Klaus Berbericha, Gerhard Weikuma. [YAGO2: A Spatially and Temporally Enhanced
+16. Johannes Hoffarta, Fabian M. Suchanekb, Klaus Berbericha, Gerhard Weikuma. [YAGO2: A Spatially and Temporally Enhanced
 Knowledge Base from Wikipedia](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf). Artificial Intelligence 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf)
 
 
-16. Jens Lehmann, Robert Isele, Max Jakob, Anja Jentzsch, Dimitris Kontokostas, Pablo N. Mendesf, Sebastian Hellmann, Mohamed Morsey, Patrick van Kleef, Soren Auer, Christian Bizer. [DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf). Semantic Web 2012. [[Paper]](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf)
+17. Jens Lehmann, Robert Isele, Max Jakob, Anja Jentzsch, Dimitris Kontokostas, Pablo N. Mendesf, Sebastian Hellmann, Mohamed Morsey, Patrick van Kleef, Soren Auer, Christian Bizer. [DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf). Semantic Web 2012. [[Paper]](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf)
 
 
-17. Wentao Wu, Hongsong Li, Haixun Wang, Kenny Q. Zhu. [Probase: A Probabilistic Taxonomy for Text Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf). SIGMOD 2012. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf)
+18. Wentao Wu, Hongsong Li, Haixun Wang, Kenny Q. Zhu. [Probase: A Probabilistic Taxonomy for Text Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf). SIGMOD 2012. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf)
 
 
-18. Robert Speer, Catherine Havasi. [Representing General Relational Knowledge in ConceptNet 5](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf). IREC 2012. [[Paper]](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
+19. Robert Speer, Catherine Havasi. [Representing General Relational Knowledge in ConceptNet 5](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf). IREC 2012. [[Paper]](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
 
 
-19. Roberto Navigli, Simone Paolo Ponzetto. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf). Artificial Intelligence, 2012. [[Paper]](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf)
+20. Roberto Navigli, Simone Paolo Ponzetto. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf). Artificial Intelligence, 2012. [[Paper]](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf)
 
 
-20. Johannes Hoffart, Xinruo Sun, Fabian M. Suchanek, Klaus Berberich, Edwin Lewis-Kelham, Gerard de Melo, Gerhard Weikum. [YAGO2: Exploring and Querying World Knowledge in Time, Space, Context, and Many Languages](https://suchanek.name/work/publications/www2011demo.pdf). WWW 2011. [[Paper]](https://suchanek.name/work/publications/www2011demo.pdf)
+21. Johannes Hoffart, Xinruo Sun, Fabian M. Suchanek, Klaus Berberich, Edwin Lewis-Kelham, Gerard de Melo, Gerhard Weikum. [YAGO2: Exploring and Querying World Knowledge in Time, Space, Context, and Many Languages](https://suchanek.name/work/publications/www2011demo.pdf). WWW 2011. [[Paper]](https://suchanek.name/work/publications/www2011demo.pdf)
 
 
-21. Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles,
+22. Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles,
 Estevam R. Hruschka Jr., Tom M. Mitchell1. [Toward An Architecture for Never-Ending Language Learning](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf). AAAI 2010. [[Paper]](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf)
 
 
-22. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+23. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
 
 
-23. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+24. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
 
 
-24. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
+25. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
 
 
-25. George A.Miller. [WordNet: A Lexical Database for English](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf). Communications of the ACM, 1995. [[Paper]](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf)
+26. George A.Miller. [WordNet: A Lexical Database for English](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf). Communications of the ACM, 1995. [[Paper]](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf)
 
 
-26. George A.Miller. [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf). Communications of the ACM, 1995. [[Paper]](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf)
+27. George A.Miller. [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf). Communications of the ACM, 1995. [[Paper]](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf)
 
 
 ## Specified_Knowledge_Graph_Construction
