@@ -279,6 +279,10 @@ analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 5. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf)
 
 
+[知识图谱表示学习@ACL2020最新进展概述, 9篇必看论文](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a). 2020.07.12专知发布. [[Report]](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a)
+
+
+
 ## Introduction_to_Knowledge_Graph_in_video
 1. [【大咖直播】从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
 
