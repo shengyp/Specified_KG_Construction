@@ -313,3 +313,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 
 
 8. [KRDB Summer Online Seminars 2020](http://www.inf.unibz.it/krdb/sos-2020/). 
+
+
+9. [贾珈：自然语言处理中9个不可不知的研究热点（附视频）](https://mp.weixin.qq.com/s/vk3QDyvVIma8vjDsyYauNA). 
+
+
+10. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
