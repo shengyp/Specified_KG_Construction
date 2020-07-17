@@ -289,6 +289,8 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 [知识图谱表示学习@ACL2020最新进展概述, 9篇必看论文](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a). 2020.07.12专知发布. [[Report]](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a)
 
 
+[最新必读的六篇知识图谱表示学习（KGRL）2020顶会论文和代码](https://mp.weixin.qq.com/s/HYRG0nAQZujD8xVd4l5oWg). 2020.07.17专知发布. [[Report]](https://mp.weixin.qq.com/s/HYRG0nAQZujD8xVd4l5oWg)
+
 
 ## Introduction_to_Knowledge_Graph_in_video
 1. [【大咖直播】从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
@@ -312,7 +314,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 7. [图处理-全景式视角和开放性问题 (加拿大滑铁卢大学：Tamer Özsu教授)](https://www.bilibili.com/video/BV1QK4y147yz). 
 
 
-8. [KRDB Summer Online Seminars 2020](http://www.inf.unibz.it/krdb/sos-2020/). 
+8. [KRDB Summer Online Seminars 2020](http://www.inf.unibz.it/krdb/sos-2020/) (including [the Virtual Knowledge Graph System](https://mp.weixin.qq.com/s?__biz=MzU2NzY1ODkzMQ==&mid=2247484239&idx=1&sn=312bebf5d943fbe99cf1a843ecedd816&chksm=fc989393cbef1a8510875c12d8a258f460beaffb2f4755e9376c0bf8b8cd50dcacdb4053a373&mpshare=1&scene=1&srcid=0709wQfF8fxVjoWlGjVq282O&sharer_sharetime=1594366777441&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=ad9249a4d4ce1ee49b33e4d208a3864620ee488ef073c6f9d9ca677fadf10a839e17785407511e0d530412d379279f1ae858b1e3fa07e088ffa020f9c634b5effe973091ac99d32a9a80595a6cd59ead&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Abpq3eMmZDK14fEmGCr7SpM%3D&pass_ticket=9IaydkjtYl4tLECMPyCckLXaO%2BS5G3IeImiwfVE7LsaEMSiz0ZFxymDk9%2BD8RZ2f)). 
 
 
 9. [贾珈：自然语言处理中9个不可不知的研究热点（附视频）](https://mp.weixin.qq.com/s/vk3QDyvVIma8vjDsyYauNA). 
