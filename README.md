@@ -71,6 +71,9 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 17. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
+[358篇机器学习 & 自然语言处理综述论文](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202). 2020.07.18专知发布. [[Report]](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202)
+
+
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
 
