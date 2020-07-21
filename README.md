@@ -16,6 +16,7 @@ Table of Contents
   * [Tutorials](#Tutorials)
   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph)
   * [Introduction to Knowledge Graph in Video](#Introduction_to_Knowledge_Graph_in_video)
+  * [学术江湖](#学术江湖)
 
 
 ## Survey
@@ -331,3 +332,19 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 
 
 11. [UIUC教授季姮：叫我带头人，而不是女性带头人（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488954&idx=2&sn=a668c9721646307b0d0288ea91758e70&chksm=febf567ec9c8df68598111114bc4fefc7d00536433f9ff0034074847967656309372c482a6ef&mpshare=1&scene=1&srcid=072088gd2sbPTexh5frnI6sf&sharer_sharetime=1595219293214&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa7909215e9d980dcb5f401880959b9e1646134e3e439d74a9866e2b867254a20edf294c8c6853a8d9b96452ba26c95898dc71f97d5b1e66461ba006a82532845f336944780030b852d8ebb&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcXL7cih0v7IgRusolM8%2BpM%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2).
+
+
+12. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
+
+
+13. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
+
+
+## 学术江湖
+
+1. [中国高校报考指南（江湖版）](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247505600&idx=1&sn=076460ebfa4b22a4ba4659ba67805b9d&chksm=cf7bb439f80c3d2f9339fbaa39dc460c08f703c84ce7e677102331a3e43ae385541acbd0cde9&mpshare=1&scene=1&srcid=0721w1j92gvQjSvxcH3UkhTB&sharer_sharetime=1595337864845&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c5110344e4e6245549a143ba178def50010987a6fed2397ad5af3a0bf431ddee89c0f0d776e096214ee1387702beb161840dda5f1c3d28550cd9f89317a2a38463c3af4c45d7c8f0b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUdXGCJpfZ%2Fiyzx5w2os3uA%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
+
+
+
+
+
