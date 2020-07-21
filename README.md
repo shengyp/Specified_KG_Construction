@@ -328,3 +328,6 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 
 
 10. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
+
+
+11. [UIUC教授季姮：叫我带头人，而不是女性带头人（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488954&idx=2&sn=a668c9721646307b0d0288ea91758e70&chksm=febf567ec9c8df68598111114bc4fefc7d00536433f9ff0034074847967656309372c482a6ef&mpshare=1&scene=1&srcid=072088gd2sbPTexh5frnI6sf&sharer_sharetime=1595219293214&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa7909215e9d980dcb5f401880959b9e1646134e3e439d74a9866e2b867254a20edf294c8c6853a8d9b96452ba26c95898dc71f97d5b1e66461ba006a82532845f336944780030b852d8ebb&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcXL7cih0v7IgRusolM8%2BpM%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2).
