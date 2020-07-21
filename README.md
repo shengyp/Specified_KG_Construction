@@ -334,13 +334,21 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 11. [UIUC教授季姮：叫我带头人，而不是女性带头人（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488954&idx=2&sn=a668c9721646307b0d0288ea91758e70&chksm=febf567ec9c8df68598111114bc4fefc7d00536433f9ff0034074847967656309372c482a6ef&mpshare=1&scene=1&srcid=072088gd2sbPTexh5frnI6sf&sharer_sharetime=1595219293214&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa7909215e9d980dcb5f401880959b9e1646134e3e439d74a9866e2b867254a20edf294c8c6853a8d9b96452ba26c95898dc71f97d5b1e66461ba006a82532845f336944780030b852d8ebb&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcXL7cih0v7IgRusolM8%2BpM%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2).
 
 
-12. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
+12. [Manning、Ostendorf、Povey、何晓冬、周明共话多模态NLP的机遇和挑战（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488568&idx=1&sn=d9351b098be46f7bb69d18c6f59ac8a1&chksm=febf57fcc9c8deea89561f083767bd19baa649b2fbade7ab44ec8796a486d08788ce651aec35&mpshare=1&scene=1&srcid=0721JhvqaELEPSIHFymIZnmm&sharer_sharetime=1595341020119&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=7adf10a6617c6315caf360f1431bbd4bf92a2359c737b880898fd93e7bc029428cebb2197fb89319f4444029988f05f8ac8a7a64ea88137e12ae4e46d7a5f676f4cedc20b1595d774aa60b8d9214d0e1&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUbyR9VFQn8MirIMAmhW8mI%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
 
 
-13. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
+13. [微众银行 CAIO 杨强：人工智能的新三大定律（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489044&idx=1&sn=881149ecd1a35c183fd4e65ddbdcb958&chksm=febf55d0c9c8dcc6f6965ca47391c231b79eedd81f0f167d9069e7d5488aa2d38c1d39eaf561&mpshare=1&scene=1&srcid=07214riMr8Z0GdFYCecEO7i2&sharer_sharetime=1595340803385&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c96afd23987a3a607a7374359b5ad9149abb93b3346cb6c18e3dde8252bb5bb30743e5b27de466dc4fd2a930bf418beb006d7c2eddf5ab4dea8bb1d1ce06a35ca72743743fddaf077&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUFUM4OIk2880mUQVd3lsaQ%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
+
+
+14. [清华大学张悠慧：超越冯·诺依曼模型，实现软硬件去耦合的类脑计算（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488684&idx=1&sn=2b7cb9152a7e5faa8af0f34acf3e285e&chksm=febf5768c9c8de7ea1594e8cc109f0b2ee056a75389ae604b0738b67d139f154ac8c819a8c02&mpshare=1&scene=1&srcid=0721yeiOrY8dVNmZjzWiXRKD&sharer_sharetime=1595341006829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6d1d092f3d5e3ff59b2f155b1b897d2577ec65d11be8c46cf17c8d32e5a69310b90d9729b156fe16e4ffada576cd8d616782ecc80b588e07e072e4b2c8f43c57ac0fca5da373c922c&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AZ%2FGavZVVM0WawcZj5egzdc%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
+
+
+<!-- 13. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA). -->
+
 
 
 ## 学术江湖
+
 
 1. [中国高校报考指南（江湖版）](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247505600&idx=1&sn=076460ebfa4b22a4ba4659ba67805b9d&chksm=cf7bb439f80c3d2f9339fbaa39dc460c08f703c84ce7e677102331a3e43ae385541acbd0cde9&mpshare=1&scene=1&srcid=0721w1j92gvQjSvxcH3UkhTB&sharer_sharetime=1595337864845&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c5110344e4e6245549a143ba178def50010987a6fed2397ad5af3a0bf431ddee89c0f0d776e096214ee1387702beb161840dda5f1c3d28550cd9f89317a2a38463c3af4c45d7c8f0b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUdXGCJpfZ%2Fiyzx5w2os3uA%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
 
