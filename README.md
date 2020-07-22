@@ -299,6 +299,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 [2020年，知识图谱都有哪些研究风向？](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247514469&idx=2&sn=74159f99caef7a1ec010e8851194cd52&chksm=9094b0f6a7e339e009045e5f2221e644e8a84ec55f86271ea32a8ecf53fecfb951894684b87f&mpshare=1&scene=1&srcid=0721RooC2I3vuWtZqH6l5GAO&sharer_sharetime=1595315015911&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6e0941b52b267ffa896a5b22b0e9d60a20570b403d0c9d3ca14c51e5362aae3ecdbd7c757507b40aaea6de04fdc9db3502a7cb97d46785122165362851b9c9fbb2bee0e83234c425e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYd5G6GzFmjt3WThzBOHvcw%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2)  2020.07.21 AI科技评论. [[Report]](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247514469&idx=2&sn=74159f99caef7a1ec010e8851194cd52&chksm=9094b0f6a7e339e009045e5f2221e644e8a84ec55f86271ea32a8ecf53fecfb951894684b87f&mpshare=1&scene=1&srcid=0721RooC2I3vuWtZqH6l5GAO&sharer_sharetime=1595315015911&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6e0941b52b267ffa896a5b22b0e9d60a20570b403d0c9d3ca14c51e5362aae3ecdbd7c757507b40aaea6de04fdc9db3502a7cb97d46785122165362851b9c9fbb2bee0e83234c425e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYd5G6GzFmjt3WThzBOHvcw%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2)
 
 
+[必读论文 | 知识图谱必读论文10篇](https://mp.weixin.qq.com/s/C48sunMM0nmh4JNBcdfsmQ). 2020.05.08学术头条发布. 
+
+
 
 ## Introduction_to_Knowledge_Graph_in_video
 1. [【大咖直播】从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
