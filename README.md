@@ -358,7 +358,8 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 15. [清华大学张悠慧：超越冯·诺依曼模型，实现软硬件去耦合的类脑计算（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488684&idx=1&sn=2b7cb9152a7e5faa8af0f34acf3e285e&chksm=febf5768c9c8de7ea1594e8cc109f0b2ee056a75389ae604b0738b67d139f154ac8c819a8c02&mpshare=1&scene=1&srcid=0721yeiOrY8dVNmZjzWiXRKD&sharer_sharetime=1595341006829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6d1d092f3d5e3ff59b2f155b1b897d2577ec65d11be8c46cf17c8d32e5a69310b90d9729b156fe16e4ffada576cd8d616782ecc80b588e07e072e4b2c8f43c57ac0fca5da373c922c&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AZ%2FGavZVVM0WawcZj5egzdc%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
 
 
-<!-- 13. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA). -->
+16. [下一代图神经网络是什么？（几何深度学习，大牛Max Welling教授视频讲解）](https://mp.weixin.qq.com/s/PSIFmk9aEafvzm74SGwRrQ).
+
 
 
 
