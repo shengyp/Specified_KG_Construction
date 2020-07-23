@@ -322,7 +322,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 3. [【大咖直播】知识图谱构建与应用概述 (复旦：王昊奋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5dc116dde4ed6_kBv6z1GD/4). 
 
 
-4. [【大咖直播】ASER：基于高阶选择偏好的常识知识图谱 (港科大：宋阳秋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef850e6720be_mtssEqor/4). 
+4. [【大咖直播】ASER：基于高阶选择偏好的常识知识图谱 (港科大：宋阳秋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef850e6720be_mtssEqor/4)[PPT](../report/知识图谱前沿论坛系列-宋阳秋老师-0701.pdf). 
 
 
 5. [【AIProCon线上大会】多模态知识图谱技术进展和应用 (东大：漆桂林)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd8a0ed777a_GqfnLABY/4?fromH5=true). 
