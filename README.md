@@ -361,6 +361,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 16. [下一代图神经网络是什么？（几何深度学习，大牛Max Welling教授视频讲解）](https://mp.weixin.qq.com/s/PSIFmk9aEafvzm74SGwRrQ).
 
 
+17. [MILA研究院唐建：基于图神经网络的关系推理（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA).
 
 
 ## 学术江湖
