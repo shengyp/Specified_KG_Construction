@@ -364,6 +364,10 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 17. [MILA研究院唐建：基于图神经网络的关系推理（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA).
 
 
+18. [几何数据嵌入表示学习（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA) [[PPT]](./report/Learned_Embeddings_of_Geometric_Data.pdf).
+
+
+
 ## 学术江湖
 
 
