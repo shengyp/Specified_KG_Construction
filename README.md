@@ -373,6 +373,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 19. [Linux导论，Introduction to Linux（附视频）](https://mp.weixin.qq.com/s/K5aRRqdAYgNoswMy4yEp3Q) [[PPT]](http://www.hpc.lsu.edu/training/weekly-materials/2020-Summer/HPC_Linux_Summer_2020.pdf).
 
 
+20. [Hinton最新演讲透露下一代神经网络模型的构想 | SIGIR 2020 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg)
+
+
 
 ## 学术江湖
 
