@@ -311,6 +311,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 [必读论文 | 知识图谱必读论文10篇](https://mp.weixin.qq.com/s/C48sunMM0nmh4JNBcdfsmQ). 2020.05.08学术头条发布. 
 
 
+[10篇百度KDD2020论文: 知识图谱、智能交通、智能推荐、图神经网络、人机交互、科学防疫](https://mp.weixin.qq.com/s/7ueI-bGLkG7lY3EIu7hcqw). 2020.07.26专知发布.
+
+
 
 ## Introduction_to_Knowledge_Graph_in_video
 1. [【大咖直播】从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
