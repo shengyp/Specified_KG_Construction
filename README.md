@@ -370,6 +370,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 18. [几何数据嵌入表示学习（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA) [[PPT]](./report/Learned_Embeddings_of_Geometric_Data.pdf).
 
 
+19. [Linux导论，Introduction to Linux（附视频）](https://mp.weixin.qq.com/s/K5aRRqdAYgNoswMy4yEp3Q) [[PPT]](http://www.hpc.lsu.edu/training/weekly-materials/2020-Summer/HPC_Linux_Summer_2020.pdf).
+
+
 
 ## 学术江湖
 
