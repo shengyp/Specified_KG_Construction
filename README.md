@@ -376,8 +376,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 20. [Hinton最新演讲透露下一代神经网络模型的构想 | SIGIR 2020 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg).
 
 
-21. [基于自然监督信号的句法结构学习](https://apposcmf8kb5033.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMDY3ZjE5ZTRiMDYxZGU3Y2I1NTE5ZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBvU0NNZjhrYjUwMzMiLCJleHRyYV9kYXRhIjowfQ).
-
+21. [基于自然监督信号的句法结构学习](https://apposcmf8kb5033.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMDY3ZjE5ZTRiMDYxZGU3Y2I1NTE5ZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBvU0NNZjhrYjUwMzMiLCJleHRyYV9kYXRhIjowfQ). [[PPT]](./report/智东西公开课-NLP前沿讲座第1讲课件-基于自然监督信号的句法结构学习-丰田工业大学芝加哥分校.pdf). 
 
 
 22. [基文本纠错技术探索和实践](https://mp.weixin.qq.com/s/dk5VG9Clx0J5lxBJiF3pnQ). [[PPT]](./report/平安人寿陈乐清_文本纠错技术的探索与实践.pdf). 
