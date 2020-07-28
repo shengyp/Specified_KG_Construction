@@ -299,22 +299,22 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 5. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf)
 
 
-[知识图谱表示学习@ACL2020最新进展概述, 9篇必看论文](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a). 2020.07.12专知发布. [[Report]](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a)
-
-
-[最新必读的六篇知识图谱表示学习（KGRL）2020顶会论文和代码](https://mp.weixin.qq.com/s/HYRG0nAQZujD8xVd4l5oWg). 2020.07.17专知发布. [[Report]](https://mp.weixin.qq.com/s/HYRG0nAQZujD8xVd4l5oWg)
-
-
-[2020年，知识图谱都有哪些研究风向？](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247514469&idx=2&sn=74159f99caef7a1ec010e8851194cd52&chksm=9094b0f6a7e339e009045e5f2221e644e8a84ec55f86271ea32a8ecf53fecfb951894684b87f&mpshare=1&scene=1&srcid=0721RooC2I3vuWtZqH6l5GAO&sharer_sharetime=1595315015911&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6e0941b52b267ffa896a5b22b0e9d60a20570b403d0c9d3ca14c51e5362aae3ecdbd7c757507b40aaea6de04fdc9db3502a7cb97d46785122165362851b9c9fbb2bee0e83234c425e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYd5G6GzFmjt3WThzBOHvcw%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2)  2020.07.21 AI科技评论. [[Report]](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247514469&idx=2&sn=74159f99caef7a1ec010e8851194cd52&chksm=9094b0f6a7e339e009045e5f2221e644e8a84ec55f86271ea32a8ecf53fecfb951894684b87f&mpshare=1&scene=1&srcid=0721RooC2I3vuWtZqH6l5GAO&sharer_sharetime=1595315015911&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6e0941b52b267ffa896a5b22b0e9d60a20570b403d0c9d3ca14c51e5362aae3ecdbd7c757507b40aaea6de04fdc9db3502a7cb97d46785122165362851b9c9fbb2bee0e83234c425e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYd5G6GzFmjt3WThzBOHvcw%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2)
-
-
-[必读论文 | 知识图谱必读论文10篇](https://mp.weixin.qq.com/s/C48sunMM0nmh4JNBcdfsmQ). 2020.05.08学术头条发布. 
+[复旦大学黄萱菁教授：自然语言处理中的表示学习](https://mp.weixin.qq.com/s/4rXYrAMiXXzURhXKQ09-3g). 2020.07.28 AI TIME 论道发布.
 
 
 [10篇百度KDD2020论文: 知识图谱、智能交通、智能推荐、图神经网络、人机交互、科学防疫](https://mp.weixin.qq.com/s/7ueI-bGLkG7lY3EIu7hcqw). 2020.07.26专知发布.
 
 
-[复旦大学黄萱菁教授：自然语言处理中的表示学习](https://mp.weixin.qq.com/s/4rXYrAMiXXzURhXKQ09-3g). 2020.07.28 AI TIME 论道发布.
+[2020年，知识图谱都有哪些研究风向？](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247514469&idx=2&sn=74159f99caef7a1ec010e8851194cd52&chksm=9094b0f6a7e339e009045e5f2221e644e8a84ec55f86271ea32a8ecf53fecfb951894684b87f&mpshare=1&scene=1&srcid=0721RooC2I3vuWtZqH6l5GAO&sharer_sharetime=1595315015911&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6e0941b52b267ffa896a5b22b0e9d60a20570b403d0c9d3ca14c51e5362aae3ecdbd7c757507b40aaea6de04fdc9db3502a7cb97d46785122165362851b9c9fbb2bee0e83234c425e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYd5G6GzFmjt3WThzBOHvcw%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2)  2020.07.21 AI科技评论. [[Report]](https://mp.weixin.qq.com/s?__biz=MzA5ODEzMjIyMA==&mid=2247514469&idx=2&sn=74159f99caef7a1ec010e8851194cd52&chksm=9094b0f6a7e339e009045e5f2221e644e8a84ec55f86271ea32a8ecf53fecfb951894684b87f&mpshare=1&scene=1&srcid=0721RooC2I3vuWtZqH6l5GAO&sharer_sharetime=1595315015911&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6e0941b52b267ffa896a5b22b0e9d60a20570b403d0c9d3ca14c51e5362aae3ecdbd7c757507b40aaea6de04fdc9db3502a7cb97d46785122165362851b9c9fbb2bee0e83234c425e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AYd5G6GzFmjt3WThzBOHvcw%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2)
+
+
+[最新必读的六篇知识图谱表示学习（KGRL）2020顶会论文和代码](https://mp.weixin.qq.com/s/HYRG0nAQZujD8xVd4l5oWg). 2020.07.17专知发布. [[Report]](https://mp.weixin.qq.com/s/HYRG0nAQZujD8xVd4l5oWg)
+
+
+[知识图谱表示学习@ACL2020最新进展概述, 9篇必看论文](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a). 2020.07.12专知发布. [[Report]](https://www.zhuanzhi.ai/vip/2b6f45498f1e7816ec03e2231147c63a)
+
+
+[必读论文 | 知识图谱必读论文10篇](https://mp.weixin.qq.com/s/C48sunMM0nmh4JNBcdfsmQ). 2020.05.08学术头条发布. 
 
 
 
