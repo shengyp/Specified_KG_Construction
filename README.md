@@ -325,7 +325,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 3. [【大咖直播】知识图谱构建与应用概述 (复旦：王昊奋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5dc116dde4ed6_kBv6z1GD/4). 
 
 
-4. [【大咖直播】ASER：基于高阶选择偏好的常识知识图谱 (港科大：宋阳秋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef850e6720be_mtssEqor/4). [[PPT]](../report/知识图谱前沿论坛系列-宋阳秋老师-0701.pdf). 
+4. [【大咖直播】ASER：基于高阶选择偏好的常识知识图谱 (港科大：宋阳秋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef850e6720be_mtssEqor/4). [[PPT]](./report/知识图谱前沿论坛系列-宋阳秋老师-0701.pdf). 
 
 
 5. [【AIProCon线上大会】多模态知识图谱技术进展和应用 (东大：漆桂林)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd8a0ed777a_GqfnLABY/4?fromH5=true). 
@@ -373,7 +373,15 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 19. [Linux导论，Introduction to Linux（附视频）](https://mp.weixin.qq.com/s/K5aRRqdAYgNoswMy4yEp3Q) [[PPT]](http://www.hpc.lsu.edu/training/weekly-materials/2020-Summer/HPC_Linux_Summer_2020.pdf).
 
 
-20. [Hinton最新演讲透露下一代神经网络模型的构想 | SIGIR 2020 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg)
+20. [Hinton最新演讲透露下一代神经网络模型的构想 | SIGIR 2020 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg).
+
+
+21. [基于自然监督信号的句法结构学习](https://apposcmf8kb5033.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMDY3ZjE5ZTRiMDYxZGU3Y2I1NTE5ZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBvU0NNZjhrYjUwMzMiLCJleHRyYV9kYXRhIjowfQ).
+
+
+
+22. [基文本纠错技术探索和实践](https://mp.weixin.qq.com/s/dk5VG9Clx0J5lxBJiF3pnQ). [[PPT]](./report/平安人寿陈乐清_文本纠错技术的探索与实践.pdf). 
+
 
 
 
