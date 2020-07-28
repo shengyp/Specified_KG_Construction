@@ -314,6 +314,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 [10篇百度KDD2020论文: 知识图谱、智能交通、智能推荐、图神经网络、人机交互、科学防疫](https://mp.weixin.qq.com/s/7ueI-bGLkG7lY3EIu7hcqw). 2020.07.26专知发布.
 
 
+[复旦大学黄萱菁教授：自然语言处理中的表示学习](https://mp.weixin.qq.com/s/4rXYrAMiXXzURhXKQ09-3g). 2020.07.28 AI TIME 论道发布.
+
+
 
 ## Introduction_to_Knowledge_Graph_in_video
 1. [【大咖直播】从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
