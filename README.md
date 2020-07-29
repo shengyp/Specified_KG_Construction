@@ -273,6 +273,10 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 25. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
 
 
+[2020 WAIC明略科技吴信东深度解读知识图谱的自动构建](http://tech.163.com/20/0713/16/FHE8C8F000099A7M.html). 2020.07.13 大众新闻. 
+
+
+
 ## Tutorials
 1. Tutorial: Scalable construction of sustainable knowledge bases. [[ISWC 2019 Tutorial]](https://ottr.xyz/event/2019-10-267-iswc/)
 
