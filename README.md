@@ -13,6 +13,7 @@ Table of Contents
   * [Eventic Graph Construction](#Eventic_Graph_Construction)
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
+  * [Tools](#Tools)
   * [Tutorials](#Tutorials)
   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph)
   * [Introduction to Knowledge Graph in Video](#Introduction_to_Knowledge_Graph_in_video)
@@ -274,6 +275,14 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 
 
 [2020 WAIC明略科技吴信东深度解读知识图谱的自动构建](http://tech.163.com/20/0713/16/FHE8C8F000099A7M.html). 2020.07.13 大众新闻. 
+
+
+## Tools
+1. [OpenNE-Pytorch：开源网络嵌入工具包](https://mp.weixin.qq.com/s?__biz=MzUxODI3MTcwNQ==&mid=2247486119&idx=1&sn=93d4c22a4a9884d29e0b50c73643ac80&chksm=f98a2d11cefda407a415467e13448294a6870b57b60b76f44a9c5c4b49fb0a155de6330ec8fe&mpshare=1&scene=1&srcid=07292qwFoilorUubD7KM58fe&sharer_sharetime=1596033295021&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c548cdb5d95966f4e4ca7f7fe661443d038458e38398b7981060f39d8768728b772e679818b99e9c0030a6acbd31426fbface3ab60e27cd6c0d9ebbafb656c0ef40645bb4b208818b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AfEvL0%2BcaP%2FM%2BkN8Zf74KDM%3D&pass_ticket=sB%2BOY2Wz8kMm5N9TvFmVlYp6BtrM7A7AVcYZIYR4YzIbaXWHxnkTuYpi2VemZ4%2BE)
+
+
+2. [Deep Graph Library](https://www.dgl.ai/)
+
 
 
 
