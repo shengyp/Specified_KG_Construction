@@ -407,7 +407,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 24. [ACM Fellow-UIUC翟成祥教授： 交互式信息检索: 模型、算法和评估 | SIGIR 2020](https://sigir-preview.baai.ac.cn/vod-0726/tut0008.mp4). [[PPT]](./tutorials/iir-tutorial-zhai-sigir2020.pdf). 
 
 
-25. [纽约大学Andrew博士: 贝叶斯深度学习与概率模型构建](https://mp.weixin.qq.com/s/UdM3iMBiss-1KD1jaC2DOA). [[Paper]](https://arxiv.org/pdf/2002.08791.pdf). [[PPT]](./tutorials/bayesdlicml2020.pdf). 
+25. [纽约大学Andrew博士: 贝叶斯深度学习与概率模型构建](https://mp.weixin.qq.com/s/UdM3iMBiss-1KD1jaC2DOA). [[Paper]](https://arxiv.org/pdf/2002.08791.pdf) [[PPT]](./tutorials/bayesdlicml2020.pdf). 
 
 
 ## 学术江湖
