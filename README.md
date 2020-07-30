@@ -404,6 +404,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 23. [NIST高级研究员Ellen Voorhees：信息检索研究中的合作竞争 | SIGIR 2020](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489494&idx=1&sn=ba820562047027952e441a70bde08427&chksm=febf5412c9c8dd04b25bb112dc535437f1b1ddaa12f0b24be8f6177aea7ab2c256dd0ceb4011&mpshare=1&scene=1&srcid=0729Qwtqk9MFeWk4bqMFGEGm&sharer_sharetime=1596013520829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa79092f0e591c35f19c40b9cb681d27dce81c4a92edbf950b610835e2f58a61ba70c2e7734c4cce81651d330090f51d724caf46c88ad6e341ccf273bf9fa2e7d8ab2ef75cf65d37c71d03e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Ac6PG0sUHWxCmS7RCnALHR4%3D&pass_ticket=5wbNy8CgObPhTS3NUTBm2A4xNCKBagxTcU5eGW51ABBi27N5ATMTpZL4pPmNxbPb). 
 
 
+24. [ACM Fellow-UIUC翟成祥教授： 交互式信息检索: 模型、算法和评估 | SIGIR 2020](https://sigir-preview.baai.ac.cn/vod-0726/tut0008.mp4). [[PPT]](./tutorials/iir-tutorial-zhai-sigir2020.pdf). 
+
+
 
 ## 学术江湖
 
