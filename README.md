@@ -410,7 +410,8 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 25. [纽约大学Andrew博士: 贝叶斯深度学习与概率模型构建](https://mp.weixin.qq.com/s/UdM3iMBiss-1KD1jaC2DOA). [[Paper]](https://arxiv.org/pdf/2002.08791.pdf) [[PPT]](./tutorials/bayesdlicml2020.pdf). 
 
 
-26. 2020 DataFunCon 大会回顾 知识图谱专场: [胡芳槐： 助力新基建——
+26. [2020 DataFunCon 大会回顾 (含PPT、视频)](https://mp.weixin.qq.com/s/u9PkJPju7c1vQpnVTxzJ4A).
+2020 DataFunCon 大会回顾 知识图谱专场: [胡芳槐： 助力新基建——
 基于知识图谱构建新一代数据智能基础设施](./report/18-2基于知识图谱构建新一代数据智能基础设施.pdf) | [陈立玮： 知识图谱补全技术分享
 ](./report/18-3知识图谱补全技术分享.pdf) | [杜振东： 面向垂直领域的Open IE图谱构建技术算法解析](./report/18-4面向垂直领域的OpenIE图谱构建技术算法解析.pdf). 
 
