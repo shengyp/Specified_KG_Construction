@@ -341,82 +341,70 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 
 
 ## Introduction_to_Knowledge_Graph_in_video
-1. [【大咖直播】从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true). 
+1. 【大咖直播】 [从专家系统到知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef01ed2d783b_w1RwXHpq/4?fromH5=true) | [基于图表示的自然语言处理 (加拿大蒙特利尔大学：刘邦)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef1b9b71397b_MtIvEcQG/4) | [知识图谱构建与应用概述 (复旦：王昊奋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5dc116dde4ed6_kBv6z1GD/4) | [ASER：基于高阶选择偏好的常识知识图谱 (港科大：宋阳秋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef850e6720be_mtssEqor/4). [[PPT]](./report/知识图谱前沿论坛系列-宋阳秋老师-0701.pdf). 
 
 
-2. [【大咖直播】基于图表示的自然语言处理 (加拿大蒙特利尔大学：刘邦)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef1b9b71397b_MtIvEcQG/4). 
+2. 【AIProCon线上大会】 [多模态知识图谱技术进展和应用 (东大：漆桂林)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd8a0ed777a_GqfnLABY/4?fromH5=true) | [如何“入坑”知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd899b7b3c6_djHhAq4T/4). 
 
 
-3. [【大咖直播】知识图谱构建与应用概述 (复旦：王昊奋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5dc116dde4ed6_kBv6z1GD/4). 
+3. [图处理-全景式视角和开放性问题 (加拿大滑铁卢大学：Tamer Özsu教授)](https://www.bilibili.com/video/BV1QK4y147yz). 
 
 
-4. [【大咖直播】ASER：基于高阶选择偏好的常识知识图谱 (港科大：宋阳秋)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5ef850e6720be_mtssEqor/4). [[PPT]](./report/知识图谱前沿论坛系列-宋阳秋老师-0701.pdf). 
+4. [KRDB Summer Online Seminars 2020](http://www.inf.unibz.it/krdb/sos-2020/) (including [the Virtual Knowledge Graph System](https://mp.weixin.qq.com/s?__biz=MzU2NzY1ODkzMQ==&mid=2247484239&idx=1&sn=312bebf5d943fbe99cf1a843ecedd816&chksm=fc989393cbef1a8510875c12d8a258f460beaffb2f4755e9376c0bf8b8cd50dcacdb4053a373&mpshare=1&scene=1&srcid=0709wQfF8fxVjoWlGjVq282O&sharer_sharetime=1594366777441&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=ad9249a4d4ce1ee49b33e4d208a3864620ee488ef073c6f9d9ca677fadf10a839e17785407511e0d530412d379279f1ae858b1e3fa07e088ffa020f9c634b5effe973091ac99d32a9a80595a6cd59ead&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Abpq3eMmZDK14fEmGCr7SpM%3D&pass_ticket=9IaydkjtYl4tLECMPyCckLXaO%2BS5G3IeImiwfVE7LsaEMSiz0ZFxymDk9%2BD8RZ2f)). 
 
 
-5. [【AIProCon线上大会】多模态知识图谱技术进展和应用 (东大：漆桂林)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd8a0ed777a_GqfnLABY/4?fromH5=true). 
+5. [贾珈：自然语言处理中9个不可不知的研究热点（附视频）](https://mp.weixin.qq.com/s/vk3QDyvVIma8vjDsyYauNA). 
 
 
-6. [【AIProCon线上大会】如何“入坑”知识图谱 (复旦：肖仰华)](https://appqtulvsie4217.pc.xiaoe-tech.com/detail/l_5efd899b7b3c6_djHhAq4T/4). 
+6. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
 
 
-7. [图处理-全景式视角和开放性问题 (加拿大滑铁卢大学：Tamer Özsu教授)](https://www.bilibili.com/video/BV1QK4y147yz). 
+7. [UIUC教授季姮：叫我带头人，而不是女性带头人（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488954&idx=2&sn=a668c9721646307b0d0288ea91758e70&chksm=febf567ec9c8df68598111114bc4fefc7d00536433f9ff0034074847967656309372c482a6ef&mpshare=1&scene=1&srcid=072088gd2sbPTexh5frnI6sf&sharer_sharetime=1595219293214&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa7909215e9d980dcb5f401880959b9e1646134e3e439d74a9866e2b867254a20edf294c8c6853a8d9b96452ba26c95898dc71f97d5b1e66461ba006a82532845f336944780030b852d8ebb&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcXL7cih0v7IgRusolM8%2BpM%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2).
 
 
-8. [KRDB Summer Online Seminars 2020](http://www.inf.unibz.it/krdb/sos-2020/) (including [the Virtual Knowledge Graph System](https://mp.weixin.qq.com/s?__biz=MzU2NzY1ODkzMQ==&mid=2247484239&idx=1&sn=312bebf5d943fbe99cf1a843ecedd816&chksm=fc989393cbef1a8510875c12d8a258f460beaffb2f4755e9376c0bf8b8cd50dcacdb4053a373&mpshare=1&scene=1&srcid=0709wQfF8fxVjoWlGjVq282O&sharer_sharetime=1594366777441&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=ad9249a4d4ce1ee49b33e4d208a3864620ee488ef073c6f9d9ca677fadf10a839e17785407511e0d530412d379279f1ae858b1e3fa07e088ffa020f9c634b5effe973091ac99d32a9a80595a6cd59ead&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Abpq3eMmZDK14fEmGCr7SpM%3D&pass_ticket=9IaydkjtYl4tLECMPyCckLXaO%2BS5G3IeImiwfVE7LsaEMSiz0ZFxymDk9%2BD8RZ2f)). 
+8. [斯坦福大学Christopher Manning：Transformer语言模型为什么能取得突破](https://mp.weixin.qq.com/s/zOy3ox42YJHyEBW8g7MjdA).
 
 
-9. [贾珈：自然语言处理中9个不可不知的研究热点（附视频）](https://mp.weixin.qq.com/s/vk3QDyvVIma8vjDsyYauNA). 
+9. [Manning、Ostendorf、Povey、何晓冬、周明共话多模态NLP的机遇和挑战（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488568&idx=1&sn=d9351b098be46f7bb69d18c6f59ac8a1&chksm=febf57fcc9c8deea89561f083767bd19baa649b2fbade7ab44ec8796a486d08788ce651aec35&mpshare=1&scene=1&srcid=0721JhvqaELEPSIHFymIZnmm&sharer_sharetime=1595341020119&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=7adf10a6617c6315caf360f1431bbd4bf92a2359c737b880898fd93e7bc029428cebb2197fb89319f4444029988f05f8ac8a7a64ea88137e12ae4e46d7a5f676f4cedc20b1595d774aa60b8d9214d0e1&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUbyR9VFQn8MirIMAmhW8mI%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
 
 
-10. [兰艳艳：SIGIR十年趋势（附视频）](https://mp.weixin.qq.com/s/bBs9q2MWgW2x341hcY1UeA).
+10. [微众银行 CAIO 杨强：人工智能的新三大定律（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489044&idx=1&sn=881149ecd1a35c183fd4e65ddbdcb958&chksm=febf55d0c9c8dcc6f6965ca47391c231b79eedd81f0f167d9069e7d5488aa2d38c1d39eaf561&mpshare=1&scene=1&srcid=07214riMr8Z0GdFYCecEO7i2&sharer_sharetime=1595340803385&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c96afd23987a3a607a7374359b5ad9149abb93b3346cb6c18e3dde8252bb5bb30743e5b27de466dc4fd2a930bf418beb006d7c2eddf5ab4dea8bb1d1ce06a35ca72743743fddaf077&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUFUM4OIk2880mUQVd3lsaQ%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
 
 
-11. [UIUC教授季姮：叫我带头人，而不是女性带头人（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488954&idx=2&sn=a668c9721646307b0d0288ea91758e70&chksm=febf567ec9c8df68598111114bc4fefc7d00536433f9ff0034074847967656309372c482a6ef&mpshare=1&scene=1&srcid=072088gd2sbPTexh5frnI6sf&sharer_sharetime=1595219293214&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa7909215e9d980dcb5f401880959b9e1646134e3e439d74a9866e2b867254a20edf294c8c6853a8d9b96452ba26c95898dc71f97d5b1e66461ba006a82532845f336944780030b852d8ebb&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AcXL7cih0v7IgRusolM8%2BpM%3D&pass_ticket=u22P4Ln7XC2%2BsP9KHYz6j5EqMiGjJz9%2FLgFaLO91IUgeudkS51Ftz8tgNaRL0uK2).
+11. [清华大学张悠慧：超越冯·诺依曼模型，实现软硬件去耦合的类脑计算（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488684&idx=1&sn=2b7cb9152a7e5faa8af0f34acf3e285e&chksm=febf5768c9c8de7ea1594e8cc109f0b2ee056a75389ae604b0738b67d139f154ac8c819a8c02&mpshare=1&scene=1&srcid=0721yeiOrY8dVNmZjzWiXRKD&sharer_sharetime=1595341006829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6d1d092f3d5e3ff59b2f155b1b897d2577ec65d11be8c46cf17c8d32e5a69310b90d9729b156fe16e4ffada576cd8d616782ecc80b588e07e072e4b2c8f43c57ac0fca5da373c922c&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AZ%2FGavZVVM0WawcZj5egzdc%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
 
 
-12. [斯坦福大学Christopher Manning：Transformer语言模型为什么能取得突破](https://mp.weixin.qq.com/s/zOy3ox42YJHyEBW8g7MjdA).
+12. [下一代图神经网络是什么？（几何深度学习，大牛Max Welling教授视频讲解）](https://mp.weixin.qq.com/s/PSIFmk9aEafvzm74SGwRrQ).
 
 
-13. [Manning、Ostendorf、Povey、何晓冬、周明共话多模态NLP的机遇和挑战（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488568&idx=1&sn=d9351b098be46f7bb69d18c6f59ac8a1&chksm=febf57fcc9c8deea89561f083767bd19baa649b2fbade7ab44ec8796a486d08788ce651aec35&mpshare=1&scene=1&srcid=0721JhvqaELEPSIHFymIZnmm&sharer_sharetime=1595341020119&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=7adf10a6617c6315caf360f1431bbd4bf92a2359c737b880898fd93e7bc029428cebb2197fb89319f4444029988f05f8ac8a7a64ea88137e12ae4e46d7a5f676f4cedc20b1595d774aa60b8d9214d0e1&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUbyR9VFQn8MirIMAmhW8mI%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
+13. [MILA研究院唐建：基于图神经网络的关系推理（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA).
 
 
-14. [微众银行 CAIO 杨强：人工智能的新三大定律（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489044&idx=1&sn=881149ecd1a35c183fd4e65ddbdcb958&chksm=febf55d0c9c8dcc6f6965ca47391c231b79eedd81f0f167d9069e7d5488aa2d38c1d39eaf561&mpshare=1&scene=1&srcid=07214riMr8Z0GdFYCecEO7i2&sharer_sharetime=1595340803385&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c96afd23987a3a607a7374359b5ad9149abb93b3346cb6c18e3dde8252bb5bb30743e5b27de466dc4fd2a930bf418beb006d7c2eddf5ab4dea8bb1d1ce06a35ca72743743fddaf077&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUFUM4OIk2880mUQVd3lsaQ%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
+14. [几何数据嵌入表示学习（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA) [[PPT]](./report/Learned_Embeddings_of_Geometric_Data.pdf).
 
 
-15. [清华大学张悠慧：超越冯·诺依曼模型，实现软硬件去耦合的类脑计算（附视频）](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247488684&idx=1&sn=2b7cb9152a7e5faa8af0f34acf3e285e&chksm=febf5768c9c8de7ea1594e8cc109f0b2ee056a75389ae604b0738b67d139f154ac8c819a8c02&mpshare=1&scene=1&srcid=0721yeiOrY8dVNmZjzWiXRKD&sharer_sharetime=1595341006829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=fdd054e9602c88a6d1d092f3d5e3ff59b2f155b1b897d2577ec65d11be8c46cf17c8d32e5a69310b90d9729b156fe16e4ffada576cd8d616782ecc80b588e07e072e4b2c8f43c57ac0fca5da373c922c&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AZ%2FGavZVVM0WawcZj5egzdc%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
+15. [Linux导论，Introduction to Linux（附视频）](https://mp.weixin.qq.com/s/K5aRRqdAYgNoswMy4yEp3Q) [[PPT]](http://www.hpc.lsu.edu/training/weekly-materials/2020-Summer/HPC_Linux_Summer_2020.pdf).
 
 
-16. [下一代图神经网络是什么？（几何深度学习，大牛Max Welling教授视频讲解）](https://mp.weixin.qq.com/s/PSIFmk9aEafvzm74SGwRrQ).
+16. [Hinton最新演讲透露下一代神经网络模型的构想 | SIGIR 2020 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg).
 
 
-17. [MILA研究院唐建：基于图神经网络的关系推理（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA).
+17. [基于自然监督信号的句法结构学习](https://apposcmf8kb5033.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMDY3ZjE5ZTRiMDYxZGU3Y2I1NTE5ZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBvU0NNZjhrYjUwMzMiLCJleHRyYV9kYXRhIjowfQ). [[PPT]](./report/智东西公开课-NLP前沿讲座第1讲课件-基于自然监督信号的句法结构学习-丰田工业大学芝加哥分校.pdf). 
 
 
-18. [几何数据嵌入表示学习（附视频）](https://mp.weixin.qq.com/s/SIawiyranfCcznKWxB0yvA) [[PPT]](./report/Learned_Embeddings_of_Geometric_Data.pdf).
+18. [基文本纠错技术探索和实践](https://mp.weixin.qq.com/s/dk5VG9Clx0J5lxBJiF3pnQ). [[PPT]](./report/平安人寿陈乐清_文本纠错技术的探索与实践.pdf). 
 
 
-19. [Linux导论，Introduction to Linux（附视频）](https://mp.weixin.qq.com/s/K5aRRqdAYgNoswMy4yEp3Q) [[PPT]](http://www.hpc.lsu.edu/training/weekly-materials/2020-Summer/HPC_Linux_Summer_2020.pdf).
+19. [NIST高级研究员Ellen Voorhees：信息检索研究中的合作竞争 | SIGIR 2020](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489494&idx=1&sn=ba820562047027952e441a70bde08427&chksm=febf5412c9c8dd04b25bb112dc535437f1b1ddaa12f0b24be8f6177aea7ab2c256dd0ceb4011&mpshare=1&scene=1&srcid=0729Qwtqk9MFeWk4bqMFGEGm&sharer_sharetime=1596013520829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa79092f0e591c35f19c40b9cb681d27dce81c4a92edbf950b610835e2f58a61ba70c2e7734c4cce81651d330090f51d724caf46c88ad6e341ccf273bf9fa2e7d8ab2ef75cf65d37c71d03e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Ac6PG0sUHWxCmS7RCnALHR4%3D&pass_ticket=5wbNy8CgObPhTS3NUTBm2A4xNCKBagxTcU5eGW51ABBi27N5ATMTpZL4pPmNxbPb). 
 
 
-20. [Hinton最新演讲透露下一代神经网络模型的构想 | SIGIR 2020 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg).
+20. [ACM Fellow-UIUC翟成祥教授： 交互式信息检索: 模型、算法和评估 | SIGIR 2020](https://sigir-preview.baai.ac.cn/vod-0726/tut0008.mp4). [[PPT]](./tutorials/iir-tutorial-zhai-sigir2020.pdf). 
 
 
-21. [基于自然监督信号的句法结构学习](https://apposcmf8kb5033.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMDY3ZjE5ZTRiMDYxZGU3Y2I1NTE5ZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBvU0NNZjhrYjUwMzMiLCJleHRyYV9kYXRhIjowfQ). [[PPT]](./report/智东西公开课-NLP前沿讲座第1讲课件-基于自然监督信号的句法结构学习-丰田工业大学芝加哥分校.pdf). 
+21. [纽约大学Andrew博士: 贝叶斯深度学习与概率模型构建](https://mp.weixin.qq.com/s/UdM3iMBiss-1KD1jaC2DOA). [[Paper]](https://arxiv.org/pdf/2002.08791.pdf) [[PPT]](./tutorials/bayesdlicml2020.pdf). 
 
 
-22. [基文本纠错技术探索和实践](https://mp.weixin.qq.com/s/dk5VG9Clx0J5lxBJiF3pnQ). [[PPT]](./report/平安人寿陈乐清_文本纠错技术的探索与实践.pdf). 
-
-
-23. [NIST高级研究员Ellen Voorhees：信息检索研究中的合作竞争 | SIGIR 2020](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489494&idx=1&sn=ba820562047027952e441a70bde08427&chksm=febf5412c9c8dd04b25bb112dc535437f1b1ddaa12f0b24be8f6177aea7ab2c256dd0ceb4011&mpshare=1&scene=1&srcid=0729Qwtqk9MFeWk4bqMFGEGm&sharer_sharetime=1596013520829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa79092f0e591c35f19c40b9cb681d27dce81c4a92edbf950b610835e2f58a61ba70c2e7734c4cce81651d330090f51d724caf46c88ad6e341ccf273bf9fa2e7d8ab2ef75cf65d37c71d03e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Ac6PG0sUHWxCmS7RCnALHR4%3D&pass_ticket=5wbNy8CgObPhTS3NUTBm2A4xNCKBagxTcU5eGW51ABBi27N5ATMTpZL4pPmNxbPb). 
-
-
-24. [ACM Fellow-UIUC翟成祥教授： 交互式信息检索: 模型、算法和评估 | SIGIR 2020](https://sigir-preview.baai.ac.cn/vod-0726/tut0008.mp4). [[PPT]](./tutorials/iir-tutorial-zhai-sigir2020.pdf). 
-
-
-25. [纽约大学Andrew博士: 贝叶斯深度学习与概率模型构建](https://mp.weixin.qq.com/s/UdM3iMBiss-1KD1jaC2DOA). [[Paper]](https://arxiv.org/pdf/2002.08791.pdf) [[PPT]](./tutorials/bayesdlicml2020.pdf). 
-
-
-26. [2020 DataFunCon 大会回顾 (含PPT、视频)](https://mp.weixin.qq.com/s/u9PkJPju7c1vQpnVTxzJ4A).
+22. [2020 DataFunCon 大会回顾 (含PPT、视频)](https://mp.weixin.qq.com/s/u9PkJPju7c1vQpnVTxzJ4A).
 2020 DataFunCon 大会回顾 知识图谱专场: [胡芳槐： 助力新基建——
 基于知识图谱构建新一代数据智能基础设施](./report/18-2基于知识图谱构建新一代数据智能基础设施.pdf) | [陈立玮： 知识图谱补全技术分享
 ](./report/18-3知识图谱补全技术分享.pdf) | [杜振东： 面向垂直领域的Open IE图谱构建技术算法解析](./report/18-4面向垂直领域的OpenIE图谱构建技术算法解析.pdf). 
