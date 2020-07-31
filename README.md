@@ -410,6 +410,9 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 ](./report/18-3知识图谱补全技术分享.pdf) | [杜振东： 面向垂直领域的Open IE图谱构建技术算法解析](./report/18-4面向垂直领域的OpenIE图谱构建技术算法解析.pdf). 
 
 
+23. 【2020 犀牛鸟研学营】 [课程一 人工智能的发展与挑战](https://www.withzz.com/live/239) | [课程二 AI IN GAME系列](https://www.withzz.com/live/240) | [课程三 机器人系列](https://www.withzz.com/live/243) | [课程四 AI医疗系列](https://www.withzz.com/live/248) | [课程五 自然语言处理系列](https://www.withzz.com/live/253) | [课程六 产业相关系列](https://www.withzz.com/live/259) | [课程七 自动驾驶系列](https://www.withzz.com/live/267) | [课程八 多模态AI系列](https://www.withzz.com/live/269) |
+
+
 
 ## 学术江湖
 1. [中国高校报考指南（江湖版）](https://mp.weixin.qq.com/s?__biz=Mzg4MDE3OTA5NA==&mid=2247505600&idx=1&sn=076460ebfa4b22a4ba4659ba67805b9d&chksm=cf7bb439f80c3d2f9339fbaa39dc460c08f703c84ce7e677102331a3e43ae385541acbd0cde9&mpshare=1&scene=1&srcid=0721w1j92gvQjSvxcH3UkhTB&sharer_sharetime=1595337864845&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c5110344e4e6245549a143ba178def50010987a6fed2397ad5af3a0bf431ddee89c0f0d776e096214ee1387702beb161840dda5f1c3d28550cd9f89317a2a38463c3af4c45d7c8f0b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AUdXGCJpfZ%2Fiyzx5w2os3uA%3D&pass_ticket=742stD4QfQtBM2dzDr8C1odLrmSrLQq%2BlQcwt%2B8Jwx7%2FYXbWSRp0UT8XjRt1eM0P).
