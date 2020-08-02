@@ -13,10 +13,10 @@ Table of Contents
   * [Eventic Graph Construction](#Eventic_Graph_Construction)
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
-  * [Tools](#Tools)
   * [Tutorials](#Tutorials)
   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph)
   * [Introduction to Knowledge Graph in Video](#Introduction_to_Knowledge_Graph_in_video)
+  * [Tools](#Tools)
   * [学术江湖](#学术江湖)
 
 
@@ -43,34 +43,37 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 7. Christian Bizer, Tom Heath, Tim Berners-Lee. [Linked Data - The Story So Far](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf). ijswis-special-issue 2009. [[Paper]](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf)
 
 
-8. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
+8. 刘烨宸, 李华昱. [领域知识图谱研究综述](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6). 电子技术应用 2020年第29卷第6期. [[Paper]](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6)
 
 
-9. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
+9. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
 
 
-10. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
+10. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
 
 
-11. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
+11. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
 
 
-12. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
+12. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
 
 
-13. 李赫然, 冯花朴. [信息行为研究的知识图谱综述](paper/信息行为研究的知识图谱综述.pdf). 信息管理与信息学 2017. [[Paper]](paper/信息行为研究的知识图谱综述.pdf)
+13. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
 
 
-14. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
+14. 李赫然, 冯花朴. [信息行为研究的知识图谱综述](paper/信息行为研究的知识图谱综述.pdf). 信息管理与信息学 2017. [[Paper]](paper/信息行为研究的知识图谱综述.pdf)
 
 
-15. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
+15. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
 
 
-16. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+16. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
 
 
-17. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+17. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+18. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
 [358篇机器学习 & 自然语言处理综述论文](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202). 2020.07.18专知发布. [[Report]](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202)
@@ -277,15 +280,6 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 [2020 WAIC明略科技吴信东深度解读知识图谱的自动构建](http://tech.163.com/20/0713/16/FHE8C8F000099A7M.html). 2020.07.13 大众新闻. 
 
 
-## Tools
-1. [OpenNE-Pytorch：开源网络嵌入工具包](https://mp.weixin.qq.com/s?__biz=MzUxODI3MTcwNQ==&mid=2247486119&idx=1&sn=93d4c22a4a9884d29e0b50c73643ac80&chksm=f98a2d11cefda407a415467e13448294a6870b57b60b76f44a9c5c4b49fb0a155de6330ec8fe&mpshare=1&scene=1&srcid=07292qwFoilorUubD7KM58fe&sharer_sharetime=1596033295021&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c548cdb5d95966f4e4ca7f7fe661443d038458e38398b7981060f39d8768728b772e679818b99e9c0030a6acbd31426fbface3ab60e27cd6c0d9ebbafb656c0ef40645bb4b208818b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AfEvL0%2BcaP%2FM%2BkN8Zf74KDM%3D&pass_ticket=sB%2BOY2Wz8kMm5N9TvFmVlYp6BtrM7A7AVcYZIYR4YzIbaXWHxnkTuYpi2VemZ4%2BE)
-
-
-2. [Deep Graph Library](https://www.dgl.ai/)
-
-
-
-
 ## Tutorials
 1. [北大张铭教授：基于知识图谱的机器学习](https://mp.weixin.qq.com/s/A98Pr2KdR3o37Hd-bLFYvQ)
 
@@ -411,6 +405,14 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 
 
 23. 【2020 犀牛鸟研学营】 [课程一 人工智能的发展与挑战](https://www.withzz.com/live/239) | [课程二 AI IN GAME系列](https://www.withzz.com/live/240) | [课程三 机器人系列](https://www.withzz.com/live/243) | [课程四 AI医疗系列](https://www.withzz.com/live/248) | [课程五 自然语言处理系列](https://www.withzz.com/live/253) | [课程六 产业相关系列](https://www.withzz.com/live/259) | [课程七 自动驾驶系列](https://www.withzz.com/live/267) | [课程八 多模态AI系列](https://www.withzz.com/live/269). 2020.07
+
+
+
+## Tools
+1. [OpenNE-Pytorch：开源网络嵌入工具包](https://mp.weixin.qq.com/s?__biz=MzUxODI3MTcwNQ==&mid=2247486119&idx=1&sn=93d4c22a4a9884d29e0b50c73643ac80&chksm=f98a2d11cefda407a415467e13448294a6870b57b60b76f44a9c5c4b49fb0a155de6330ec8fe&mpshare=1&scene=1&srcid=07292qwFoilorUubD7KM58fe&sharer_sharetime=1596033295021&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c548cdb5d95966f4e4ca7f7fe661443d038458e38398b7981060f39d8768728b772e679818b99e9c0030a6acbd31426fbface3ab60e27cd6c0d9ebbafb656c0ef40645bb4b208818b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AfEvL0%2BcaP%2FM%2BkN8Zf74KDM%3D&pass_ticket=sB%2BOY2Wz8kMm5N9TvFmVlYp6BtrM7A7AVcYZIYR4YzIbaXWHxnkTuYpi2VemZ4%2BE)
+
+
+2. [Deep Graph Library](https://www.dgl.ai/)
 
 
 
