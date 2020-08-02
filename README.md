@@ -380,7 +380,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 15. [Linux导论，Introduction to Linux（附视频）](https://mp.weixin.qq.com/s/K5aRRqdAYgNoswMy4yEp3Q) [[PPT]](http://www.hpc.lsu.edu/training/weekly-materials/2020-Summer/HPC_Linux_Summer_2020.pdf).
 
 
-16. [Hinton最新演讲透露下一代神经网络模型的构想 | SIGIR 2020 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg).
+16. 【SIGIR 2020】 [Hinton最新演讲透露下一代神经网络模型的构想 (附视频)](https://mp.weixin.qq.com/s/SNOaBJ-9hVT3ZS4bhyaypg) | [NIST高级研究员Ellen Voorhees：信息检索研究中的合作竞争](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489494&idx=1&sn=ba820562047027952e441a70bde08427&chksm=febf5412c9c8dd04b25bb112dc535437f1b1ddaa12f0b24be8f6177aea7ab2c256dd0ceb4011&mpshare=1&scene=1&srcid=0729Qwtqk9MFeWk4bqMFGEGm&sharer_sharetime=1596013520829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa79092f0e591c35f19c40b9cb681d27dce81c4a92edbf950b610835e2f58a61ba70c2e7734c4cce81651d330090f51d724caf46c88ad6e341ccf273bf9fa2e7d8ab2ef75cf65d37c71d03e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Ac6PG0sUHWxCmS7RCnALHR4%3D&pass_ticket=5wbNy8CgObPhTS3NUTBm2A4xNCKBagxTcU5eGW51ABBi27N5ATMTpZL4pPmNxbPb) | [ACM Fellow-UIUC翟成祥教授： 交互式信息检索: 模型、算法和评估](https://sigir-preview.baai.ac.cn/vod-0726/tut0008.mp4). [[PPT]](./tutorials/iir-tutorial-zhai-sigir2020.pdf) | [徐宗本院士: 机器学习的前提：一个元理论](https://mp.weixin.qq.com/s/WyDWuXCnCGsgxc_uXFJZGw)  [[Video]](https://sigir-preview.baai.ac.cn/vod-0727/Keynote-II.mp4).
 
 
 17. [基于自然监督信号的句法结构学习](https://apposcmf8kb5033.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVmMDY3ZjE5ZTRiMDYxZGU3Y2I1NTE5ZiIsInByb2R1Y3RfaWQiOiIiLCJhcHBfaWQiOiJhcHBvU0NNZjhrYjUwMzMiLCJleHRyYV9kYXRhIjowfQ). [[PPT]](./report/智东西公开课-NLP前沿讲座第1讲课件-基于自然监督信号的句法结构学习-丰田工业大学芝加哥分校.pdf). 
@@ -389,22 +389,16 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 18. [基文本纠错技术探索和实践](https://mp.weixin.qq.com/s/dk5VG9Clx0J5lxBJiF3pnQ). [[PPT]](./report/平安人寿陈乐清_文本纠错技术的探索与实践.pdf). 
 
 
-19. [NIST高级研究员Ellen Voorhees：信息检索研究中的合作竞争 | SIGIR 2020](https://mp.weixin.qq.com/s?__biz=MzU5ODg0MTAwMw==&mid=2247489494&idx=1&sn=ba820562047027952e441a70bde08427&chksm=febf5412c9c8dd04b25bb112dc535437f1b1ddaa12f0b24be8f6177aea7ab2c256dd0ceb4011&mpshare=1&scene=1&srcid=0729Qwtqk9MFeWk4bqMFGEGm&sharer_sharetime=1596013520829&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=a1d17b2e5fa79092f0e591c35f19c40b9cb681d27dce81c4a92edbf950b610835e2f58a61ba70c2e7734c4cce81651d330090f51d724caf46c88ad6e341ccf273bf9fa2e7d8ab2ef75cf65d37c71d03e&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=Ac6PG0sUHWxCmS7RCnALHR4%3D&pass_ticket=5wbNy8CgObPhTS3NUTBm2A4xNCKBagxTcU5eGW51ABBi27N5ATMTpZL4pPmNxbPb). 
+19. [纽约大学Andrew博士: 贝叶斯深度学习与概率模型构建](https://mp.weixin.qq.com/s/UdM3iMBiss-1KD1jaC2DOA). [[Paper]](https://arxiv.org/pdf/2002.08791.pdf) [[PPT]](./tutorials/bayesdlicml2020.pdf). 
 
 
-20. [ACM Fellow-UIUC翟成祥教授： 交互式信息检索: 模型、算法和评估 | SIGIR 2020](https://sigir-preview.baai.ac.cn/vod-0726/tut0008.mp4). [[PPT]](./tutorials/iir-tutorial-zhai-sigir2020.pdf). 
-
-
-21. [纽约大学Andrew博士: 贝叶斯深度学习与概率模型构建](https://mp.weixin.qq.com/s/UdM3iMBiss-1KD1jaC2DOA). [[Paper]](https://arxiv.org/pdf/2002.08791.pdf) [[PPT]](./tutorials/bayesdlicml2020.pdf). 
-
-
-22. [2020 DataFunCon 大会回顾 (含PPT、视频)](https://mp.weixin.qq.com/s/u9PkJPju7c1vQpnVTxzJ4A).
+20. [2020 DataFunCon 大会回顾 (含PPT、视频)](https://mp.weixin.qq.com/s/u9PkJPju7c1vQpnVTxzJ4A).
 2020 DataFunCon 大会回顾 知识图谱专场: [胡芳槐： 助力新基建——
 基于知识图谱构建新一代数据智能基础设施](./report/18-2基于知识图谱构建新一代数据智能基础设施.pdf) | [陈立玮： 知识图谱补全技术分享
 ](./report/18-3知识图谱补全技术分享.pdf) | [杜振东： 面向垂直领域的Open IE图谱构建技术算法解析](./report/18-4面向垂直领域的OpenIE图谱构建技术算法解析.pdf). 
 
 
-23. 【2020 犀牛鸟研学营】 [课程一 人工智能的发展与挑战](https://www.withzz.com/live/239) | [课程二 AI IN GAME系列](https://www.withzz.com/live/240) | [课程三 机器人系列](https://www.withzz.com/live/243) | [课程四 AI医疗系列](https://www.withzz.com/live/248) | [课程五 自然语言处理系列](https://www.withzz.com/live/253) | [课程六 产业相关系列](https://www.withzz.com/live/259) | [课程七 自动驾驶系列](https://www.withzz.com/live/267) | [课程八 多模态AI系列](https://www.withzz.com/live/269). 2020.07
+21. 【2020 犀牛鸟研学营】 [课程一 人工智能的发展与挑战](https://www.withzz.com/live/239) | [课程二 AI IN GAME系列](https://www.withzz.com/live/240) | [课程三 机器人系列](https://www.withzz.com/live/243) | [课程四 AI医疗系列](https://www.withzz.com/live/248) | [课程五 自然语言处理系列](https://www.withzz.com/live/253) | [课程六 产业相关系列](https://www.withzz.com/live/259) | [课程七 自动驾驶系列](https://www.withzz.com/live/267) | [课程八 多模态AI系列](https://www.withzz.com/live/269). 2020.07
 
 
 
