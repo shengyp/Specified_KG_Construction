@@ -8,13 +8,13 @@ Here, we are concentrate on collection of research papers associated with knowle
 Table of Contents
 =================
 
+<!--   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph) -->
   * [Survey](#Survey)
   * [Commonsense Knowledge Graph Construction](#Commonsense_Knowledge_Graph_Construction)
   * [Eventic Graph Construction](#Eventic_Graph_Construction)
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
   * [Tutorials](#Tutorials)
-<!--   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph) -->
   * [Introduction to Knowledge Graph in Video](#Introduction_to_Knowledge_Graph_in_video)
   * [Tools](#Tools)
   * [学术江湖](#学术江湖)
