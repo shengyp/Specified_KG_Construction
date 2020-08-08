@@ -14,7 +14,7 @@ Table of Contents
   * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
   * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
   * [Tutorials](#Tutorials)
-  * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph)
+<!--   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph) -->
   * [Introduction to Knowledge Graph in Video](#Introduction_to_Knowledge_Graph_in_video)
   * [Tools](#Tools)
   * [学术江湖](#学术江湖)
@@ -296,7 +296,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 5. Colin Puri. [Building A Simple Knowledge Graph with UN Data](https://assets.pubpub.org/ike3bea9/71590171394041.pdf)
 
 
-## Research_Report_of_Knowledge_Graph
+<!-- ## Research_Report_of_Knowledge_Graph
 1. [知识图谱助力疫情防控和复工复产案例集](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf). 2020年第1期. [[Report]](http://www.cesi.cn/images/editor/20200302/20200302142150265.pdf)
 
 
@@ -309,7 +309,7 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 4. [知识图谱标准化白皮书](report/知识图谱标准化白皮书_2019.pdf). 2019版. [[Report]](report/知识图谱标准化白皮书_2019.pdf)
 
 
-5. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf)
+5. [知识图谱发展报告](report/KGDevReport2018.pdf). 2018.08. [[Report]](report/KGDevReport2018.pdf) -->
 
 
 [复旦大学黄萱菁教授：自然语言处理中的表示学习](https://mp.weixin.qq.com/s/4rXYrAMiXXzURhXKQ09-3g). 2020.07.28 AI TIME 论道发布.
@@ -400,6 +400,8 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 
 21. 【2020 犀牛鸟研学营】 [课程一 人工智能的发展与挑战](https://www.withzz.com/live/239) | [课程二 AI IN GAME系列](https://www.withzz.com/live/240) | [课程三 机器人系列](https://www.withzz.com/live/243) | [课程四 AI医疗系列](https://www.withzz.com/live/248) | [课程五 自然语言处理系列](https://www.withzz.com/live/253) | [课程六 产业相关系列](https://www.withzz.com/live/259) | [课程七 自动驾驶系列](https://www.withzz.com/live/267) | [课程八 多模态AI系列](https://www.withzz.com/live/269). 2020.07
 
+
+22. [南加州大学钱学海：去中心化分布式训练系统的最新突破](https://mp.weixin.qq.com/s/rVtILsVKSopPGt4pW-1oxQ). 
 
 
 ## Tools
