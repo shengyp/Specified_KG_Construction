@@ -278,22 +278,6 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 [2020 WAIC明略科技吴信东深度解读知识图谱的自动构建](http://tech.163.com/20/0713/16/FHE8C8F000099A7M.html). 2020.07.13 大众新闻. 
 
 
-## Tutorials
-1. [北大张铭教授：基于知识图谱的机器学习](https://mp.weixin.qq.com/s/A98Pr2KdR3o37Hd-bLFYvQ)
-
-
-2. Tutorial: Scalable construction of sustainable knowledge bases. [[ISWC 2019 Tutorial]](https://ottr.xyz/event/2019-10-267-iswc/)
-
-
-3. 赵东岩. [知识图谱关键技术及其智能应用](tutorials/北京大学-赵东岩-知识图谱的关键技术及其智能应用.pdf)
-
-
-4. Amit Sheth. [Knowledge Graphs and Their Central Role in Big Data Processing: Past, Present, and Future](tutorials/Knowledge_Graphs_and_Their_Central_Role_in_Big_Data_Processing.pdf)
-
-
-5. Colin Puri. [Building A Simple Knowledge Graph with UN Data](https://assets.pubpub.org/ike3bea9/71590171394041.pdf)
-
-
 
 ## Tools
 1. [OpenNE-Pytorch：开源网络嵌入工具包](https://mp.weixin.qq.com/s?__biz=MzUxODI3MTcwNQ==&mid=2247486119&idx=1&sn=93d4c22a4a9884d29e0b50c73643ac80&chksm=f98a2d11cefda407a415467e13448294a6870b57b60b76f44a9c5c4b49fb0a155de6330ec8fe&mpshare=1&scene=1&srcid=07292qwFoilorUubD7KM58fe&sharer_sharetime=1596033295021&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c548cdb5d95966f4e4ca7f7fe661443d038458e38398b7981060f39d8768728b772e679818b99e9c0030a6acbd31426fbface3ab60e27cd6c0d9ebbafb656c0ef40645bb4b208818b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AfEvL0%2BcaP%2FM%2BkN8Zf74KDM%3D&pass_ticket=sB%2BOY2Wz8kMm5N9TvFmVlYp6BtrM7A7AVcYZIYR4YzIbaXWHxnkTuYpi2VemZ4%2BE)
