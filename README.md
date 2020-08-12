@@ -247,32 +247,35 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 16. Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, Zhong Su. [ArnetMiner: Extraction and Mining of Academic Social Networks](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf). KDD 2008. [[Paper]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf)
 
 
-17. 杨玉基, 许斌, 胡家威, 仝美涵, 张鹏, 郑莉. [一种准确而高效的领域知识图谱构建方法](http://www.jos.org.cn/ch/reader/download_pdf.aspx?file_no=5552&year_id=2018&quarter_id=10&falg=1). 软件学报 2018. [[Paper]](http://www.jos.org.cn/ch/reader/download_pdf.aspx?file_no=5552&year_id=2018&quarter_id=10&falg=1)
+17. 周园春, 王卫军, 乔子越, 肖濛, 杜一. [科技大数据知识图谱构建方法及应用研究综述](https://engine.scichina.com/publisher/scp/journal/SSI/50/7/10.1360/SSI-2019-0271?slug=abstract). 中国科学：信息科学 2020. [[Paper]](https://engine.scichina.com/publisher/scp/journal/SSI/50/7/10.1360/SSI-2019-0271?slug=abstract)
 
 
-18. 袁凯琦, 邓扬, 陈道源, 张冰, 雷凯, 沈 颖
+18. 杨玉基, 许斌, 胡家威, 仝美涵, 张鹏, 郑莉. [一种准确而高效的领域知识图谱构建方法](http://www.jos.org.cn/ch/reader/download_pdf.aspx?file_no=5552&year_id=2018&quarter_id=10&falg=1). 软件学报 2018. [[Paper]](http://www.jos.org.cn/ch/reader/download_pdf.aspx?file_no=5552&year_id=2018&quarter_id=10&falg=1)
+
+
+19. 袁凯琦, 邓扬, 陈道源, 张冰, 雷凯, 沈 颖
 . [医学知识图谱构建技术与研究进展](paper/医学知识图谱构建技术与研究进展_袁凯琦.pdf). 计算机应用研究 2017年第35卷第7期. [[Paper]](paper/医学知识图谱构建技术与研究进展_袁凯琦.pdf)
 
 
-19. 蒋秉川, 万刚, 许剑, 李锋, 温荟琦. [多源异构数据的大规模地理知识图谱构建](paper/多源异构数据的大规模地理知识图谱构建.pdf). 测绘学报 2018 第8期. [[Paper]](paper/多源异构数据的大规模地理知识图谱构建.pdf)
+20. 蒋秉川, 万刚, 许剑, 李锋, 温荟琦. [多源异构数据的大规模地理知识图谱构建](paper/多源异构数据的大规模地理知识图谱构建.pdf). 测绘学报 2018 第8期. [[Paper]](paper/多源异构数据的大规模地理知识图谱构建.pdf)
 
 
-20. 温雯, 伍思杰, 蔡瑞初, 郝志峰, 王丽娟. [KECVS: 一个面向专业文献知识实体的类型标注及可视化系统](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf). 计算机应用与软件 2017年第8期. [[Paper]](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf)
+21. 温雯, 伍思杰, 蔡瑞初, 郝志峰, 王丽娟. [KECVS: 一个面向专业文献知识实体的类型标注及可视化系统](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf). 计算机应用与软件 2017年第8期. [[Paper]](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf)
 
 
-21. 阮彤, 孙程琳, 王昊奋, 方之家, 殷亦超. [中医药知识图谱构建与应用](paper/中医药知识图谱构建与应用_阮彤.pdf). 医学信息学杂志 2016年第37卷第4期. [[Paper]](paper/中医药知识图谱构建与应用_阮彤.pdf)
+22. 阮彤, 孙程琳, 王昊奋, 方之家, 殷亦超. [中医药知识图谱构建与应用](paper/中医药知识图谱构建与应用_阮彤.pdf). 医学信息学杂志 2016年第37卷第4期. [[Paper]](paper/中医药知识图谱构建与应用_阮彤.pdf)
 
 
-22. 李茂君, 农玉红. [我国当前翻译研究热点的知识图谱可视化分析](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf). 上海翻译 2016年第4期. [[Paper]](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf)
+23. 李茂君, 农玉红. [我国当前翻译研究热点的知识图谱可视化分析](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf). 上海翻译 2016年第4期. [[Paper]](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf)
 
 
-23. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
+24. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
 
 
-24. 贾李蓉, 刘静, 于彤, 董燕, 朱玲, 高博, 刘丽. [中医药知识图谱构建](paper/中医药知识图谱构建_贾李蓉.pdf). 医学信息学杂志 2015年第36卷第8期. [[Paper]](paper/中医药知识图谱构建_贾李蓉.pdf)
+25. 贾李蓉, 刘静, 于彤, 董燕, 朱玲, 高博, 刘丽. [中医药知识图谱构建](paper/中医药知识图谱构建_贾李蓉.pdf). 医学信息学杂志 2015年第36卷第8期. [[Paper]](paper/中医药知识图谱构建_贾李蓉.pdf)
 
 
-25. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
+26. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
 
 
 [2020 WAIC明略科技吴信东深度解读知识图谱的自动构建](http://tech.163.com/20/0713/16/FHE8C8F000099A7M.html). 2020.07.13 大众新闻. 
