@@ -87,6 +87,9 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 3. Sendong Zhao, Quan Wang, Sean Massung, Bing Qin, Ting Liu, Bin Wang, ChengXiang Zhai. [Constructing and Embedding Abstract Event Causality Networks from Text Snippets](https://dl.acm.org/doi/pdf/10.1145/3018661.3018707?download=true). WSDM 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3018661.3018707?download=true)
 
 
+4. 王军平, 张文生, 王勇飞, 孙正雅. [面向大数据领域的事理认知图谱构建与推断分析](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf). 中国科学：信息科学 2020. [[Paper]](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf)
+
+
 ## Commonsense_Knowledge_Graph_Construction
 1. Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi. [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://arxiv.org/pdf/1811.00146.pdf). AAAI 2019. [[Paper]](https://arxiv.org/pdf/1811.00146.pdf)
 
