@@ -22,8 +22,7 @@ Table of Contents
 1. Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang. [A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications](https://www.mdpi.com/2071-1050/10/9/3245/htm). sustainability 2018. [[Paper]](https://www.mdpi.com/2071-1050/10/9/3245/htm)
 
 
-2. Longxiang Shi, Shijian Li, Xiaoran Yang, Jiaheng Qi, Gang Pan, Binbin Zhou
-Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang Liu, Yu Guo, Rongsheng Zhao, Ruicheng Ming, Huiming Wu. [TechKG: A Large-Scale Chinese Technology - Oriented Knowledge Graph](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf). Arxiv 2018. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf)
+2. Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang Liu, Yu Guo, Rongsheng Zhao, Ruicheng Ming, Huiming Wu. [TechKG: A Large-Scale Chinese Technology - Oriented Knowledge Graph](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf). Arxiv 2018. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf)
 
 
 3. Heiko Paulheim. [Automatic Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods](http://www.semantic-web-journal.net/system/files/swj1167.pdf). Semantic Web 2015. [[Paper]](http://www.semantic-web-journal.net/system/files/swj1167.pdf)
@@ -44,34 +43,41 @@ Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang 
 8. 刘烨宸, 李华昱. [领域知识图谱研究综述](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6). 电子技术应用 2020年第29卷第6期. [[Paper]](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6)
 
 
-9. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
+9. 王鑫, 王朝坤, 彭鹏, 冯志勇. [知识图谱数据管理研究综述](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos). 软件学报 2019年第30卷第7期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos)
 
 
-10. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
+10. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
 
 
-11. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
+11. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
 
 
-12. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
+12. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
 
 
-13. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
+13. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
 
 
-14. 李赫然, 冯花朴. [信息行为研究的知识图谱综述](paper/信息行为研究的知识图谱综述.pdf). 信息管理与信息学 2017. [[Paper]](paper/信息行为研究的知识图谱综述.pdf)
+14. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
 
 
-15. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
+15. 李赫然, 冯花朴. [信息行为研究的知识图谱综述](paper/信息行为研究的知识图谱综述.pdf). 信息管理与信息学 2017. [[Paper]](paper/信息行为研究的知识图谱综述.pdf)
 
 
-16. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
+16. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
 
 
-17. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+17. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
 
 
-18. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+18. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+19. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+
+
+20. 王国胤, 张清华, 马希骜, 杨青山. [知识不确定性问题的粒计算模型](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos). 软件学报 2011 第22期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos)
+
 
 
 [358篇机器学习 & 自然语言处理综述论文](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202). 2020.07.18专知发布. [[Report]](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202)
