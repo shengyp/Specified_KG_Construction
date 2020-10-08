@@ -19,7 +19,10 @@ Table of Contents
 
 
 ## Survey
-1. Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang. [A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications](https://www.mdpi.com/2071-1050/10/9/3245/htm). sustainability 2018. [[Paper]](https://www.mdpi.com/2071-1050/10/9/3245/htm)
+1. Gerhard Weikum, Luna Dong, Simon Razniewski, and Fabian Suchanek. [Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases](https://arxiv.org/pdf/2009.11564.pdf). Arxiv 2020. [[Report]](https://mp.weixin.qq.com/s/hR_dIvSjOV19Q1LhfmUqNg)
+
+
+2. Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang. [A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications](https://www.mdpi.com/2071-1050/10/9/3245/htm). sustainability 2018. [[Paper]](https://www.mdpi.com/2071-1050/10/9/3245/htm)
 
 
 2. Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang Liu, Yu Guo, Rongsheng Zhao, Ruicheng Ming, Huiming Wu. [TechKG: A Large-Scale Chinese Technology - Oriented Knowledge Graph](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf). Arxiv 2018. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf)
