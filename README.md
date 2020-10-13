@@ -82,6 +82,9 @@ Table of Contents
 20. 王国胤, 张清华, 马希骜, 杨青山. [知识不确定性问题的粒计算模型](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos). 软件学报 2011 第22期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos)
 
 
+21. Elias Kärle. [How To Build A Knowledge Graph](https://2020-eu.semantics.cc/sites/2019.semantics.cc/files/how-to-build-a-knowledge-graph.pdf). 
+
+
 
 [358篇机器学习 & 自然语言处理综述论文](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202). 2020.07.18专知发布. [[Report]](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202)
 
