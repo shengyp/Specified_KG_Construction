@@ -293,7 +293,11 @@ Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKD
 26. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
 
 
+[Auto-Text to Knowledge (介绍几个专门面向中文的命名实体识别和关系抽取工具)](https://zhuanlan.zhihu.com/p/268625650?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_campaign=shareopn). 2020.10.26 知乎. 
+
+
 [2020 WAIC明略科技吴信东深度解读知识图谱的自动构建](http://tech.163.com/20/0713/16/FHE8C8F000099A7M.html). 2020.07.13 大众新闻. 
+
 
 
 
