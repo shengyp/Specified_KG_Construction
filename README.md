@@ -92,6 +92,10 @@ Table of Contents
 [知识图谱构建的研究已走入下半场，但大规模落地应用仍需时间](https://mp.weixin.qq.com/s/NX9dN9SEoZKmAYoQaKtNYA). 2020.11.04 学术头条. 
 
 
+[【ISWC2020】如何高效地构建大规模知识图谱？](https://mp.weixin.qq.com/s/zRBHwskPw03uWXjpRskO3Q) 2020.11.07. 
+
+
+
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
 
