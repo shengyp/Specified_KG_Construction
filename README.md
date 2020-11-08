@@ -43,46 +43,49 @@ Table of Contents
 7. Christian Bizer, Tom Heath, Tim Berners-Lee. [Linked Data - The Story So Far](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf). ijswis-special-issue 2009. [[Paper]](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf)
 
 
-8. 刘烨宸, 李华昱. [领域知识图谱研究综述](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6). 电子技术应用 2020年第29卷第6期. [[Paper]](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6)
+8. 陈晓军, 向阳. [企业风险知识图谱的构建及应用](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19470). 计算机科学 2020年. 
 
 
-9. 王鑫, 王朝坤, 彭鹏, 冯志勇. [知识图谱数据管理研究综述](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos). 软件学报 2019年第30卷第7期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos)
+9. 刘烨宸, 李华昱. [领域知识图谱研究综述](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6). 电子技术应用 2020年第29卷第6期. [[Paper]](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6)
 
 
-10. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
+10. 王鑫, 王朝坤, 彭鹏, 冯志勇. [知识图谱数据管理研究综述](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos). 软件学报 2019年第30卷第7期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos)
 
 
-11. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
+11. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
 
 
-12. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
+12. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
 
 
-13. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
+13. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
 
 
-14. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
+14. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
 
 
-15. 李赫然, 冯花朴. [信息行为研究的知识图谱综述](paper/信息行为研究的知识图谱综述.pdf). 信息管理与信息学 2017. [[Paper]](paper/信息行为研究的知识图谱综述.pdf)
+15. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
 
 
-16. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
+16. 李赫然, 冯花朴. [信息行为研究的知识图谱综述](paper/信息行为研究的知识图谱综述.pdf). 信息管理与信息学 2017. [[Paper]](paper/信息行为研究的知识图谱综述.pdf)
 
 
-17. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
+17. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
 
 
-18. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+18. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
 
 
-19. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
+19. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
-20. 王国胤, 张清华, 马希骜, 杨青山. [知识不确定性问题的粒计算模型](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos). 软件学报 2011 第22期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos)
+20. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
 
-21. Elias Kärle. [How To Build A Knowledge Graph](https://2020-eu.semantics.cc/sites/2019.semantics.cc/files/how-to-build-a-knowledge-graph.pdf). 
+21. 王国胤, 张清华, 马希骜, 杨青山. [知识不确定性问题的粒计算模型](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos). 软件学报 2011 第22期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos)
+
+
+22. Elias Kärle. [How To Build A Knowledge Graph](https://2020-eu.semantics.cc/sites/2019.semantics.cc/files/how-to-build-a-knowledge-graph.pdf). 
 
 
 
