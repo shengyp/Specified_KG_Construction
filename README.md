@@ -43,16 +43,19 @@ Table of Contents
 7. Christian Bizer, Tom Heath, Tim Berners-Lee. [Linked Data - The Story So Far](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf). ijswis-special-issue 2009. [[Paper]](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf)
 
 
-8. 陈晓军, 向阳. [企业风险知识图谱的构建及应用](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19470). 计算机科学 2020年. 
+8. 刘宝珠, 王鑫, 柳鹏凯等. [KGDB:统一模型和语言的知识图谱数据库管理系统](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6181&flag=1&journal_id=jos&year_id=2021). 软件学报 2021年. 
 
 
-9. 刘烨宸, 李华昱. [领域知识图谱研究综述](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6). 电子技术应用 2020年第29卷第6期. [[Paper]](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6)
+9. 陈晓军, 向阳. [企业风险知识图谱的构建及应用](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19470). 计算机科学 2020年. 
 
 
-10. 王鑫, 王朝坤, 彭鹏, 冯志勇. [知识图谱数据管理研究综述](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos). 软件学报 2019年第30卷第7期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos)
+10. 刘烨宸, 李华昱. [领域知识图谱研究综述](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6). 电子技术应用 2020年第29卷第6期. [[Paper]](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6)
 
 
-11. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
+11. 王鑫, 王朝坤, 彭鹏, 冯志勇. [知识图谱数据管理研究综述](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos). 软件学报 2019年第30卷第7期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos)
+
+
+12. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
 
 
 12. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
