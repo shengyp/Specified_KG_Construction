@@ -101,6 +101,10 @@ Table of Contents
 [【ISWC2020】如何高效地构建大规模知识图谱？](https://mp.weixin.qq.com/s/zRBHwskPw03uWXjpRskO3Q) 2020.11.07. 
 
 
+[Wiztalk | 刘铭 Part 1 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/ae-keqL56iELs037ckSESw) | [Wiztalk | 刘铭 Part 2 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/iVm7m1LBRmkso0tl7cqqDw) | [Wiztalk | 刘铭 Part 3 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/0MFQDAS6Uateg-muHMBlew). 2020.11.07. 
+
+
+
 
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
