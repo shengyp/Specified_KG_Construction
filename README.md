@@ -91,6 +91,9 @@ Table of Contents
 22. Elias Kärle. [How To Build A Knowledge Graph](https://2020-eu.semantics.cc/sites/2019.semantics.cc/files/how-to-build-a-knowledge-graph.pdf). 
 
 
+23. 杭婷婷, 冯钧, 陆佳民. [知识图谱构建技术: 分类、调查和未来方向](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19736). 
+
+
 
 [358篇机器学习 & 自然语言处理综述论文](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202). 2020.07.18专知发布. [[Report]](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202)
 
