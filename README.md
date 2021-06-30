@@ -107,6 +107,8 @@ Table of Contents
 [Wiztalk | 刘铭 Part 1 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/ae-keqL56iELs037ckSESw) | [Wiztalk | 刘铭 Part 2 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/iVm7m1LBRmkso0tl7cqqDw) | [Wiztalk | 刘铭 Part 3 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/0MFQDAS6Uateg-muHMBlew). 2020.11.07. 
 
 
+[人工智能的理论及实践 知识图谱](http://www.ml-tech.net/pdfs/ml-KG-20210601.pdf). 
+
 
 
 ## Eventic_Graph_Construction
