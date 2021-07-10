@@ -110,6 +110,9 @@ Table of Contents
 [人工智能的理论及实践 知识图谱](http://www.ml-tech.net/pdfs/ml-KG-20210601.pdf). 
 
 
+[基于知识图谱的问答系统相关论文分类整理](https://mp.weixin.qq.com/s/gHELo8b2yOEeMn_JvAF9DA). 
+
+
 
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
