@@ -113,6 +113,9 @@ Table of Contents
 [基于知识图谱的问答系统相关论文分类整理](https://mp.weixin.qq.com/s/gHELo8b2yOEeMn_JvAF9DA). 
 
 
+[资源分享 | 深度图表示学习的论文/视频教程/博客合集](https://mp.weixin.qq.com/s/oE9uRp1YVyWWP91wDGZxMw). 
+
+
 
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
