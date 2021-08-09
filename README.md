@@ -117,6 +117,15 @@ Table of Contents
 
 
 
+[【综述系列】干货速看！知识图谱 or 机器学习](https://mp.weixin.qq.com/s/wq9w8NnNLpX0w7ikF24ahQ). 
+
+
+
+[【知识图谱系列】知识图谱+图神经网络](https://mp.weixin.qq.com/s/cInqdK9F_6__z841J1RuDA). 
+
+
+
+
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
 
