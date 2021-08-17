@@ -121,7 +121,7 @@ Table of Contents
 
 
 
-[【知识图谱系列】知识图谱+图神经网络](https://mp.weixin.qq.com/s/cInqdK9F_6__z841J1RuDA) | [【知识图谱构建系列II】实体链接综述+20篇文献调研](https://mp.weixin.qq.com/s/b0oHjeHP16IH-7YtqwrBHw). 
+[【知识图谱系列】知识图谱+图神经网络](https://mp.weixin.qq.com/s/cInqdK9F_6__z841J1RuDA) | [【知识图谱构建系列II】实体链接综述+20篇文献调研](https://mp.weixin.qq.com/s/b0oHjeHP16IH-7YtqwrBHw) | [【知识图谱系列】Deep GNN评测，模型退化是做不深的主要原因！](https://mp.weixin.qq.com/s/5XT0GdK_E25qS4b0iKcdeA). 
 
 
 
