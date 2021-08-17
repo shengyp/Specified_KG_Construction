@@ -125,6 +125,11 @@ Table of Contents
 
 
 
+[【知识图谱构建系列II】实体链接综述+20篇文献调研](https://mp.weixin.qq.com/s/b0oHjeHP16IH-7YtqwrBHw). 
+
+
+
+
 
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
