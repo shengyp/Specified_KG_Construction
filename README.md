@@ -1,354 +1,450 @@
-# KG_Construction
+# Temporal-Aware Knowledge Resource: Paper
 
 
-
-Here, we are concentrate on collection of research papers associated with knowledge graph construction.   
+Here, we are concentrate on collection of research papers involving temporal-aware topics, including temporal rule learning and resoning, temporal relation extraction, temporal text mining, deep spatial-temporal graph modeling, embedding learning of temporal knowledge graph, temporal knowledge graph curation and visulization, temporal commonsense understanding.   
 
 
 Table of Contents
 =================
 
-<!--   * [Research Report of Knowledge Graph](#Research_Report_of_Knowledge_Graph) -->
   * [Survey](#Survey)
-  * [Commonsense Knowledge Graph Construction](#Commonsense_Knowledge_Graph_Construction)
-  * [Eventic Graph Construction](#Eventic_Graph_Construction)
-  * [General Knowledge Graph Construction](#General_Knowledge_Graph_Construction)
-  * [Specified Knowledge Graph Construction](#Specified_Knowledge_Graph_Construction)
+  * [Report](#Report)
+  * [Task](#Task)
+  * [Dataset](#Dataset)
+  * [Knowledge Evolution](#Knowledge_Evolution)
+  * [Temporal Rule Learning and Resoning](#Temporal_Rule_Learning_and_Resoning)
+  * [Temporal Semantic Unit Extraction](#Temporal_Semantic_Unit_Extraction)
+  * [Temporal Relation Checking](#Temporal_Relation_Checking)
+  * [Temporal Text Mining](#Temporal_Text_Mining)
+  * [Event-Centric Temporal Data Mining](#Event_Centric_Temporal_Data_Mining)
+  * [Event-Centric Temporal Knowledge Graph](#Event_Centric_Temporal_Knowledge_Graph)
+  * [Evolution Analysis and Prediction based Event](#Evolution_Analysis_and_Prediction_based_Event)
+  * [Deep Spatial-Temporal Graph Modeling](#Deep_Spatial-Temporal_Graph_Modeling)
+  * [Embedding Learning of Temporal Knowledge Graph](#Embedding_Learning_of_Temporal_Knowledge_Graph)
+  * [Temporal Knowledge Graph Curation and Visulization](#Temporal_Knowledge_Graph_Curation_and_Visulization)
+  * [Temporal Commonsense Understanding](#Temporal_Commonsense_Understanding)
+  * [IR for Spatio-Temporal Graphs](#IR_for_Spatio_Temporal_Graphs) 
+  * [Thesis](#Thesis)
   * [Tools](#Tools)
-<!--   * [学术江湖](#学术江湖) -->
+
+
 
 
 ## Survey
-1. Gerhard Weikum, Luna Dong, Simon Razniewski, and Fabian Suchanek. [Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases](https://arxiv.org/pdf/2009.11564.pdf). Arxiv 2020. [[Report]](https://mp.weixin.qq.com/s/hR_dIvSjOV19Q1LhfmUqNg)
+1. Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, and Min Yang. [Modeling Relation Paths for Knowledge Graph Completion](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8974254). TKDE 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8974254) 
 
 
-2. Tianxing Wu, Guilin Qi, Cheng Li, Meng Wang. [A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications](https://www.mdpi.com/2071-1050/10/9/3245/htm). sustainability 2018. [[Paper]](https://www.mdpi.com/2071-1050/10/9/3245/htm)
+2. Tara Safavi and Danai Koutra. [CODEX: A Comprehensive Knowledge Graph Completion Benchmark](https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.669.pdf) 
 
 
-2. Feiliang Ren, Yining Hou, Yan Li, Linfeng Pan, Yi Zhang, Xiaobo Liang, Yongkang Liu, Yu Guo, Rongsheng Zhao, Ruicheng Ming, Huiming Wu. [TechKG: A Large-Scale Chinese Technology - Oriented Knowledge Graph](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf). Arxiv 2018. [[Paper]](https://arxiv.org/ftp/arxiv/papers/1812/1812.06722.pdf)
+3. Siddhant Arora. [A Survey on Graph Neural Networks for Knowledge Graph Completion](https://arxiv.org/pdf/2007.12374.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.12374.pdf) [[《图神经网络知识图谱补全》 (Interpreted in Chinese)]](https://mp.weixin.qq.com/s/xKtSQDSDJgN616yD6M3VBw)
 
 
-3. Heiko Paulheim. [Automatic Knowledge Graph Refinement: A Survey of Approaches and Evaluation Methods](http://www.semantic-web-journal.net/system/files/swj1167.pdf). Semantic Web 2015. [[Paper]](http://www.semantic-web-journal.net/system/files/swj1167.pdf)
+4. Yu Xie, Chunyi Li, Bin Yu, Chen Zhang, and Zhouhua Tang. [A Survey on Dynamic Network Embedding](https://arxiv.org/pdf/2006.08093.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.08093.pdf)
 
 
-4. Chengyu Wang, Ming Cao, Xiaofeng He, Rong Zhang. [Challenges in Chinese Knowledge Graph Construction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545). ICDE 2015 Workshops. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129545)
+5. Shaoxiong Ji, Shirui Pan, Erik Cambria, Pekka Marttinen, and Philip S. Yu. [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/pdf/2002.00388.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2002.00388.pdf)
 
 
-5. Fabian M. Suchanek, Gerhard Weikum. [Knowledge Bases in the Age of Big Data Analytics](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf). VLDB 2014. [[Paper]](http://www.vldb.org/pvldb/vol7/p1713-suchanek.pdf)
+6. Dat Quoc Nguyen. [An overview of embedding models of entities and relationships for knowledge base completion](https://arxiv.org/pdf/1703.08098.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/1703.08098.pdf)
 
 
-6. Eduard Hovy, Roberto Navigli, Simone Paolo Ponzetto. [Collaboratively build semi-structured content and Artificial Intelligence: The story so far](https://pdf.sciencedirectassets.com/271585/1-s2.0-S0004370212X00110/1-s2.0-S0004370212001245/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFgaCXVzLWVhc3QtMSJGMEQCIElzzOqKXVR5cJp39Se5dhQrbhqJDqCkeYlOS0YiaLHFAiAa7vUiTU60m8WOYJZgjPe%2ByqYKT19ffh4vA%2BI762l1bCq9AwjR%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIMtJvsMz5HbO8UqPSRKpEDxr4nefT3%2B5czwy4piWYxzg6Nte7YuKy6OMbYfYiygVgeKxvZvtm5%2FsM0BACCYOD6a7z%2FAzvLxha91rzh1BPzjSZQUxz2rHYEVh2nw51%2F7zr1B%2BzFTnbrnIzQfVnm7ugVsBrelIPgwVPyIcOgcGlWdsysM2msqtyUtWsmdirujw%2BaBUZbSaP7DX8%2FYrNtiKaN8Os%2FVwwUYSJ8p%2B1beBj48yCjkOEWmYRyop7t%2Fm%2FnsECFRyz4n8W%2BksXDGZPk5xe1jCOxfVwNS8mk6fVFQL7gyiS42cYO19nZ0wF2YN4IpPIYbhh85mYnYRTDK%2B8%2FsA064zhIXTXSsU5VAqED%2FnGLSXTtCvi4IOWB%2FVKwf3RqlsxanPL9icuUz74%2BBRaL%2B%2BBElDnXhSKCGZ1tdbJeUQp4Rp3wsEtUAE%2BGiT70nkGobChf8iYbWw%2FLAcrpPZ%2B370neM010gh%2Bik8EevPG6h5rKbo7IeqKb6zhWh4zrCaDilwK6WOnLtVfNaEbz26u%2BuNdZjzxLOy2ycF8sYMtBTfX7kdMw2LPb8AU67AFHVtNXW%2BzQtw7%2FHdcMgwfPcWNi%2BNzLUvAiztK7Oh12BKeyHOp63vamP6bCcdZpykLbYs2rOwqeexq2TuGjBgdGnr2kfcJ5IKwPQ7gXTBZFpx7ljUP88i7jE9WUWYW6f77BgmmIMSixFMo4%2B2%2F6rYrxEwSV1kWTxPETZ0EG6RolCvFqZ2zPkz9fGpurK5o%2FyKtM2Vl4TRQNKrn4bxgWpGZoToRv3UB8WkwEhXijGwBuRopDqxasldj9Ar0VpNVU8T%2FxXUCrjv2WVpQ42WbeO9CzXpQQGLD7J3uWweA4vm6nxx%2FfwubMr2GU0ysU6Q%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200109T090621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY43YLHY5C%2F20200109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2b008e34f8fdc11c28deb91f37663ea656f5fd3139f92e1d65ebe159bf96db6f&hash=2a3d1559d467dd2be1de8834cd8b99f4982fbe46e6de61321949b9a0c1ab7af7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0004370212001245&tid=spdf-24e0a52b-6269-4232-a207-2c17c856357c&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client). Artificial Intelligence 2013. [[Paper]](https://pdf.sciencedirectassets.com/271585/1-s2.0-S0004370212X00110/1-s2.0-S0004370212001245/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFgaCXVzLWVhc3QtMSJGMEQCIElzzOqKXVR5cJp39Se5dhQrbhqJDqCkeYlOS0YiaLHFAiAa7vUiTU60m8WOYJZgjPe%2ByqYKT19ffh4vA%2BI762l1bCq9AwjR%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIMtJvsMz5HbO8UqPSRKpEDxr4nefT3%2B5czwy4piWYxzg6Nte7YuKy6OMbYfYiygVgeKxvZvtm5%2FsM0BACCYOD6a7z%2FAzvLxha91rzh1BPzjSZQUxz2rHYEVh2nw51%2F7zr1B%2BzFTnbrnIzQfVnm7ugVsBrelIPgwVPyIcOgcGlWdsysM2msqtyUtWsmdirujw%2BaBUZbSaP7DX8%2FYrNtiKaN8Os%2FVwwUYSJ8p%2B1beBj48yCjkOEWmYRyop7t%2Fm%2FnsECFRyz4n8W%2BksXDGZPk5xe1jCOxfVwNS8mk6fVFQL7gyiS42cYO19nZ0wF2YN4IpPIYbhh85mYnYRTDK%2B8%2FsA064zhIXTXSsU5VAqED%2FnGLSXTtCvi4IOWB%2FVKwf3RqlsxanPL9icuUz74%2BBRaL%2B%2BBElDnXhSKCGZ1tdbJeUQp4Rp3wsEtUAE%2BGiT70nkGobChf8iYbWw%2FLAcrpPZ%2B370neM010gh%2Bik8EevPG6h5rKbo7IeqKb6zhWh4zrCaDilwK6WOnLtVfNaEbz26u%2BuNdZjzxLOy2ycF8sYMtBTfX7kdMw2LPb8AU67AFHVtNXW%2BzQtw7%2FHdcMgwfPcWNi%2BNzLUvAiztK7Oh12BKeyHOp63vamP6bCcdZpykLbYs2rOwqeexq2TuGjBgdGnr2kfcJ5IKwPQ7gXTBZFpx7ljUP88i7jE9WUWYW6f77BgmmIMSixFMo4%2B2%2F6rYrxEwSV1kWTxPETZ0EG6RolCvFqZ2zPkz9fGpurK5o%2FyKtM2Vl4TRQNKrn4bxgWpGZoToRv3UB8WkwEhXijGwBuRopDqxasldj9Ar0VpNVU8T%2FxXUCrjv2WVpQ42WbeO9CzXpQQGLD7J3uWweA4vm6nxx%2FfwubMr2GU0ysU6Q%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200109T090621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY43YLHY5C%2F20200109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=2b008e34f8fdc11c28deb91f37663ea656f5fd3139f92e1d65ebe159bf96db6f&hash=2a3d1559d467dd2be1de8834cd8b99f4982fbe46e6de61321949b9a0c1ab7af7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0004370212001245&tid=spdf-24e0a52b-6269-4232-a207-2c17c856357c&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client)
+7. JOAKIM SKARDING, BOGDAN GABRYS, and KATARZYNA MUSIAL. [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/pdf/2005.07496.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2005.07496.pdf)
 
 
-7. Christian Bizer, Tom Heath, Tim Berners-Lee. [Linked Data - The Story So Far](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf). ijswis-special-issue 2009. [[Paper]](http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf)
+8. Seyed Mehran Kazemi, Rishab Goel, Kshitij Jain, Ivan Kobyzev, Akshay Sethi, Peter Forsyth, and Pascal Poupart. [Relational Representation Learning for Dynamic (Knowledge) Graphs: A Survey](https://arxiv.org/pdf/1905.11485.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1905.11485)
 
 
-8. 刘宝珠, 王鑫, 柳鹏凯等. [KGDB:统一模型和语言的知识图谱数据库管理系统](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=6181&flag=1&journal_id=jos&year_id=2021). 软件学报 2021年. 
+## Report
+1. Emanuele Rossi. [TGN: Temporal Graph Networks for Dynamic
+Graphs](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf). 2020. 
 
 
-9. 陈晓军, 向阳. [企业风险知识图谱的构建及应用](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19470). 计算机科学 2020年. 
+## Task
+1. Naushad UzZaman, Hector Llorens, Leon Derczynski, Marc Verhagen, James Allen, and James Pustejovsky. [SemEval-2013 Task 1: TEMPEVAL-3: Evaluating Time Expressions,Events, and Temporal Relations](https://www.aclweb.org/anthology/S13-2001.pdf). 2013.
 
 
-10. 刘烨宸, 李华昱. [领域知识图谱研究综述](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6). 电子技术应用 2020年第29卷第6期. [[Paper]](http://c-s-a.org.cn/csa/ch/reader/create_pdf.aspx?file_no=7431&flag=1&year_id=2020&quarter_id=6)
 
+## Knowledge_Evolution
+1. Ahmed Taha, Abhinav Shrivastava, and Larry Davis. [Knowledge Evolution in Neural Networks](https://arxiv.org/pdf/2103.05152.pdf). CVPR 2021. [[Paper]](https://arxiv.org/pdf/2103.05152.pdf)
 
-11. 王鑫, 王朝坤, 彭鹏, 冯志勇. [知识图谱数据管理研究综述](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos). 软件学报 2019年第30卷第7期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5841&journal_id=jos)
 
+2. Negar Etemadyrad, Qingzhe Li, and Liang Zhao. [Deep Graph Spectral Evolution Networks for Graph Topological Evolution](https://ojs.aaai.org/index.php/AAAI/article/view/16903). AAAI 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16903) [[Report]](https://mp.weixin.qq.com/s/QdgQgPuAAoiJzU1Ik4Kqbw)
 
-12. 谢刚. [知识图谱精化研究综述](paper/知识图谱精化研究综述.pdf). 电子技术应用 2018年第44卷第9期. [[Paper]](paper/知识图谱精化研究综述.pdf)
 
 
-12. 漆桂林, 高桓, 吴天星. [知识图谱研究进展](paper/知识图谱研究进展_漆桂林.pdf). 情报工程 2017. [[Paper]](paper/知识图谱研究进展_漆桂林.pdf)
 
+## Temporal_Rule_Learning_and_Resoning
+1. Qing Lyu, Li Zhang, and Chris Callison-Burch. [Reasoning about Goals, Steps, and Temporal Ordering with WikiHow](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf). Arxiv 2020. [[Paper]](https://www.cis.upenn.edu/~ccb/publications/reasoning-about-goals-with-wikihow.pdf)
 
-13. 李涓子, 侯磊. [知识图谱研究综述](paper/知识图谱研究综述_李娟子.pdf). 山西大学学报（自然科学版） 2017. [[Paper]](paper/知识图谱研究综述_李娟子.pdf)
 
+2. Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal and Dan Roth. [Temporal Reasoning on Implicit Events from Distant Supervision](https://arxiv.org/pdf/1906.08287.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2010.12753.pdf)
 
-14. 李涛, 王次臣, 李华康. [知识图谱的发展与构建](paper/知识图谱的发展与构建_李涛.pdf). 南京理工大学学报 2017第41卷第1期. [[Paper]](paper/知识图谱的发展与构建_李涛.pdf)
 
+3. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/pdf/1906.08287.pdf). ICLR 2019. [[Paper]](https://arxiv.org/pdf/1904.05530.pdf)[[Code]](https://github.com/INK-USC/RE-Net)
 
-15. 任飞亮, 沈继坤, 孙宾宾, 朱靖波. [从文本中构建领域本体技术综述](paper/从文本中构建领域本体技术综述_任飞亮.pdf). 计算机学报 2017第40卷. [[Paper]](paper/从文本中构建领域本体技术综述_任飞亮.pdf)
 
+4. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network for Reasoning over Temporal Knowledge Graphs](https://arxiv.org/pdf/1906.08287.pdf). ICLR 2019. [[Paper]](https://arxiv.org/pdf/1904.05530.pdf)[[Code]](https://github.com/INK-USC/RE-Net)
 
-16. 李赫然, 冯花朴. [信息行为研究的知识图谱综述](paper/信息行为研究的知识图谱综述.pdf). 信息管理与信息学 2017. [[Paper]](paper/信息行为研究的知识图谱综述.pdf)
 
+5. Tanya Goyal and Greg Durrett. [Embedding time expressions for deep temporal ordering models](https://arxiv.org/pdf/1906.08287.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1906.08287.pdf)
 
-17. 阮彤, 王梦婕, 王昊奋, 胡芳槐. [垂直知识图谱的构建与应用研究](paper/垂直知识图谱的构建与应用研究_阮彤.pdf). 知识管理论坛 2016. [[Paper]](paper/垂直知识图谱的构建与应用研究_阮彤.pdf)
 
+6. Pouya Ghiasnezhad Omran, Kewen Wang, and Zhe Wang. [Learning Temporal Rules from Knowledge Graph Streams](http://ceur-ws.org/Vol-2350/paper15.pdf). AAAI 2019. [[Paper]](http://ceur-ws.org/Vol-2350/paper15.pdf)
 
-18. 徐增林, 盛泳潘, 贺丽荣, 王雅芳. [知识图谱技术综述](paper/知识图谱技术综述_徐增林.pdf). 电子科技大学学报（自然科学版） 2016. [[Paper]](知识图谱技术综述_徐增林.pdf)
 
+7. Qiang Ning, Zhili Feng, Hao Wu, and Dan Roth. [Joint Reasoning for Temporal and Causal Relations](https://www.aclweb.org/anthology/P18-1212.pdf). ACL 2019. [[Paper]](https://www.aclweb.org/anthology/P18-1212.pdf)
 
-19. 刘峤, 李杨, 段宏, 刘瑶, 秦志光. [知识图谱构建技术综述](paper/大规模知识图谱技术_王昊奋.pdf). 计算机研究与发展 2016. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
+8. Boyi Hou and Youcef Nafa. [Enabling Temporal Reasoning for Fact
+Statements: A Web-Based Approach](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf). DASFAA 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91455-8_9.pdf)
 
-20. 王昊奋. [大规模知识图谱技术](paper/大规模知识图谱技术_王昊奋.pdf). 中国计算机学会通讯 2014 第3期. [[Paper]](paper/大规模知识图谱技术_王昊奋.pdf)
 
+9. Chekol, Melisachew Wudage, Pirrò, Giuseppe, Schönfisch, Jörg, Stuckenschmidt, and Heiner. [Marrying Uncertainty and Time in Knowledge Graphs](https://madoc.bib.uni-mannheim.de/41533/). AAAI 2017. [[Paper]](https://madoc.bib.uni-mannheim.de/41533/)
 
-21. 王国胤, 张清华, 马希骜, 杨青山. [知识不确定性问题的粒计算模型](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos). 软件学报 2011 第22期. [[Paper]](http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3954&journal_id=jos)
 
+10. Rakshit Trivedi, Hanjun Dai, Yichen Wang, and Le Song. [Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs](https://arxiv.org/pdf/1705.05742.pdf). ICML 2017. [[Paper]](https://arxiv.org/pdf/1705.05742.pdf)[[Code]](https://github.com/rstriv/Know-Evolve)
 
-22. Elias Kärle. [How To Build A Knowledge Graph](https://2020-eu.semantics.cc/sites/2019.semantics.cc/files/how-to-build-a-knowledge-graph.pdf). 
 
+11. Yafang Wang, Mohamed Yahya, and Martin Theobald. [Time-aware Reasoning in Uncertain Knowledge Bases](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1). VLDB 2010. [[Paper]](http://halma.mpi-inf.mpg.de/intranet/ag5/ag5publ.nsf/3561a79a83e6557ac1256b91004f4bdd/65e353035499f7f5c125780b00530dd9!OpenDocument&ExpandSection=1)
 
-23. 杭婷婷, 冯钧, 陆佳民. [知识图谱构建技术: 分类、调查和未来方向](http://www.jsjkx.com/CN/article/openArticlePDF.jsp?id=19736). 
 
+12. Suresh Kumar Sanampudi and G.Vijaya Kumari. [Temporal Reasoning in Natural Language Processing: A Survey](https://www.ijcaonline.org/allpdf/pxc387209.pdf#:~:text=REPRESENTATION%20AND%20REASONING%20OF%20TIME%20IN%20NLP%20.,with%20time%20in%20solving%20many%20NLP%20%20applications.). International Journal of Computer Applications 2010. [[Paper]](https://www.ijcaonline.org/allpdf/pxc387209.pdf#:~:text=REPRESENTATION%20AND%20REASONING%20OF%20TIME%20IN%20NLP%20.,with%20time%20in%20solving%20many%20NLP%20%20applications.)
 
 
-[358篇机器学习 & 自然语言处理综述论文](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202). 2020.07.18专知发布. [[Report]](https://www.zhuanzhi.ai/vip/d64b000275a491bfdadd171427bbf202)
+13. Alexander Nakhimovsky. [Temporal reasoning in natural language understanding: the temporal structure of the narrative](https://www.aclweb.org/anthology/E87-1042.pdf). EACL 1987. [[Paper]](https://www.aclweb.org/anthology/E87-1042.pdf)
 
 
-[知识图谱构建的研究已走入下半场，但大规模落地应用仍需时间](https://mp.weixin.qq.com/s/NX9dN9SEoZKmAYoQaKtNYA). 2020.11.04 学术头条. 
 
+14. Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, and Xueqi Cheng. [Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs](https://arxiv.org/abs/2106.00327). ACL 2021. [[Paper]](https://arxiv.org/abs/2106.00327)
 
-[【ISWC2020】如何高效地构建大规模知识图谱？](https://mp.weixin.qq.com/s/zRBHwskPw03uWXjpRskO3Q) 2020.11.07. 
 
 
-[Wiztalk | 刘铭 Part 1 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/ae-keqL56iELs037ckSESw) | [Wiztalk | 刘铭 Part 2 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/iVm7m1LBRmkso0tl7cqqDw) | [Wiztalk | 刘铭 Part 3 《开放域知识图谱的构建到使用—知识图谱的发展历程》](https://mp.weixin.qq.com/s/0MFQDAS6Uateg-muHMBlew). 2020.11.07. 
+## Dataset
+1. Qiang Ning, Hao Wu, Rujun Han, Nanyun Peng, Matt Gardner, and Dan Roth. [TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf). EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.88.pdf)
 
 
-[人工智能的理论及实践 知识图谱](http://www.ml-tech.net/pdfs/ml-KG-20210601.pdf). 
 
+## Temporal_Semantic_Unit_Extraction
+1. Haoyu Wang, Muhao Chen, Hongming Zhang, and Dan Roth. [Joint Constrained Learning for Event-Event Relation Extraction](https://arxiv.org/pdf/2010.06727.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2010.06727.pdf)
 
-[基于知识图谱的问答系统相关论文分类整理](https://mp.weixin.qq.com/s/gHELo8b2yOEeMn_JvAF9DA). 
 
+1. Xueying Wang and Meng Jiang. [Precise temporal slot filling via truth finding with data-driven commonsense](http://www.meng-jiang.com/pubs/tfwin-kais20/tfwin-kais20-paper.pdf). Knowledge and Information Systems 2020. [[Paper]](http://www.meng-jiang.com/pubs/tfwin-kais20/tfwin-kais20-paper.pdf)
 
-[资源分享 | 深度图表示学习的论文/视频教程/博客合集](https://mp.weixin.qq.com/s/oE9uRp1YVyWWP91wDGZxMw). 
 
+2. Yang Zhou, Tong Zhao, and Meng Jiang. [A Probabilistic Model with Commonsense Constraints for Pattern-based Temporal Fact Extraction](http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf). ACL 2020. [[Paper]](http://www.meng-jiang.com/pubs/pgmcc-fever20/pgmcc-fever20-paper.pdf)
 
 
-[【综述系列】干货速看！知识图谱 or 机器学习](https://mp.weixin.qq.com/s/wq9w8NnNLpX0w7ikF24ahQ). 
+3. Siddharth Vashishtha, Benjamin Van Durme, and Aaron Steven White
+. [Fine-Grained Temporal Relation Extraction](http://www.meng-jiang.com/pubs/tfwin-www19/tfwin-www19-paper.pdf). ACL 2019. [[Paper]](https://arxiv.org/pdf/1902.01390.pdf)
 
 
+4. Xueying Wang, Haiqiao Zhang, Qi Li, Yiyu Shi, and Meng Jiang. [A Novel Unsupervised Approach for Precise Temporal Slot Filling from Incomplete and Noisy Temporal Contexts](http://www.meng-jiang.com/pubs/tfwin-www19/tfwin-www19-paper.pdf). WWW 2019. [[Paper]](http://www.meng-jiang.com/pubs/tfwin-www19/tfwin-www19-paper.pdf)
 
-[【知识图谱系列】知识图谱+图神经网络](https://mp.weixin.qq.com/s/cInqdK9F_6__z841J1RuDA) | [【知识图谱构建系列II】实体链接综述+20篇文献调研](https://mp.weixin.qq.com/s/b0oHjeHP16IH-7YtqwrBHw) | [【知识图谱系列】Deep GNN评测，模型退化是做不深的主要原因！](https://mp.weixin.qq.com/s/5XT0GdK_E25qS4b0iKcdeA) | [【预训练模型系列III】知识图谱预训练模型的新进展综述](https://mp.weixin.qq.com/s/zJKLKxXfsgBRbrXJ9utwtw). 
 
+5. Qiang Ning, Sanjay Subramanian, and Dan Roth. [An Improved Neural Baseline for Temporal Relation Extraction
+](https://www.aclweb.org/anthology/D19-1642.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1642.pdf)
 
 
+6. Rujun Han, Qiang Ning, and Nanyun Peng. [Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction](https://www.aclweb.org/anthology/D19-1041.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1041.pdf)
 
 
-## Eventic_Graph_Construction
-1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
+7. Qiang Ning, Hao Wu, and Dan Roth. [A Multi-Axis Annotation Scheme for Event Temporal Relations](https://www.aclweb.org/anthology/P18-1122.pdf). ACL 2018. [[Paper]](https://www.aclweb.org/anthology/P18-1122.pdf)
 
 
-2. Zhongyang Li, Xiao Ding, Ting Liu. [Constructing Narrative Event Evolutionary Graph for Script Event Prediction](https://www.ijcai.org/proceedings/2018/0584.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/proceedings/2018/0584.pdf)
+8. Nasrin Mostafazadeh, Alyson Grealish, Nathanael Chambers, James Allen, and Lucy Vanderwende. [CaTeRS: Causal and Temporal Relation Scheme for Semantic Annotation of Event Structures](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/semantic-annotation-of-events.pdf). Arxiv 2016. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/semantic-annotation-of-events.pdf)
 
 
-3. Sendong Zhao, Quan Wang, Sean Massung, Bing Qin, Ting Liu, Bin Wang, ChengXiang Zhai. [Constructing and Embedding Abstract Event Causality Networks from Text Snippets](https://dl.acm.org/doi/pdf/10.1145/3018661.3018707?download=true). WSDM 2017. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3018661.3018707?download=true)
+8. Jannik Strotgen and Michael Gertz. [A Baseline Temporal Tagger for all Languages](https://www.cs.cmu.edu/~ark/EMNLP-2015/proceedings/EMNLP/pdf/EMNLP063.pdf). ACL 2015. [[Paper]](https://www.cs.cmu.edu/~ark/EMNLP-2015/proceedings/EMNLP/pdf/EMNLP063.pdf)
 
 
-4. 王军平, 张文生, 王勇飞, 孙正雅. [面向大数据领域的事理认知图谱构建与推断分析](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf). 中国科学：信息科学 2020. [[Paper]](http://scis.scichina.com/cn/2020/SSI-2019-0273.pdf)
+9. Partha Pratim Talukdar, Derry Wijaya, and Tom Mitchell. [Acquiring temporal constraints between relations](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/pubs/talukdar-cikm12.pdf). CIKM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/pubs/talukdar-cikm12.pdf)
 
 
-## Commonsense_Knowledge_Graph_Construction
-1. Maarten Sap, Ronan Le Bras, Emily Allaway, Chandra Bhagavatula, Nicholas Lourie, Hannah Rashkin, Brendan Roof, Noah A. Smith, Yejin Choi. [ATOMIC: An Atlas of Machine Commonsense for If-Then Reasoning](https://arxiv.org/pdf/1811.00146.pdf). AAAI 2019. [[Paper]](https://arxiv.org/pdf/1811.00146.pdf)
 
+## Temporal_Relation_Checking
+1. Partha Pratim Talukdar, Derry Wijaya, and Tom Mitchell. [Coupled Temporal Scoping of Relational Facts](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf). WSDM 2012. [[Paper]](http://www.cs.cmu.edu/afs/cs/user/mitchell/ftp/pubs/talukdar-wsdm12.pdf)
 
-2. Fanchao Qi, Chenghao Yang, Zhiyuan Liu, Qiang Dong, Maosong Sun, Zhendong Dong. [OpenHowNet: An Open Sememe-based Lexical Knowledge Base](https://arxiv.org/pdf/1811.00146.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1811.00146.pdf)
 
 
-3. Antoine Bosselut, Hannah Rashkin, Maarten Sap, Chaitanya Malaviya, Asli Celikyilmaz, Yejin Choi. [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://arxiv.org/pdf/1906.05317.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1906.05317.pdf)
+## Temporal_Text_Mining
+1. Junsha Chen, Neng Gao, Cong Xue, Chenyang Tu, and Daren Zha. [Perceiving Topic Bubbles: Local Topic Detection in Spatio-Temporal Tweet Stream](
+https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf). DASFAA 2019. [[Paper]](
+https://link.springer.com/content/pdf/10.1007%2F978-3-030-18579-4_43.pdf)
 
 
-4. Shane Storks, Qiaozi Gao, Joyce Y. Chai. [Commonsense Reasoning for Natural Language Understanding: A Survey of Benchemarks, Resources, and Approaches](https://arxiv.org/pdf/1904.01172.pdf). Recent Advances in Neural Language Inference: A Survey 2019. [[Paper]](https://arxiv.org/pdf/1904.01172.pdf)
+2. Shuai Xu, Jiuxin Cao, Xuelin Zhu, Yi Dong, and Bo Liu. [Community Discovery Based on Social Relations and Temporal-Spatial Topics in LBSNs](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf). PAKDD 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-93040-4_17.pdf)
 
 
-5. Andrew S. Gordon. [Mining Commonsense Knowledge From Personal Stories in Internet Weblogs](https://ict.usc.edu/pubs/Mining%20Commonsense%20Knowledge%20From%20Personal%20Stories%20in%20Internet%20Weblogs.pdf). Arxiv 2011. [[Paper]](https://ict.usc.edu/pubs/Mining%20Commonsense%20Knowledge%20From%20Personal%20Stories%20in%20Internet%20Weblogs.pdf)
+3. Yafang Wang, Zhaochuan Ren, Martin Theobald, Maximilian Dylla, and Gerard de Melo. [Summary Generation for Temporal Extractions](http://gerard.demelo.org/papers/temporal-summaries.pdf). DEXA 2016. [[Paper]](http://gerard.demelo.org/papers/temporal-summaries.pdf)
 
 
-6. Priya K V, Mathew Kurian. [Mining Event-based Commonsense Knowledge from Web using NLP Techniques](https://www.ijcaonline.org/nccse/number1/SPE153T.pdf). IJCAI 2011. [[Paper]](https://www.ijcaonline.org/nccse/number1/SPE153T.pdf)
+4. Yafang Wang, Maximilian Dylla, Marc Spaniol, and Gerhard Weikum. [Coupling Label Propagation and Constraints for Temporal Fact Extraction](
+https://www.aclweb.org/anthology/P12-2046.pdf). ACL 2012. [[Paper]](
+https://www.aclweb.org/anthology/P12-2046.pdf)
 
 
-## General_Knowledge_Graph_Construction
-1. Thomas Pellissier-Tanon, Gerhard Weikum, and Fabian Suchanek. [YAGO 4: A Reason-able Knowledge Base](https://suchanek.name/work/publications/eswc-2020-yago.pdf). ESWC 2020. [[Paper]](https://suchanek.name/work/publications/eswc-2020-yago.pdf)
+5. Yafang Wang, Bin Yang, Spyros Zoupanos, Marc Spaniol, and Gerhard Weikum. [Scalable Spatio-temporal Knowledge Harvesting](http://spyros.zoupanos.net/papers/www2011.pdf). WWW 2011. [[Paper]](http://spyros.zoupanos.net/papers/www2011.pdf)
 
 
-2. Bo Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Lihan Chen, Yanghua Xiao. [CN-DBpedia2: An Extraction and Verification Framework for Enriching Chinese Encyclopedia Knowledge Base](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf). Data Intelligence 2019. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/10.1162dint_a_00017_xu_bo.pdf)
+6. Yafang Wang, Mingjie Zhu, Lizhen Qu, Marc Spaniol, and Gerhard Weikum. [Timely YAGO: Harvesting, Querying, and Visualizing Temporal Knowledge from Wikipedia](
+https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf). ECBT 2010. [[Paper]](
+https://www.openproceedings.org/2010/conf/edbt/WangZQSW10.pdf)
 
 
-3. :star: Hailong Jin, Chengjiang Li, Jing Zhang, Lei Hou, Juanzi Li, Peng Zhang. [XLORE2: Large-scale Cross-lingual Knowledge Graph Construction and Application](https://www.mitpressjournals.org/doi/pdfplus/10.1162/dint_a_00003). Data Intelligence 2019. [[Paper]](https://www.mitpressjournals.org/doi/pdfplus/10.1162/dint_a_00003) 
+7. Qiaozhu Mei and Chengxiang Zhai. [Discovering Evolutionary Theme Patterns from Text - An Exploration of Temporal Text Mining](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf). ACM SIGKDD 2005. [[Paper]](http://sifaka.cs.uiuc.edu/czhai/pub/kdd05-ttm.pdf)
 
- > This paper proposes a two-stage tagging scheme for joint extraction of entities and relations. The performance significant beats all of the previous works in NYT and WebNLG.
 
+## Event_Centric_Temporal_Data_Mining
+1. Shih-Ting Lin, Nathanael Chambers, and Greg Durrett. [Conditional Generation of Temporally-ordered Event Sequences](https://arxiv.org/pdf/2012.15786.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2012.15786.pdf)
 
-4. Jose L. Martinez-Rodriguez, Ivan Lopez-Arevalo, Ana B.Rios-Alvarado. [OpenIE-based approach for Knowledge Graph construction from text](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client). Expert Systems With Applications 2018. [[Paper]](https://pdf.sciencedirectassets.com/271506/1-s2.0-S0957417418X00165/1-s2.0-S0957417418304329/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjED4aCXVzLWVhc3QtMSJGMEQCIA3ohrPdo7boQvq1LTJ2wp%2BI8zkd0OSZ7ShNgwyj%2B%2F43AiAUWIyly26BFYSkotjEuL9X8iEUScCvNzJ%2FaeZBIGSMzCq9Awi2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAIaDDA1OTAwMzU0Njg2NSIM%2BHiM4fz6ISwmcuenKpEDo0ziVKISF8txdSuZ2I%2FmugMt2lIK313P6IhGuovfRP%2FXZuv%2B%2BNnTzPFWkpaz4ofMdSGwYEKnY9bHJMYV76b%2B41%2BNxySRHqZpzXHgDADH%2B3sVvFxWKvuC8iZPcdX9yuP4OTat2EAf543NX1J2kuiKSKBwYpRrh81fTXGQG%2Fy0OdfPJ%2Fm10yugpzhdt2GgY0pxkg%2Bc5bTxkkgWidXW6OUVJlckodfhtIcY4s%2F%2B8NArMoepE3kirX6hXVgQR9S%2BC9S4ShFdWm37tuno%2Bzkz6%2F0zuLTMhHTMfNBpAmvT9m3YXDzrrDBJmakm0nW2z1CJL6cjSBCQl2bzpNCjy1hTBDHRXgAwS3cARE%2BKOUf3FUk2VVMulw4lQv5yYNjMBUJ4X6HOy9Dm4h9TrSCzZB0Lv9h2c6GMnQjgp3HQVrPm9WB%2Fn5hFZJ9bMZqo9Kj1TzB86NVWznBDpdBSxll7DVnxo%2BbkXwGsleZ3opGAIhPUJFVn43HPLeSbJqwmc8RglGBpLaEM8tnGDqY6j7ThwXl%2F1xSYgw4w8cvV8AU67AEZKxxBI48UGW5XWHOyWN3WnZvFG4AZ2SezILKz5yj5lFTOgdBaxTtcGBaOGCwyfIySMbIuvLUTBXM9OT52IUX0cTW7ehYaQzP%2B5fHUOGV4Ofm3IuvJa2cl5qcse0YpVd9k%2BzmFMAlBba6j3REQpVdj4KWFklPvWD2Sib9zgMNeANbG8%2FskLzWyavzQmijgdZF7OroCipWpZd1KLFPY773tantUINFGySHX6MpENwFxGg3yQXUoHI7C6dp2chsqYKtf%2Ba3T5NWKMCZSOTz8sLRap820jvrMtz14NYSQgFIwksYh9T3oW5%2BtMKYTKQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20200108T062644Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7E4AJOKW%2F20200108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=85e7da386ea15dbc0313f4f1bba012804ee1759a129eab2da4361c38610de29d&hash=f5ad470b414484ce55c3b0c2bea545160969673e8c40fbeff7deb79186def730&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0957417418304329&tid=spdf-ea805e4b-4fc0-4d92-ac90-a9690d02c4ea&sid=abfef43820011642c379fe87845e0f01115fgxrqa&type=client)
 
+2. Nathanael Chambers, Taylor Cassidy, Bill McDowell
+, and Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf). TACL 2014. [[Paper]](https://www.usna.edu/Users/cs/nchamber/pubs/tacl2014-caevo-chambers.pdf)
 
-5. Mohamed Al-Badrashiny, Jason Bolton, Arun Tejavsi Chaganty, et al. [TinkerBell: Cross-lingual Cold-Start Knowledge Base Construction](https://blender.cs.illinois.edu/paper/kbp2017tinkerbellsystem.pdf). TACL 2017. [[Paper]](https://blender.cs.illinois.edu/paper/kbp2017tinkerbellsystem.pdf)
 
 
-6. Jiaqing Liang, Yanghua Xiao, Haixun Wang, Yi Zhang, Wei Wang. [Probase+: Infering Missing Links in Conceptual Taxonomies](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). TKDE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
 
+## Event_Centric_Temporal_Knowledge_Graph
+1. Dinesh Raghu, Surag Nair, and Mausam. [Inferring Temporal Knowledge for Near-Periodic Recurrent Events](https://www.ijcai.org/Proceedings/2018/0598.pdf). IJCAI 2018. [[Paper]](https://www.ijcai.org/Proceedings/2018/0598.pdf)
 
-7. Bo Xu, Yong Xu, Jiaqing Liang, Chenhao Xie, Bin Liang, Wanyun Cui, Yanghua Xiao. [CN-DBpedia: A Never-Ending Chinese Knowledge Extraction System](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf). IEA/AIE 2017. [[Paper]](http://gdm.fudan.edu.cn/GDMWiki/attach/By%20Year/Probase%2B.pdf)
 
+2. Simon Gottschalk and Elena Demidova. [EventKG: A Multilingual Event-Centric Temporal Knowledge Graph](https://arxiv.org/pdf/1804.04526.pdf). ESWC 2018. [[Paper]](https://arxiv.org/pdf/1804.04526.pdf)
 
-8. Thomas Rebele, Fabian Suchanek, Johannes Hoffart, Joanna Biega, Erdal Kuzey, Gerhard Weikum. [YAGO: a multilingual knowledge base
-from Wikipedia, Wordnet, and Geonames](https://suchanek.name/work/publications/iswc-2016-yago.pdf). ISWC 2016. [[Paper]](https://suchanek.name/work/publications/iswc-2016-yago.pdf)
 
+## Evolution_Analysis_and_Prediction_based_Event
+1. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, Xiaojun Chang, and Chengqi Zhang. [Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](https://arxiv.org/pdf/2005.11650v1.pdf). KDD 2020. [[Paper]](https://arxiv.org/pdf/2005.11650v1.pdf)  
 
-9. Jiangang Zhu, Haofen Wang, Beijun Shen. [Software.zhishi.schema: A Software Programming Taxonomy Derived from Stackoverflow](http://ceur-ws.org/Vol-1486/paper_61.pdf). ISWC 2015. [[Paper]](http://ceur-ws.org/Vol-1486/paper_61.pdf)
 
+2. Jiaqi Liu, Qin Zhang, Luoyi Fu, Xinbing Wang, and Songwu Lu. [Evolving Knowledge Graphs](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf). Infocom 2019. [[Paper]](http://www.cs.sjtu.edu.cn/~fu-ly/paper/EvolvingKG.pdf)
 
-10. Farzaneh Mahdisoltani, Joanna Biega, Fabian M. Suchanek. [YAGO3: A Knowledge Base from Multilingual Wikipedias](https://suchanek.name/work/publications/cidr2015.pdf). CIDR 2015. [[Paper]](https://suchanek.name/work/publications/cidr2015.pdf)
 
+3. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Fusion 2016. [[Paper]](https://arxiv.org/pdf/1512.06900.pdf)
 
-11. Fredo Erxleben, Michael Günther, Markus Krötzsch,
-Julian Mendez, and Denny Vrandeciˇc. [Introducing Wikidata to the Linked Data Web](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_4.pdf). ISWC 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11964-9_4.pdf)
 
+4. 邱均平, 李小涛. [基于引文网络挖掘和时序分析的知识扩散研究](paper/knowledge_diffusion_research_based_citation_network.pdf). 计算机研究与发展 2017. [[Paper]](paper/knowledge_diffusion_research_based_citation_network.pdf)
 
-12. Xin Luna Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni Lao, Kevin Murphy, Thomas Strohmann, Shaohua Sun, Wei Zhang. [
-Knowledge Vault: A Web-Scale Approach to
-Probabilistic Knowledge Fusion](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf). KDD 2014. [[Paper]](https://www.cs.ubc.ca/~murphyk/Papers/kv-kdd14.pdf)
 
+5. Nathanael Chambers, Taylor Cassidy, Bill McDowell, and Steven Bethard. [Dense Event Ordering with a Multi-Pass Architecture](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182). TACL 2014. [[Paper]](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00182)
 
-13. Tianxing Wu, Shaowei Ling, Guilin Qi, Haofen Wang. [Mining Type Information from Chinese Online Encyclopedias](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf). JIST 2014. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15615-6_16.pdf)
 
 
-14. Zhigang Wang, Juan-Zi Li, Zhichun Wang, Shuangjie Li, Mingyang Li, Dongsheng Zhang, Yao Shi, Yongbin Liu, Peng Zhang, Jie Tang. [XLore: A Large-scale English-Chinese Bilingual Knowledge Graph](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024). ISWC 2013. [[Paper]](https://pdfs.semanticscholar.org/409e/b1ba2228d71e7a18c33c272f67ac95bc3297.pdf?_ga=2.16824381.505676872.1578454024-207020104.1578454024)
+## Deep_Spatial-Temporal_Graph_Modeling
+1. Wenjie Hu, Yang Yang, Ziqiang Cheng, Carl Yang, and Xiang Ren. [Time-Series Event Prediction with Evolutionary State Graph](https://export.arxiv.org/pdf/1905.05006). WSDM 2020. [[Paper]](https://export.arxiv.org/pdf/1905.05006). [[Report]](https://mp.weixin.qq.com/s/kDrp03oU4Iy2Ck8CXOAQJA)  
 
 
-15. Joanna Biega, Erdal Kuzey, Fabian M. Suchanek. [Inside YAGO2s: A Transparent Information Extraction Architecture](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf). WWW 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
+2. Songgaojun Deng, Huzefa Rangwala, and Yue Ning. [Dynamic Knowledge Graph based Multi-Event Forecasting
+](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). KDD 2020. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3394486.3403209). [[Report]](https://mp.weixin.qq.com/s/Txb4HdrQal2aXkSM17Rjxw)  
 
 
-16. Johannes Hoffarta, Fabian M. Suchanekb, Klaus Berbericha, Gerhard Weikuma. [YAGO2: A Spatially and Temporally Enhanced
-Knowledge Base from Wikipedia](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf). Artificial Intelligence 2013. [[Paper]](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/aij.pdf)
+3. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, and Davide Eynard. [Temporal Graph Networks for Deep Learning on Dynamic Graphs](https://arxiv.org/pdf/2006.10637.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/tgn_aisc_2020.pdf) [[Video]](https://mp.weixin.qq.com/s/xgiQsTLtWkC3eW49AnYsjA)
 
 
-17. Jens Lehmann, Robert Isele, Max Jakob, Anja Jentzsch, Dimitris Kontokostas, Pablo N. Mendesf, Sebastian Hellmann, Mohamed Morsey, Patrick van Kleef, Soren Auer, Christian Bizer. [DBpedia – A Large-scale, Multilingual Knowledge Base Extracted from Wikipedia](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf). Semantic Web 2012. [[Paper]](http://jens-lehmann.org/files/2014/swj_dbpedia.pdf)
+4. Yang Li, Buyue Qian, Xianli Zhang, and Hui Liu. [Knowledge guided diagnosis prediction via graph spatial-temporal network](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3). ICDM 2020. [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976236.3)
 
 
-18. Wentao Wu, Hongsong Li, Haixun Wang, Kenny Q. Zhu. [Probase: A Probabilistic Taxonomy for Text Understanding](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf). SIGMOD 2012. [[Paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/05/paper.pdf)
+5. Da Xu, Chuanwei Ruan, Evren Korpeoglu, Sushant Kumar, and Kannan Achan. [Inductive representation learning on temporal graphs](https://arxiv.org/pdf/2002.07962.pdf). ICLR 2020. [[Paper]](https://arxiv.org/pdf/2002.07962.pdf)
 
 
-19. Robert Speer, Catherine Havasi. [Representing General Relational Knowledge in ConceptNet 5](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf). IREC 2012. [[Paper]](http://www.lrec-conf.org/proceedings/lrec2012/pdf/1072_Paper.pdf)
+6. Zonghan Wu, Shirui Pan, Guodong Long, Jing Jiang, and Chengqi Zhang. [Graph WaveNet for Deep Spatial-Temporal Graph Modeling](https://www.ijcai.org/proceedings/2019/0264.pdf). IJCAI 2019. [[Paper]](https://www.ijcai.org/proceedings/2019/0264.pdf)[[Code]](https://github.com/nnzhan/Graph-WaveNet)
 
 
-20. Roberto Navigli, Simone Paolo Ponzetto. [BabelNet: The automatic construction, evaluation and application of a wide-coverage multilingual semantic network](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf). Artificial Intelligence, 2012. [[Paper]](http://wwwusers.di.uniroma1.it/~navigli/pubs/AIJ_2012_Navigli_Ponzetto.pdf)
+7. Woojeong Jin, He Jiang, Meng Qu, Tong Chen, Changlin Zhang, Pedro Szekely, and Xiang Ren. [Recurrent Event Network: Global Structure Inference over Temporal Knowledge Graph](https://arxiv.org/pdf/1904.05530.pdf). ICLR 2019. [[Paper]](https://arxiv.org/abs/1904.05530?context=cs.LG)[[Code]](https://github.com/INK-USC/RE-Net)[[论文导读 | TemporalGCN]](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
 
 
-21. Johannes Hoffart, Xinruo Sun, Fabian M. Suchanek, Klaus Berberich, Edwin Lewis-Kelham, Gerard de Melo, Gerhard Weikum. [YAGO2: Exploring and Querying World Knowledge in Time, Space, Context, and Many Languages](https://suchanek.name/work/publications/www2011demo.pdf). WWW 2011. [[Paper]](https://suchanek.name/work/publications/www2011demo.pdf)
+8. Zhining Liu, Dawei Zhou, and Jingrui He. [Towards Explainable Representation of Time-Evolving Graphs via Spatial-Temporal Graph Attention Networks](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true). CIKM 2019. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3357384.3358155?download=true)
 
 
-22. Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles,
-Estevam R. Hruschka Jr., Tom M. Mitchell1. [Toward An Architecture for Never-Ending Language Learning](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf). AAAI 2010. [[Paper]](http://rtw.ml.cmu.edu/papers/carlson-aaai10.pdf)
+9. Zhendong Chu, Renqin Cai, and Hongning Wang. [Accounting for Temporal Dynamics in Modeling Document Streams](https://). CIKM 2019. [[Paper]](https:)
 
 
-23. Xing Niu, Xinruo Sun, Haofen Wang, Shu Rong, Guilin Qi, Yong Yu. [Zhishi.me - Weaving Chinese Linking Open Data](http://xingniu.org/pub/zhishi.me_iswc11.pdf). ISWC 2011. [[Paper]](http://xingniu.org/pub/zhishi.me_iswc11.pdf)
+10. Lei Bai, Lina Yao, Salil S. Kanhere, Xianzhi Wang, Wei Liu, and Zheng Yang. [Spatio-Temporal Graph Convolutional and Recurrent Networks for Citywide Passenger Demand Prediction](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf). CIKM 2019. [[Paper]](paper/Spatio-Temporal_Graph_Convolutional_and_Recurrent_.pdf)
 
 
-24. Kurt Bollacker, Colin Evans, Praveen Paritosh, Tim Sturge, Jamie Taylor. [Freebase: A Collaboratively Created Graph Database For Structuring Human Knowledge](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true). SIGMOD 2008. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/1376616.1376746?download=true)
+11. Yuanfu Lu, Xiao Wang, Chuan Shi, Philip S.Yu, and Yanfang Ye. [Temporal Network Embedding with Micro- and Macro-dynamics](https://arxiv.org/pdf/1909.04246v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.04246v1.pdf)
 
 
-25. Fabian M. Suchanek, Gjergji Kasneci, Gerhard Weikum. [YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://suchanek.name/work/publications/www2007.pdf). WWW 2007. [[Paper]](https://suchanek.name/work/publications/www2007.pdf)
+12. Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B.Schardl, and Charles E. Leiserson. [EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs](https://arxiv.org/pdf/1902.10191.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1902.10191.pdf)
 
 
-26. George A.Miller. [WordNet: A Lexical Database for English](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf). Communications of the ACM, 1995. [[Paper]](http://l2r.cs.uiuc.edu/Teaching/CS598-05/Papers/miller95.pdf)
+13. Yuan Zuo, Guannan Liu, Hao Lin, Jia Guo, Xiaoqian Hu, and Junjie Wu. [Embedding Temporal Network via Neighborhood Formation](https://zuoyuan.github.io/files/htne_kdd18.pdf). KDD 2018. [[Paper]](https://zuoyuan.github.io/files/htne_kdd18.pdf)
 
 
-27. George A.Miller. [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf). Communications of the ACM, 1995. [[Paper]](https://homepage.univie.ac.at/nicole.rossmanith/concepts/papers/lenat1995cyc-2.pdf)
+14. Xiaohan Li, Mengqi Zhang, Shu Wu, Zheng Liu, Liang Wang, and Philip S. Yu. [Dynamic Graph Collaborative Filtering](https://deepai.org/publication/dynamic-graph-collaborative-filtering). Arxiv 2021. [[Paper]](https://deepai.org/publication/dynamic-graph-collaborative-filtering)
 
 
-## Specified_Knowledge_Graph_Construction
-1. Qingyun Wang, Manling Li, et al. [COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation](https://arxiv.org/pdf/2007.00576.pdf). Arxiv 2020. [[Paper]](https://arxiv.org/pdf/2007.00576.pdf)
+15. Baoyu Jing, Hanghang Tong, and Yada Zhu. [Network of Tensor Time Series](https://arxiv.org/pdf/2102.07736.pdf). WWW 2021. [[Paper]](https://arxiv.org/pdf/2102.07736.pdf)
 
 
-2. Yongpan Sheng, Zenglin Xu, Yafang Wang, Gerard de Melo. [Multi-document semantic relation extraction for news
-analytics](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf). WWWJ 2020. [[Paper]](https://link.springer.com/content/pdf/10.1007/s11280-020-00790-2.pdf)
 
+16. Emanuele Rossi, Ben Chamberlain, Fabrizio Frasca, et al. [Temporal Graph Networks for Deep Learning on Dynamic Graphss](https://arxiv.org/abs/2006.10637). Arxiv 2020. [[Paper]](https://arxiv.org/abs/2006.10637)
 
-3. Tianwen Jiang, Qingkai Zeng, Tong Zhao, Bing Qin, Ting Liu, Nitesh Chawla, Meng Jiang. [Biomedical Knowledge Graphs Construction from Conditional Statements](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9034075). TCBB 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9034075)
 
 
-4. Wei Zheng, Zhichun Wang, Mingchen Sun, Yanrong Wu, Kaiman Li. [Building a Large-Scale Knowledge Graph for Elementary Education in China](https://link.springer.com/content/pdf/10.1007%2F978-981-15-3412-6_1.pdf). JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-981-15-3412-6_1.pdf)
+## Embedding_Learning_of_Temporal_Knowledge_Graph
+1. Yugang Ji, MingYang Yin, Yuan Fang, et. al. [Temporal Heterogeneous Interaction Graph Embedding For Next-Item Recommendation](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6160&context=sis_research) ECML-PKDD 2020. [[Paper]](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6160&context=sis_research)
 
 
-5. Yu Song, Linkun Cai, Kunli Zhang, Hongying Zan, Tao Liu, Xiaohui Ren. [Construction of Chinese Pediatric Medical Knowledge Graph](https://link.springer.com/content/pdf/10.1007%2F978-981-15-3412-6_21.pdf). JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-981-15-3412-6_21.pdf)
 
+2. Manling Li, Qi Zeng, Ying Lin, et. al. [Connecting the Dots: Event Graph Schema Induction with Path Language Modeling
+](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf) EMNLP 2020. [[Paper]](https://blender.cs.illinois.edu/paper/eventgraphschema2020.pdf)
 
-6. Yantao Jia, Dong Liu, Zhicheng Sheng, Letian Feng, Yi Liu, Shuo Guo. [EasyKG: An End-to-End Knowledge Graph Construction System](https://link.springer.com/content/pdf/10.1007%2F978-981-15-3412-6_22.pdf). JIST 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-981-15-3412-6_22.pdf)
 
+3. Prachi Jain, Sushant Rathi, Mausam, and Soumen Chakrabarti. [Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols](https://www.aclweb.org/anthology/2020.emnlp-main.305.pdf) EMNLP 2020. [[Paper]](https://www.aclweb.org/anthology/2020.emnlp-main.305.pdf)
 
-7. Sheng Bi, Yanhui Huang, Xiya Cheng, Meng Wang, Guilin Qi. [Building Chinese Legal Hybrid Knowledge Network](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf). KSEM 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29551-6_56.pdf)
 
+4. Zhen Han, Peng Chen, Yunpu Ma, and Volker Tresp. [DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2011.03984) EMNLP 2020. [[Paper]](https://arxiv.org/abs/2011.03984)
 
-8. Tianwen Jiang, Tong Zhao, Bing Qin, Ting Liu, Nitesh V. Chawla, Meng Jiang. [Constructing Information-Lossless Biological Knowledge
-Graphs from Conditional Statements](https://arxiv.org/pdf/1907.00720.pdf). BIOKDD 2019. [[Paper]](https://arxiv.org/pdf/1907.00720.pdf)
 
+5. Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, and William L. Hamilton. [TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion](https://arxiv.org/abs/2010.03526) EMNLP 2020. [[Paper]](https://arxiv.org/abs/2010.03526)
 
-9. Steven Haussmann, Oshani Seneviratne, Yu Chen, Yarden Ne’eman, James Codella, Ching-Hua Chen, Deborah L. McGuinness, Mohammed J. Zaki. [FoodKG: A Semantics-Driven Knowledge Graph for Food Recommendation](https://link.springer.com/content/pdf/10.1007%2F978-3-030-30796-7_10.pdf). ISWC 2019. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-30796-7_10.pdf)
 
+6. Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, and Hamed Shariat Yazdi. [TeRo: A Time-aware Knowledge Graph Embedding via Temporal
+Rotation](https://arxiv.org/pdf/2010.01029.pdf). COLING 2020. [[Paper]](https://arxiv.org/pdf/2010.01029.pdf)
 
-10. Yongpan Sheng, Zenglin Xu, Yafang Wang, Xiangyu Zhang, Jia Jia, Zhonghui You, Gerard de Melo. [Visualizing Multi-Document Semantics via Open Domain Information Extraction](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10997-4_54.pdf). ECML-PKDD 2018. [[Paper]](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)
 
+7. Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi, and Jens Lehmann. [Temporal Knowledge Graph Completion based on Time Series Gaussian Embedding](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_37). ISWC 2020. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-62419-4_37)
 
-11. Marieke van Erp, Melvin Wevers, Hugo Huurdeman. [Constructing a Recipe Web from Historical Newspapers](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_13.pdf). ISWC 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_13.pdf)
 
+8. Zhen Han, Yunpu Ma, Yuyi Wang, Stephan G¨unnemann, and Volker Tresp. [Graph Hawkes Neural Network for Forecasting on Temporal Knowledge Graphs](https://www.akbc.ws/2020/assets/pdfs/kXVazet_cB.pdf). AKBC 2020. [[Paper]](https://www.akbc.ws/2020/assets/pdfs/kXVazet_cB.pdf)
 
-12. Penghe Chen, Yu Lu, Vincent W.Zheng, Xiyang Chen, Xiaoqing Li. [An Automatic Knowledge Graph Construction System for K-12 Education](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698?download=true). ACM Conference on Learning @ Scale 2018. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3231644.3231698?download=true)
 
+9. Timothée Lacroix, Guillaume Obozinski, and Nicolas Usunier. [Tensor Decompositions for temporal knowledge base completion](https://arxiv.org/pdf/2004.04926.pdf). ICLR 2020. [[Paper]](https://arxiv.org/pdf/2004.04926.pdf)
 
-13. Heng Weng, Ziqing Liu, Shixing Yan, Meiyu Fan, Aihua Ou, Dacan Chen, Tianyong Hao. [A Framework for Automated Knowledge Graph Construction Towards Traditional Chinese Medicine](https://link.springer.com/content/pdf/10.1007%2F978-3-319-69182-4_18.pdf). HIS 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-69182-4_18.pdf)
 
+10. Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, and Pascal Poupart. [Diachronic Embedding for Temporal Knowledge Graph Completion](https://arxiv.org/pdf/1907.03143.pdf). AAAI 2020. [[Paper]](https://arxiv.org/abs/1907.03143)
 
-14. Longxiang Shi, Shijian Li, Xiaoran Yang, Jiaheng Qi, Gang Pan, Binbin Zhou. [Semantic Health Knowledge Graph: Semantic Integration of Heterogeneous Medical Knowledge and Services](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf). BioMed Research International 2017. [[Paper]](http://downloads.hindawi.com/journals/bmri/2017/2858423.pdf)
 
+11. Tianxing Wu, Arijit Khan, Huan Gao, and Cheng Li. [Efficiently Embedding Dynamic Knowledge Graphs](https://arxiv.org/pdf/1910.06708.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/abs/1910.06708)
 
-15. Tianxing Wu, Cong Gao, Guilin Qi, Lei Zhang, Chuanqi Dong, He Liu, Du Zhang. [KG-Buddhism: The Chinese Knowledge Graph on Buddhism](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70682-5_17.pdf). JIST 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70682-5_17.pdf)
 
+12. Aravind Sankar, Yanhong Wu, Liang Gou, Wei Zhang, and Hao Yang. [Dynamic Graph Representation Learning via Self-Attention Networks](https://arxiv.org/pdf/1812.09430.pdf). Workshop in ICLR 2019. [[Paper]](https://arxiv.org/pdf/1812.09430.pdf)[[Code]](https://github.com/aravindsankar28/DySAT)
 
-16. Jie Tang, Jing Zhang, Limin Yao, Juanzi Li, Li Zhang, Zhong Su. [ArnetMiner: Extraction and Mining of Academic Social Networks](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf). KDD 2008. [[Paper]](http://keg.cs.tsinghua.edu.cn/jietang/publications/KDD08-Tang-et-al-ArnetMiner.pdf)
 
+13. Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, and Hongyuan Zha. [DYREP: Learning Representations over Dynamic Graphs](https://openreview.net/pdf?id=HyePrhR5KX). ICLR 2019. [[Paper]](https://openreview.net/pdf?id=HyePrhR5KX)
 
-17. 周园春, 王卫军, 乔子越, 肖濛, 杜一. [科技大数据知识图谱构建方法及应用研究综述](https://engine.scichina.com/publisher/scp/journal/SSI/50/7/10.1360/SSI-2019-0271?slug=abstract). 中国科学：信息科学 2020. [[Paper]](https://engine.scichina.com/publisher/scp/journal/SSI/50/7/10.1360/SSI-2019-0271?slug=abstract)
 
+14. Boris Knyazev, Carolyn Augusta, and Graham W. Taylor. [Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions](https://arxiv.org/pdf/1909.10367v1.pdf). Arxiv 2019. [[Paper]](https://arxiv.org/pdf/1909.10367v1.pdf)[[Code]](https://github.com/uoguelph-mlrg/LDG)
 
-18. 杨玉基, 许斌, 胡家威, 仝美涵, 张鹏, 郑莉. [一种准确而高效的领域知识图谱构建方法](http://www.jos.org.cn/ch/reader/download_pdf.aspx?file_no=5552&year_id=2018&quarter_id=10&falg=1). 软件学报 2018. [[Paper]](http://www.jos.org.cn/ch/reader/download_pdf.aspx?file_no=5552&year_id=2018&quarter_id=10&falg=1)
 
+15. Alberto Garc´ıa-Duran, Sebastijan Dumanciˇ c´, and Mathias Niepert. [Learning Sequence Encoders for Temporal Knowledge Graph Completion](https://www.aclweb.org/anthology/D18-1516.pdf). EMNLP 2018. [[Paper]](https://www.aclweb.org/anthology/D18-1516/)[[Code]](https://github.com/bsantraigi/TA_TransE)
 
-19. 袁凯琦, 邓扬, 陈道源, 张冰, 雷凯, 沈 颖
-. [医学知识图谱构建技术与研究进展](paper/医学知识图谱构建技术与研究进展_袁凯琦.pdf). 计算机应用研究 2017年第35卷第7期. [[Paper]](paper/医学知识图谱构建技术与研究进展_袁凯琦.pdf)
 
+16. Shib Sankar Dasgupta, Swayambhu Nath Ray, and Partha Talukdar. [HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding](http://talukdar.net/papers/emnlp2018_HyTE.pdf). EMNLP 2018. [[Paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)[[Code]](https://github.com/malllabiisc/HyTE)
 
-20. 蒋秉川, 万刚, 许剑, 李锋, 温荟琦. [多源异构数据的大规模地理知识图谱构建](paper/多源异构数据的大规模地理知识图谱构建.pdf). 测绘学报 2018 第8期. [[Paper]](paper/多源异构数据的大规模地理知识图谱构建.pdf)
 
+17. Julien Leblay and Melisachew Wudage Chekol. [Deriving Validity Time in Knowledge Graph](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f). WWW 2018. [[Paper]](http://delivery.acm.org/10.1145/3200000/3191639/p1771-leblay.pdf?ip=166.111.68.66&id=3191639&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1576559641_ddadf07828bb77c3beef18fea5fccc8f)
 
-21. 温雯, 伍思杰, 蔡瑞初, 郝志峰, 王丽娟. [KECVS: 一个面向专业文献知识实体的类型标注及可视化系统](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf). 计算机应用与软件 2017年第8期. [[Paper]](paper/KECVS_一个面向专业文献知识实体的类型标注及可视化系统_温雯.pdf)
 
+18. Federico Bianchi, Matteo Palmonari, and Debora Nozza. [Towards Encoding Time in Text-Based Entity Embeddings](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_4.pdf). ISWC 2018. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00671-6_4.pdf)
 
-22. 阮彤, 孙程琳, 王昊奋, 方之家, 殷亦超. [中医药知识图谱构建与应用](paper/中医药知识图谱构建与应用_阮彤.pdf). 医学信息学杂志 2016年第37卷第4期. [[Paper]](paper/中医药知识图谱构建与应用_阮彤.pdf)
 
+19. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Sujian Li, Baobao Chang, and  Zhifang Sui. [Encoding Temporal Information for Time-Aware Link Prediction](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf). EMNLP 2016. [[Paper]](https://tyliupku.github.io/papers/emnlp2016_jiang.pdf)
 
-23. 李茂君, 农玉红. [我国当前翻译研究热点的知识图谱可视化分析](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf). 上海翻译 2016年第4期. [[Paper]](paper/我国当前翻译研究热点的知识图谱可视化分析_李茂君.pdf)
 
+20. Tingsong Jiang, Tianyu Liu, Tao Ge, Lei Sha, Baobao Chang, Sujian Li, and Zhifang Sui. [Towards Time-Aware Knowledge Graph Completion](https://www.aclweb.org/anthology/C16-1161.pdf). COLING 2016. [[Paper]](https://www.aclweb.org/anthology/C16-1161.pdf)
 
-24. 杜亚军, 吴越. [微博知识图谱构建方法研究](paper/微博知识图谱构建方法研究_杜亚军.pdf). 西华大学学报（自然科学版） 2015 第1期. [[Paper]](paper/微博知识图谱构建方法研究_杜亚军.pdf)
 
+21. Crist´obal Esteban, Volker Tresp, Yinchong Yang, Stephan Baier, and Denis Krompaß. [Predicting the Co-Evolution of Event and Knowledge Graphs](https://arxiv.org/pdf/1512.06900.pdf). Arxiv 2015. [[Paper]](https://arxiv.org/abs/1512.06900?context=cs)
 
-25. 贾李蓉, 刘静, 于彤, 董燕, 朱玲, 高博, 刘丽. [中医药知识图谱构建](paper/中医药知识图谱构建_贾李蓉.pdf). 医学信息学杂志 2015年第36卷第8期. [[Paper]](paper/中医药知识图谱构建_贾李蓉.pdf)
 
+22. 陈德华, 殷苏娜, 乐嘉锦, 王梅, 潘乔, 朱立峰. [一种面向临床领域时序知识图谱的链接预测模型](paper/A_Linkprediction_model_for_CTKG.pdf). 计算机研究与发展 2017. [[Paper]](paper/A_Linkprediction_model_for_CTKG.pdf)
 
-26. 熊晶, 钟珞, 王爱民. [甲骨文知识图谱构建中的实体关系发现研究](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf). 计算机工程与科学 2015年第37卷第11期. [[Paper]](paper/甲骨文知识图谱构建中的实体关系发现研究.pdf)
 
+23. Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, and Yan Zhang. [Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks](https://arxiv.org/pdf/2012.08492.pdf). Arxiv 2015. [[Paper]](https://arxiv.org/pdf/2012.08492.pdf) [[Report]](https://mp.weixin.qq.com/s/RyVXvOGdPYPigGQN0UgBUA)
 
-[Auto-Text to Knowledge (介绍几个专门面向中文的命名实体识别和关系抽取工具)](https://zhuanlan.zhihu.com/p/268625650?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_campaign=shareopn). 2020.10.26 知乎. 
 
+24. Jiapeng Wu, Yishi Wu, Yingxue Zhang, et, al. [TIE: A Framework for Embedding-based Incremental Temporal Knowledge Graph Completion](https://arxiv.org/pdf/2104.08419.pdf). Sigir 2021. [[Paper]](https://arxiv.org/pdf/2104.08419.pdf) [[Report]](https://www.zhuanzhi.ai/vip/7f3fa2462edfd47444bf742208545930)
 
-[2020 WAIC明略科技吴信东深度解读知识图谱的自动构建](http://tech.163.com/20/0713/16/FHE8C8F000099A7M.html). 2020.07.13 大众新闻. 
 
+
+25. 申宇铭, 杜剑峰. [时态知识图谱补全的方法及其进展](http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021024). 大数据 2021. [[Paper]](http://www.infocomm-journal.com/bdr/CN/10.11959/j.issn.2096-0271.2021024) [[Report]](https://mp.weixin.qq.com/s/V12VazZLdGEpowJ6X_jaxw)
+
+
+
+[三大顶会看动态图表示学习](https://mp.weixin.qq.com/s/Dft_S-qqiXJJmVidEpTGeA)
+
+
+[图系列 # 7篇动态时空图网络学习必读的顶会论文](https://mp.weixin.qq.com/s/XbCYkirF9_Z_KjuBpnZCxQ)
+
+
+[知识图谱 # 最近三年知识图谱在动态以及时间预测与补全上必读的6篇论文](https://mp.weixin.qq.com/s/UIgPcv1z7SuCCN6UruNl-A)
+
+
+[论文导读 | TemporalGCN](https://mp.weixin.qq.com/s/o6eDGiA8uUPBOgDDe0R1Lw)
+
+
+[论文浅尝 | 让“演进知识图谱”带你“瞻前顾后”看世界](https://mp.weixin.qq.com/s/VcvxFGjgt-ldrC3TPiPg7w)
+
+
+[【资源推荐】 时序处理文献/代码/数据集及相关资源大列表](https://mp.weixin.qq.com/s/xJBaw9usSJ-ldeBZlZ5t-A)
+
+
+[论文导读 | 社交网络上的信息传播预测](https://mp.weixin.qq.com/s/ryDcTqS1W4j8GJOEkc1Lrw)
+
+
+[时态图网络：即使很久不发朋友圈，也能知道你的新兴趣](https://mp.weixin.qq.com/s/0wzzbNsqhT4LEvb-XsF9ng)
+
+
+[【KDD2020】基于动态知识图谱的多事件预测](https://mp.weixin.qq.com/s/hk6V_VUnyPpQZ6lJB-SedQ)
+
+
+[论文导读 | 动态图上神经网络模型综述](https://mp.weixin.qq.com/s/g6OobMcyb35ybLMGmeq_aA)
+
+
+[图神经网络如何时序化？看Twitter最新《动态图深度学习:时序图网络TGN》研究（含论文与PPT）](https://mp.weixin.qq.com/s/O7oybCzWKvlNhsCB2k6KBA)[[Paper]](https://arxiv.org/pdf/2006.10637.pdf) [[PPT]](https://www.emanuelerossi.co.uk/assets/pdf/TGN_2021_01_22.pdf)
+
+
+
+[历史预测未来？国防科大新模型实现未来事实预测SOTA）](https://mp.weixin.qq.com/s/vR8sUPPWQiPZnprrAw2uZw)[[Paper]](https://arxiv.org/abs/2012.08492) [[Code]](https://github.com/CunchaoZ/CyGNet)
+
+
+
+[Temporal Knowledge Graph（时序知识图谱论文梳理一）](https://zhuanlan.zhihu.com/p/340981892?utm_source=wechat_session&utm_medium=social&s_r=0) | [AAAI2021 时序知识图谱论文译读（时序知识图谱论文梳理二）](https://zhuanlan.zhihu.com/p/348170848?utm_source=wechat_session&utm_medium=social&utm_oi=675293261783109632&utm_campaign=shareopn) 
+
+
+[知识图谱最新权威综述论文解读：时序知识图谱部分](https://mp.weixin.qq.com/s/bL71NAJu5XAiW50QTiglXg)
+
+
+[【知识图谱系列】动态知识图谱表示学习综述 | 十篇优秀论文导读](https://mp.weixin.qq.com/s/wGzvXnotEItcazjuawl26w) [[PPT]](./ppt/动态知识图谱综述.ppt)
+
+
+[Dynamic Graph Representation Learning](http://web.cs.ucla.edu/~patricia.xiao/files/Paper_Reading_Group_20201006.pdf) 
+
+
+[AAAI 2021 | 用于图拓扑演化的深度图谱进化网络](https://mp.weixin.qq.com/s/QdgQgPuAAoiJzU1Ik4Kqbw) 
+
+
+
+## Temporal_Knowledge_Graph_Curation_and_Visulization
+1. Tong Ge, Yafang Wang, Gerard de Melo, Haofeng Li, and Baoquan Chen. [Visualizing and Curating Knowledge Graphs over Time and Space](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf). ACL 2016. [[Paper]](https://cfcs.pku.edu.cn/baoquan/docs/20180622092332092707.pdf)
+
+
+## Temporal_QA
+1. Camille Bourgaux and Anni-Yasmin Turhan. [Temporal Query Answering in DL-Lite over Inconsistent Data](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf). ISWC 2017. [[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68288-4_8.pdf)
+
+
+## Temporal_Commonsense_Understanding
+1. Ben Zhou, Qiang Ning, Daniel Khashabi, and Dan Roth. [Temporal Common Sense Acquisition with Minimal Supervision](https://www.aclweb.org/anthology/2020.acl-main.678.pdf). ACL 2020. [[Paper]](https://www.aclweb.org/anthology/2020.acl-main.678.pdf)
+
+
+2. Ben Zhou, Daniel Khashabi, Qiang Ning, and Dan Roth. [“Going on a vacation” takes longer than “Going for a walk”: A Study of Temporal Commonsense Understanding](https://www.aclweb.org/anthology/D19-1332.pdf). EMNLP 2019. [[Paper]](https://www.aclweb.org/anthology/D19-1332.pdf)
+
+
+
+## IR_for_Spatio_Temporal_Graphs 
+1. Zheyi Pan, Songyu Ke, Xiaodu Yang, et al. [AutoSTG: Neural Architecture Search for Predictions of Spatio-Temporal Graphs](http://panzheyi.cc/publication/pan2021autostg/paper.pdf). WWW 2021. [[Paper]](http://panzheyi.cc/publication/pan2021autostg/paper.pdf)
+
+
+
+## Thesis
+1. Yafang Wang. [Methods and Tools for Temporal Knowledge Harvesting](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf). Dissertation 2013. [[Paper]](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/26475/1/phd_thesis.pdf)
 
 
 
 ## Tools
-1. [OpenNE-Pytorch：开源网络嵌入工具包](https://mp.weixin.qq.com/s?__biz=MzUxODI3MTcwNQ==&mid=2247486119&idx=1&sn=93d4c22a4a9884d29e0b50c73643ac80&chksm=f98a2d11cefda407a415467e13448294a6870b57b60b76f44a9c5c4b49fb0a155de6330ec8fe&mpshare=1&scene=1&srcid=07292qwFoilorUubD7KM58fe&sharer_sharetime=1596033295021&sharer_shareid=6a8a89e40ac625725a7e138018e905a5&key=349ef81838e6cf3c548cdb5d95966f4e4ca7f7fe661443d038458e38398b7981060f39d8768728b772e679818b99e9c0030a6acbd31426fbface3ab60e27cd6c0d9ebbafb656c0ef40645bb4b208818b&ascene=1&uin=NjI1MjE3OTQy&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AfEvL0%2BcaP%2FM%2BkN8Zf74KDM%3D&pass_ticket=sB%2BOY2Wz8kMm5N9TvFmVlYp6BtrM7A7AVcYZIYR4YzIbaXWHxnkTuYpi2VemZ4%2BE)
-
-
-2. [Deep Graph Library](https://www.dgl.ai/)
+[Facebook时序工具库Kats||一个很好的快速制定baseline的库](https://mp.weixin.qq.com/s/xjdhoayIiBEPwQEaAcgHHQ). 
 
 
 
-<!-- ## 学术江湖 -->
-
-
-
-
+updated in 2021.04.24
