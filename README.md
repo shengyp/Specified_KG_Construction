@@ -127,7 +127,7 @@ Table of Contents
 [整理了近五年顶会都收录了哪些实体链接文章](https://mp.weixin.qq.com/s/-LNUOfPqK0qxlOxOx_usGQ)  
 
 
-[【专家视角】解读知识图谱在教育智能化中的应用（上）](https://mp.weixin.qq.com/s/EdhPsYUOQnSgGYnWgBCH-Q) | [【专家视角】解读知识图谱在教育智能化中的应用（下）](https://mp.weixin.qq.com/s/TZbRnBxApKWyzv6rbDYfrQ)
+[【专家视角】解读知识图谱在教育智能化中的应用（上）](https://mp.weixin.qq.com/s/EdhPsYUOQnSgGYnWgBCH-Q) | [【专家视角】解读知识图谱在教育智能化中的应用（下）](https://mp.weixin.qq.com/s/TZbRnBxApKWyzv6rbDYfrQ) | [【专家观点】肖仰华｜教育知识图谱: 机遇与挑战](https://mp.weixin.qq.com/s/0xIPrD-DGHK2f81IXMJVVg)
 
 
 
