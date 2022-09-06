@@ -130,6 +130,9 @@ Table of Contents
 [【专家视角】解读知识图谱在教育智能化中的应用（上）](https://mp.weixin.qq.com/s/EdhPsYUOQnSgGYnWgBCH-Q) | [【专家视角】解读知识图谱在教育智能化中的应用（下）](https://mp.weixin.qq.com/s/TZbRnBxApKWyzv6rbDYfrQ) | [【专家观点】肖仰华｜教育知识图谱: 机遇与挑战](https://mp.weixin.qq.com/s/0xIPrD-DGHK2f81IXMJVVg)
 
 
+[知识图谱可视化技术在美团的实践与探索](https://zhuanlan.zhihu.com/p/502878271?utm_source=wechat_session&utm_medium=social&s_r=0)  
+
+
 
 ## Eventic_Graph_Construction
 1. Xiao Ding, Zhongyang Li, Ting Liu, Kuo Liao. [ELG: An Event Logic Graph](https://arxiv.org/pdf/1907.08015.pdf). arxiv 2019. [[Paper]](https://arxiv.org/pdf/1907.08015.pdf)
